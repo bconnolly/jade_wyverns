@@ -1,0 +1,1032 @@
+{
+    "json_version": 0x2,
+    "name": "6108 - Character_Sheet.g1t",
+    "version": 0x3c,
+    "platform": "Windows",
+    "textures": [
+        {
+            "name": "000.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "001.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "002.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "003.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "004.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "005.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "006.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "007.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "008.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "009.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "010.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "011.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "012.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "013.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "014.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "015.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "016.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "017.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "018.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "019.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "020.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "021.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "022.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "023.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "024.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "025.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "026.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "027.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "028.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "029.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "030.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "031.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "032.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "033.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "034.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "035.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "036.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "037.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "038.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "039.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "040.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "041.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "042.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "043.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "044.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "045.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "046.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "047.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "048.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "049.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "050.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "051.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "052.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "053.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "054.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "055.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "056.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "057.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "058.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "059.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "060.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "061.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "062.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "063.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "064.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "065.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "066.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "067.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "068.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "069.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "070.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "071.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "072.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "073.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "074.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "075.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "076.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "077.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "078.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "079.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "080.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "081.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "082.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "083.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "084.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "085.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "086.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "087.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "088.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "089.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "090.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "091.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "092.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "093.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "094.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "095.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "096.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "097.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "098.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "099.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "100.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "101.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "102.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "103.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "104.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "105.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "106.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "107.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "108.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "109.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "110.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "111.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "112.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "113.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "114.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "115.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "116.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "117.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "118.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "119.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "120.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "121.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "122.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "123.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "124.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "125.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "126.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "127.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        }
+    ]
+}

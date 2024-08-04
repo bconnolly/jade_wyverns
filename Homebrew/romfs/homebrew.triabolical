@@ -1,0 +1,9 @@
+Triabolical Project File
+Version: 0.9.8 Discord tester Version
+Project Name: Homebrew
+Flags: 8 1 1 0 0 0 0 0 0
+romFS: C:\Users\Shado\AppData\Roaming\yuzu\load\010055D009F78000\Homebrew\romfs
+scenario: patch4\nx\data
+event: mods
+data: data
+icons: C:\Users\Shado\AppData\Roaming\yuzu\load\010055D009F78000\Homebrew\romfs\asset.png
