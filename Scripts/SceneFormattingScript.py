@@ -12,9 +12,16 @@ secondNumber = int(input("Input the 1st Header number: "))
 
 DIALOG_COLUMN = 10
 
+
+#compare this to the javascript version. I think this script can be improved.
+#also, make the changes in this repo, so phoebe and Hues and receive this version.
+
 # Generates the first line and adds it to the front of the list of lists
 def generateExtractedCSVArray(csvFile):
-    lineCount = 0
+    
+    #I think this can start at -1 and change the variable to LineNo, to maintain
+    #consistency with my other script.
+    lineCount = -1
     linesToAdd = []
     innerCount = 0
     charLine = ""
@@ -26,11 +33,15 @@ def generateExtractedCSVArray(csvFile):
         charLine += cell_value
 
         if (innerCount + 1) % 3 == 0:
+
+            #have lineCount be incremented here?
+            lineCount += 1
             textFileLine = [f'Line {lineCount}: ', charLine]
             linesToAdd.append(textFileLine)
-            lineCount += 1
-            charLine = ""
             
+            charLine = ""
+
+        #do I even need this anymore?    
         else:
             charLine += '\0'  # Add delimiter for data within a set of three rows
 
