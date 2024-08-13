@@ -1,0 +1,146 @@
+BSI	30000	6610230
+Event	0
+	Trigger: 10000 1 1536 0
+	Conditions:
+	99998 0 1 2
+		30 0
+
+	Actions:	
+
+EndEvent
+Event	1
+	Trigger: 10000 2 0 0
+	Conditions:
+	99998 0 2 10
+		99998 0 1 2
+			30 0
+		99998 0 0 0
+
+	Actions:	
+	380 70 24 12 24 19 0 0
+EndEvent
+Event	2
+	Trigger: 12000 1 1536 0
+	Conditions:
+	99998 0 1 2
+		170 0
+
+	Actions:	
+
+EndEvent
+Event	3
+	Trigger: 1999 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	4
+	Trigger: 2000 0 3 0
+	Conditions:
+	99998 0 1 10
+		99998 0 1 6
+			220 0 2 2 0 0
+
+	Actions:	
+	440 23 1
+EndEvent
+Event	5
+	Trigger: 2000 0 3 0
+	Conditions:
+	99998 0 1 10
+		99998 0 1 6
+			220 0 3 2 0 0
+
+	Actions:	
+	440 22 1
+EndEvent
+Event	6
+	Trigger: 2000 0 3 0
+	Conditions:
+	99998 0 1 10
+		99998 0 1 6
+			220 0 4 2 0 0
+
+	Actions:	
+	440 20 1
+EndEvent
+Event	7
+	Trigger: 2000 0 3 0
+	Conditions:
+	99998 0 1 10
+		99998 0 1 6
+			220 0 5 2 0 0
+
+	Actions:	
+	440 50 1
+EndEvent
+Event	8
+	Trigger: 1999 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	9
+	Trigger: 0 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	10
+	Trigger: 0 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	11
+	Trigger: 2000 2 1536 0
+	Conditions:
+	99998 0 1 8
+		110 0 70 24 12 24 19 0
+
+	Actions:	
+	160 70 0 1 0 1
+EndEvent
+Event	12
+	Trigger: 0 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	13
+	Trigger: 0 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
+Event	14
+	Trigger: 0 0 13 0
+	Conditions:
+	99998 0 1 16
+		99998 0 2 12
+			120 0 1 0 0 2
+			120 0 3 0 0 2
+
+	Actions:	
+	90 0	700 118	700 119	700 120	700 121	700 122	700 123	700 124	700 125	700 126	700 127	700 128	700 129
+EndEvent
+Event	15
+	Trigger: 0 1 1536 0
+	Conditions:
+	99998 0 0 0
+
+	Actions:	
+
+EndEvent
