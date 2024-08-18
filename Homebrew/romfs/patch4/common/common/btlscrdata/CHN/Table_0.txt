@@ -1,0 +1,6004 @@
+Header: 1264728	8	1200	32	24
+Flags: 0 0 0 1 1 1 1 1 
+Lines per Entry: 3
+
+Entry 0: 42187	-1	-1	3	0	
+	Line 0: 大家抱歉……我就到此为止了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1: 42214	-1	-1	3	0	
+	Line 0: 大家，对不起……我到此为止了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 2: 42241	-1	-1	3	0	
+	Line 0: 我竟然……处于下风……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 3: 42268	-1	-1	3	0	
+	Line 0: 就只能承认败北了吗……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 4: 42309	-1	-1	3	0	
+	Line 0: 是我想得太天真……\n抱歉，已经束手无策了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 5: 42336	-1	-1	3	0	
+	Line 0: 我竟然被击败了……\n艾黛尔贾特大人……万分抱歉……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 6: 42363	-1	-1	3	0	
+	Line 0: 我竟然……尊爵不凡的我……\n竟然输得一败涂地……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 7: 42390	-1	-1	3	0	
+	Line 0: 唉……我本来就不想战斗……\n而且还输了啊……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 8: 42417	-1	-1	3	0	
+	Line 0: 怎么可能！？我输了吗……？\n可恶……可恶！！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 9: 42444	-1	-1	3	0	
+	Line 0: 贝尔……贝尔果然……\n贝尔果然做不到啊啊啊啊……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 10: 42471	-1	-1	3	0	
+	Line 0: 竟然在这种地方……真不甘心……\n我是不会放弃的……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 11: 42498	-1	-1	3	0	
+	Line 0: 失败、不甘心……\n我、撤退，对不起……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 12: 42525	-1	-1	3	0	
+	Line 0: 唔……非常抱歉，\n我没有完成任务，殿下……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 13: 42552	-1	-1	3	0	
+	Line 0: 身体、好重……\n我的剑……无法触及吗……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 14: 42579	-1	-1	3	0	
+	Line 0: 果然……战斗对我这种人来说……\n还是太勉强了吧……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 15: 42606	-1	-1	3	0	
+	Line 0: 我竟然……只能认输了呢，\n看来已经没办法了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 16: 42633	-1	-1	3	0	
+	Line 0: 对、对不起……\n我……可能无法再战斗了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 17: 42660	-1	-1	3	0	
+	Line 0: 对不起……\n我的能力好像还不够……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 18: 42687	-1	-1	3	0	
+	Line 0: 万分抱歉……\n我似乎还不够成熟……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 19: 42714	-1	-1	3	0	
+	Line 0: 不、不可能……！\n我竟然……输了……？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 20: 42741	-1	-1	3	0	
+	Line 0: 抱歉啊……\n俺已经站不起来了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 21: 42768	-1	-1	3	0	
+	Line 0: 大家，对不起……\n看来对我来说，这担子太重了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 22: 42795	-1	-1	3	0	
+	Line 0: 呜……真不甘心……\n不该是这样的……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 23: 42822	-1	-1	3	0	
+	Line 0: 帮不上大家的忙……\n真是……非常抱歉……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 24: 42849	-1	-1	3	0	
+	Line 0: 好痛痛痛痛……\n人家……不行了……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 25: 42876	-1	-1	3	0	
+	Line 0: 可恶……\n我玷污了师父的名字……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 26: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 27: 42917	-1	-1	3	0	
+	Line 0: 我想，今天就到此为止吧……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 28: 42936	-1	-1	3	0	
+	Line 0: 就此撤退了……\n毕竟吾的研究还不能结束……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 29: 42951	-1	-1	3	0	
+	Line 0: 哼～！给我记住……！\n我可是很记仇的！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 30: 42971	-1	-1	3	0	
+	Line 0: 我还没得到饶恕……\n……现在先撤退吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 31: 42986	-1	-1	3	0	
+	Line 0: 力有未逮吗……\n虽然遗憾，但我先行撤退了！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 32: 43003	-1	-1	3	0	
+	Line 0: 居然能击退我……\n我记住你的脸了，不会再有下次……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 33: 43019	-1	-1	3	0	
+	Line 0: 虽然我怀疑这样的成果是否与报酬相符……\n没办法了，撤退。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 34: 43035	-1	-1	3	0	
+	Line 0: 我必须变得更强……\n不然就无法帮上蕾雅大人的忙……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 35: 43062	-1	-1	3	0	
+	Line 0: 搞砸了啊……\n我也年老力衰了吗……？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 36: 43075	-1	-1	3	0	
+	Line 0: 我……竟然会……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 37: 43088	-1	-1	3	0	
+	Line 0: 不可饶恕……！\n总有一天……汝会为此付出代价……！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 38: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 39: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 40: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 41: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 42: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 43: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 44: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 45: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 46: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 47: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 48: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 49: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 50: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 51: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 52: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 53: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 54: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 55: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 56: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 57: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 58: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 59: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 60: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 61: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 62: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 63: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 64: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 65: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 66: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 67: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 68: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 69: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 70: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 71: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 72: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 73: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 74: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 75: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 76: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 77: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 78: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 79: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 80: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 81: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 82: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 83: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 84: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 85: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 86: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 87: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 88: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 89: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 90: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 91: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 92: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 93: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 94: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 95: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 96: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 97: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 98: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 99: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 100: -1	42200	-1	3	0	
+	Line 0: \0
+	Line 1: 我就在这里……结束吗……\0
+	Line 2: \0
+
+Entry 101: -1	42227	-1	3	0	
+	Line 0: \0
+	Line 1: 我就在这里……结束吗……\0
+	Line 2: \0
+
+Entry 102: -1	42254	-1	3	0	
+	Line 0: \0
+	Line 1: 老师……请跨过我继续前进……\n大家就……交给你了……\0
+	Line 2: \0
+
+Entry 103: -1	42281	42295	3	0	
+	Line 0: \0
+	Line 1: 啊……这是……惩罚吗……\n老师……大家……抱歉。\0
+	Line 2: 怪物……终将被消灭……\n这真是……与我相称的结局……\0
+
+Entry 104: -1	42322	-1	3	0	
+	Line 0: \0
+	Line 1: 哈哈……梦想化为泡影了吗……\n抱歉啦，之后就拜托你了……\0
+	Line 2: \0
+
+Entry 105: -1	42349	-1	3	0	
+	Line 0: \0
+	Line 1: 陛下……请以我的尸体作为垫脚石……\n将世界……\0
+	Line 2: \0
+
+Entry 106: -1	42376	-1	3	0	
+	Line 0: \0
+	Line 1: 这里就是……我的终点吗……\n一无所成……真不甘心……\0
+	Line 2: \0
+
+Entry 107: -1	42403	-1	3	0	
+	Line 0: \0
+	Line 1: 生在……这个时代……\n是时运不济吗……唉……\0
+	Line 2: \0
+
+Entry 108: -1	42430	-1	3	0	
+	Line 0: \0
+	Line 1: 我会死……是因为我太弱……\n所以……不要在意……\0
+	Line 2: \0
+
+Entry 109: -1	42457	-1	3	0	
+	Line 0: \0
+	Line 1: 我应该……还有更多……\n能做的事……对不起……\0
+	Line 2: \0
+
+Entry 110: -1	42484	-1	3	0	
+	Line 0: \0
+	Line 1: 什么都没有……明明只是回到那段时光……\n那样就好了……啊……\0
+	Line 2: \0
+
+Entry 111: -1	42511	-1	3	0	
+	Line 0: \0
+	Line 1: 梦想……荣耀……全部、失去……\n我将在异境之地……丧命、吗……\0
+	Line 2: \0
+
+Entry 112: -1	42538	-1	3	0	
+	Line 0: \0
+	Line 1: 殿下……\n请您……务必……\0
+	Line 2: \0
+
+Entry 113: -1	42565	-1	3	0	
+	Line 0: \0
+	Line 1: 我的武器……在哪……？\n可恶……我已经……什么都看不见了……\0
+	Line 2: \0
+
+Entry 114: -1	42592	-1	3	0	
+	Line 0: \0
+	Line 1: 我必须……活着回去……\n我不能死……我明明不想死……\0
+	Line 2: \0
+
+Entry 115: -1	42619	-1	3	0	
+	Line 0: \0
+	Line 1: 哈哈……我才……不怕呢。\n我早就……做好心理准备……了……\0
+	Line 2: \0
+
+Entry 116: -1	42646	-1	3	0	
+	Line 0: \0
+	Line 1: 啊……非常……抱歉……\n我先到……女神大人……身边了……\0
+	Line 2: \0
+
+Entry 117: -1	42673	-1	3	0	
+	Line 0: \0
+	Line 1: 咦……为什么我站不起来呢……\n明明……必须战斗才行……\0
+	Line 2: \0
+
+Entry 118: -1	42700	-1	3	0	
+	Line 0: \0
+	Line 1: 虽然……很痛苦……\n但能够……再见到古廉……我不寂寞……\0
+	Line 2: \0
+
+Entry 119: -1	42727	-1	3	0	
+	Line 0: \0
+	Line 1: 我的生命……将在这种地方……\n终结吗……\0
+	Line 2: \0
+
+Entry 120: -1	42754	-1	3	0	
+	Line 0: \0
+	Line 1: 玛雅……对不起啊……\n哥哥已经努力过了……\0
+	Line 2: \0
+
+Entry 121: -1	42781	-1	3	0	
+	Line 0: \0
+	Line 1: 我还想……看更多……\n不同的景色……\0
+	Line 2: \0
+
+Entry 122: -1	42808	-1	3	0	
+	Line 0: \0
+	Line 1: 再一下下就好……\n我还想……活下去……\0
+	Line 2: \0
+
+Entry 123: -1	42835	-1	3	0	
+	Line 0: \0
+	Line 1: 我没有……一丝后悔……\n如此一来我也能……蒙主恩召……\0
+	Line 2: \0
+
+Entry 124: -1	42862	-1	3	0	
+	Line 0: \0
+	Line 1: 为了他人而丧命……\n明明是……不可理喻的……\0
+	Line 2: \0
+
+Entry 125: -1	42889	-1	3	0	
+	Line 0: \0
+	Line 1: 师父，我对不起你……\n我无法……遵守约定了……\0
+	Line 2: \0
+
+Entry 126: -1	42903	-1	3	0	
+	Line 0: \0
+	Line 1: 虽然已经活得够久了，\n但还有……想做的事……\0
+	Line 2: \0
+
+Entry 127: -1	42930	-1	3	0	
+	Line 0: \0
+	Line 1: 母亲大人……\n我要……去你身边了……\0
+	Line 2: \0
+
+Entry 128: -1	42949	-1	3	0	
+	Line 0: \0
+	Line 1: 相信……总有一天……\n有人……会实现吾的梦想……\0
+	Line 2: \0
+
+Entry 129: -1	42964	-1	3	0	
+	Line 0: \0
+	Line 1: 我还以为……在死去之前……\n可以结婚……呜呜……\0
+	Line 2: \0
+
+Entry 130: -1	42984	-1	3	0	
+	Line 0: \0
+	Line 1: 殿下……\n请您……务必将祖国……\0
+	Line 2: \0
+
+Entry 131: -1	42999	-1	3	0	
+	Line 0: \0
+	Line 1: 团长……阿罗伊斯……\n人生……过得非常满足……\0
+	Line 2: \0
+
+Entry 132: -1	43016	-1	3	0	
+	Line 0: \0
+	Line 1: 就算……我粉身碎骨……\n也要达成目标……拯救……\0
+	Line 2: \0
+
+Entry 133: -1	43032	-1	3	0	
+	Line 0: \0
+	Line 1: 遗憾……增加不少啊……\n要是能……早点死……不……\0
+	Line 2: \0
+
+Entry 134: -1	43048	-1	3	0	
+	Line 0: \0
+	Line 1: 我明明……还没有还清……\n蕾雅大人的……恩情……\0
+	Line 2: \0
+
+Entry 135: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 136: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 137: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 138: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 139: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 140: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 141: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 142: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 143: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 144: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 145: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 146: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 147: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 148: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 149: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 150: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 151: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 152: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 153: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 154: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 155: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 156: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 157: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 158: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 159: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 160: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 161: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 162: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 163: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 164: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 165: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 166: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 167: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 168: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 169: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 170: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 171: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 200: -1	42201	-1	3	0	
+	Line 0: \0
+	Line 1: 抱歉……不能继续了……\0
+	Line 2: \0
+
+Entry 201: -1	42228	-1	3	0	
+	Line 0: \0
+	Line 1: 对不起……我没办法继续了……\0
+	Line 2: \0
+
+Entry 202: -1	42255	-1	3	0	
+	Line 0: \0
+	Line 1: 我已无计可施，\n被逼得走投无路了……\0
+	Line 2: \0
+
+Entry 203: -1	42282	42296	3	0	
+	Line 0: \0
+	Line 1: 啧……追得太远了吗……\n暂且撤退吧。\0
+	Line 2: 在杀死那个女人之前……\n我不能死……！\0
+
+Entry 204: -1	42323	-1	3	0	
+	Line 0: \0
+	Line 1: 计划偏离了正轨吗……\n这下没辙了呢……\0
+	Line 2: \0
+
+Entry 205: -1	42350	-1	3	0	
+	Line 0: \0
+	Line 1: 唔呜……没办法继续战斗了。\n请容我退到后方……\0
+	Line 2: \0
+
+Entry 206: -1	42377	-1	3	0	
+	Line 0: \0
+	Line 1: 我可不能……死在这里……\n虽然很抱歉，但让我先撤退吧……\0
+	Line 2: \0
+
+Entry 207: -1	42404	-1	3	0	
+	Line 0: \0
+	Line 1: 因为我还不想死……先撤退了。\n接下来就交给你了……\0
+	Line 2: \0
+
+Entry 208: -1	42431	-1	3	0	
+	Line 0: \0
+	Line 1: 我一定……会变得更强……！\n为此，现在得先撤退……\0
+	Line 2: \0
+
+Entry 209: -1	42458	-1	3	0	
+	Line 0: \0
+	Line 1: 好痛啊……已经无法再战斗了……\n贝尔要撤退了……对不起……\0
+	Line 2: \0
+
+Entry 210: -1	42485	-1	3	0	
+	Line 0: \0
+	Line 1: 到此为止了呢……必须撤退……\n我还有想做的事……\0
+	Line 2: \0
+
+Entry 211: -1	42512	-1	3	0	
+	Line 0: \0
+	Line 1: 我、不能、死……\n我、撤退、先行撤退……\0
+	Line 2: \0
+
+Entry 212: -1	42539	-1	3	0	
+	Line 0: \0
+	Line 1: 殿下赐予的这条性命……\n不能白白牺牲……！\0
+	Line 2: \0
+
+Entry 213: -1	42566	-1	3	0	
+	Line 0: \0
+	Line 1: 哈……到头来……\n我的程度不过如此吗……\0
+	Line 2: \0
+
+Entry 214: -1	42593	-1	3	0	
+	Line 0: \0
+	Line 1: 唔……已经无法继续战斗了吗……\n必须趁我还能走的时候……赶快撤退……\0
+	Line 2: \0
+
+Entry 215: -1	42620	-1	3	0	
+	Line 0: \0
+	Line 1: 可恶……我怎么能死在这里……\n恕我先撤退了……！\0
+	Line 2: \0
+
+Entry 216: -1	42647	-1	3	0	
+	Line 0: \0
+	Line 1: 已经不行了……我先撤退了～\n大家也务必要平安无事哦。\0
+	Line 2: \0
+
+Entry 217: -1	42674	-1	3	0	
+	Line 0: \0
+	Line 1: 这样下去……我只会碍手碍脚，\n必须趁现在撤退……\0
+	Line 2: \0
+
+Entry 218: -1	42701	-1	3	0	
+	Line 0: \0
+	Line 1: 呜……该撤退了。\n……祝大家幸运！\0
+	Line 2: \0
+
+Entry 219: -1	42728	-1	3	0	
+	Line 0: \0
+	Line 1: 唔……真是厉害啊……\n只能先撤退了……\0
+	Line 2: \0
+
+Entry 220: -1	42755	-1	3	0	
+	Line 0: \0
+	Line 1: 呜哦哦哦！完了……\n俺的肌肉不管用……\0
+	Line 2: \0
+
+Entry 221: -1	42782	-1	3	0	
+	Line 0: \0
+	Line 1: 呜……被打败了……\n请容我先撤退了……\0
+	Line 2: \0
+
+Entry 222: -1	42809	-1	3	0	
+	Line 0: \0
+	Line 1: 对不起……\n我似乎小看了敌人……\0
+	Line 2: \0
+
+Entry 223: -1	42836	-1	3	0	
+	Line 0: \0
+	Line 1: 非常抱歉……\n果然我还是不行……\0
+	Line 2: \0
+
+Entry 224: -1	42863	-1	3	0	
+	Line 0: \0
+	Line 1: 呜呜……好像努力过头了……\n对不起，人家先走一步了……\0
+	Line 2: \0
+
+Entry 225: -1	42890	-1	3	0	
+	Line 0: \0
+	Line 1: 真是丢脸……\n我不配当师父的弟子了……\0
+	Line 2: \0
+
+Entry 226: -1	42904	-1	3	0	
+	Line 0: \0
+	Line 1: 我居然如此狼狈……\n真是没脸去面对信徒……\0
+	Line 2: \0
+
+Entry 227: -1	42931	-1	3	0	
+	Line 0: \0
+	Line 1: 对、对不起……请容我先退下了……\0
+	Line 2: \0
+
+Entry 228: -1	42950	-1	3	0	
+	Line 0: \0
+	Line 1: 要撤退了……\n吾的使命还没结束……\0
+	Line 2: \0
+
+Entry 229: -1	42965	-1	3	0	
+	Line 0: \0
+	Line 1: 我才不会在这种地方死去……！\n为了我自己……也为了大家！\0
+	Line 2: \0
+
+Entry 230: -1	42985	-1	3	0	
+	Line 0: \0
+	Line 1: 唔……是时候撤退了。\n毕竟我还不能倒下……\0
+	Line 2: \0
+
+Entry 231: -1	43000	-1	3	0	
+	Line 0: \0
+	Line 1: 抱歉，我已经无法继续战斗了……\n为了我的信念，在此撤退……！\0
+	Line 2: \0
+
+Entry 232: -1	43017	-1	3	0	
+	Line 0: \0
+	Line 1: 我可不能死在半路上……\n暂且撤退……剩下就拜托你了……！\0
+	Line 2: \0
+
+Entry 233: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 234: -1	43049	-1	3	0	
+	Line 0: \0
+	Line 1: 可恶……就这点实力，\n怎么可能守护好蕾雅大人……！\0
+	Line 2: \0
+
+Entry 235: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 236: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 237: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 238: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 239: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 240: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 241: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 242: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 243: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 244: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 245: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 246: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 247: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 248: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 249: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 250: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 251: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 252: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 253: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 254: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 255: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 256: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 257: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 258: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 259: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 260: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 261: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 262: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 263: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 264: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 265: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 266: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 267: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 268: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 269: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 270: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 271: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 272: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 273: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 274: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 275: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 276: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 277: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 278: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 279: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 280: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 281: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 282: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 283: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 284: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 285: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 286: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 287: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 288: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 289: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 290: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 291: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 292: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 293: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 294: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 295: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 296: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 297: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 298: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 299: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 300: 42188	42202	-1	0	0	
+	Line 0: 这个身体里居然还有这样的力量……？\0
+	Line 1: 又变强了。\0
+	Line 2: \0
+
+Entry 301: 42215	42229	-1	0	0	
+	Line 0: 这个身体里居然还有这样的力量……？\0
+	Line 1: 我又变强了！\0
+	Line 2: \0
+
+Entry 302: 42242	42256	-1	0	0	
+	Line 0: 我会变得更强。\0
+	Line 1: 这是为了实现我的野心……！\0
+	Line 2: \0
+
+Entry 303: 42269	42283	42297	0	0	
+	Line 0: 得朝更高的目标迈进。\0
+	Line 1: 要是不变强，就无法抓紧任何事物……\0
+	Line 2: 我太习惯杀戮……\0
+
+Entry 304: 42310	42324	-1	0	0	
+	Line 0: 我感觉有所成长。\0
+	Line 1: 离实现我的野心又更近一步了呢！\0
+	Line 2: \0
+
+Entry 305: 42337	42351	-1	0	0	
+	Line 0: 经验永远不嫌多。\0
+	Line 1: 不断厮杀自然就会变强……\0
+	Line 2: \0
+
+Entry 306: 42364	42378	-1	0	0	
+	Line 0: 我又变强了吗？\0
+	Line 1: 我现在想要力量，就算只有一点也好。\0
+	Line 2: \0
+
+Entry 307: 42391	42405	-1	0	0	
+	Line 0: 我觉得自己有所成长哟。\0
+	Line 1: 我觉得自己有所成长哟。\0
+	Line 2: \0
+
+Entry 308: 42418	42432	-1	0	0	
+	Line 0: 你看，感觉不错吧？\0
+	Line 1: 我变强，大家也会更轻松。\0
+	Line 2: \0
+
+Entry 309: 42445	42459	-1	0	0	
+	Line 0: 哇，我是不是变得更厉害了啊？\0
+	Line 1: 这样可以提升整体的战力吗？\0
+	Line 2: \0
+
+Entry 310: 42472	42486	-1	0	0	
+	Line 0: 变强也是很重要的。\0
+	Line 1: 虽是为了生存，但光追求力量……好忧郁。\0
+	Line 2: \0
+
+Entry 311: 42499	42513	-1	0	0	
+	Line 0: 这是、锻炼的成果。\0
+	Line 1: 锻炼、钻研、实战、不会背叛。\0
+	Line 2: \0
+
+Entry 312: 42526	42540	-1	0	0	
+	Line 0: ……交给我吧。\0
+	Line 1: 这个力量，让我为殿下而用吧。\0
+	Line 2: \0
+
+Entry 313: 42553	42567	-1	0	0	
+	Line 0: 变强一点了吗……？\0
+	Line 1: 进行了这么多场战斗，这也是当然的。\0
+	Line 2: \0
+
+Entry 314: 42580	42594	-1	0	0	
+	Line 0: 就照这个气势继续加油！\0
+	Line 1: 一步一步，踏踏实实地前进……\0
+	Line 2: \0
+
+Entry 315: 42607	42621	-1	0	0	
+	Line 0: 我的男子气概提升了呢！\0
+	Line 1: 我总不能拖累大家啊。\0
+	Line 2: \0
+
+Entry 316: 42634	42648	-1	0	0	
+	Line 0: 哎呀？我好像变强了。\0
+	Line 1: 希望我的力量可以帮到大家的忙。\0
+	Line 2: \0
+
+Entry 317: 42661	42675	-1	0	0	
+	Line 0: 嗯，感觉我变得更强了。\0
+	Line 1: 要保持这个状态，继续加油！\0
+	Line 2: \0
+
+Entry 318: 42688	42702	-1	0	0	
+	Line 0: 我是不是稍微有所成长？\0
+	Line 1: 这样一来，我就能帮上忙了吗？\0
+	Line 2: \0
+
+Entry 319: 42715	42729	-1	0	0	
+	Line 0: 我不会满足于此。\0
+	Line 1: 这点程度还不够啊。\0
+	Line 2: \0
+
+Entry 320: 42742	42756	-1	0	0	
+	Line 0: 俺觉得自己变强了哦！\0
+	Line 1: 俺得变得更强才行……！\0
+	Line 2: \0
+
+Entry 321: 42769	42783	-1	0	0	
+	Line 0: 我觉得自己成长了。\0
+	Line 1: 我也想帮上忙。\0
+	Line 2: \0
+
+Entry 322: 42796	42810	-1	0	0	
+	Line 0: 我还远远不够呢。\0
+	Line 1: 我的目标可是在更高的位置呢。\0
+	Line 2: \0
+
+Entry 323: 42823	42837	-1	0	0	
+	Line 0: 好像变强一点了……\0
+	Line 1: 稍微……变强一些了。\0
+	Line 2: \0
+
+Entry 324: 42850	42864	-1	0	0	
+	Line 0: 你不要太期待人家的表现哦～\0
+	Line 1: 这种程度是理所当然的呢～\0
+	Line 2: \0
+
+Entry 325: 42877	42891	-1	0	0	
+	Line 0: 我还得累积更多经验才行。\0
+	Line 1: 这还称不上是一流的呢。\0
+	Line 2: \0
+
+Entry 326: 42905	-1	-1	0	0	
+	Line 0: 看来我还不减当年呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 327: 42918	42932	-1	0	0	
+	Line 0: 呵呵，离成为大人又近了一步呢。\0
+	Line 1: 我会变得更强给您看哟！\0
+	Line 2: \0
+
+Entry 328: 42937	-1	-1	0	0	
+	Line 0: 吾老当益壮啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 329: 42952	42966	-1	0	0	
+	Line 0: 要是也能替我的美貌增添风彩就好了……\0
+	Line 1: 虽然很悲哀，但现在力量比美丽更重要。\0
+	Line 2: \0
+
+Entry 330: 42972	-1	-1	0	0	
+	Line 0: 哦，原来我还有成长空间啊……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 331: 42987	-1	-1	0	0	
+	Line 0: 力量从体内不断涌出……咳。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 332: 43004	-1	-1	0	0	
+	Line 0: 真开心，我又变强了一些。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 333: 43020	-1	-1	0	0	
+	Line 0: 只要还能变强，我就会继续变强。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 334: 43036	43050	-1	0	0	
+	Line 0: 我觉得自己好像成长了。\0
+	Line 1: 我有更进步了吧。\0
+	Line 2: \0
+
+Entry 335: 43063	-1	-1	0	0	
+	Line 0: 看来我还挺行的嘛。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 336: 43076	-1	-1	0	0	
+	Line 0: 又获得力量了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 337: 43089	-1	-1	0	0	
+	Line 0: 吾的力量才不只如此呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 338: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 339: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 340: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 341: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 342: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 343: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 344: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 345: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 346: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 347: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 348: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 349: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 350: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 351: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 352: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 353: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 354: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 355: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 356: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 357: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 358: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 359: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 360: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 361: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 362: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 363: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 364: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 365: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 366: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 367: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 368: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 369: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 370: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 371: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 372: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 373: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 374: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 375: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 376: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 377: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 378: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 379: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 380: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 381: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 382: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 383: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 384: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 385: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 386: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 387: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 388: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 389: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 390: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 391: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 392: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 393: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 394: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 395: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 396: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 397: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 398: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 399: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 400: 42189	42203	-1	0	0	
+	Line 0: 大家一起变强吧。\0
+	Line 1: 我会为了大家使用这份力量。\0
+	Line 2: \0
+
+Entry 401: 42216	42230	-1	0	0	
+	Line 0: 大家一起变强吧。\0
+	Line 1: 我会为了大家使用这份力量。\0
+	Line 2: \0
+
+Entry 402: 42243	42257	-1	0	0	
+	Line 0: 这条路还长得很呢……\0
+	Line 1: 只要变得越强，便离死亡更加遥远……\0
+	Line 2: \0
+
+Entry 403: 42270	42284	42298	0	0	
+	Line 0: 开始得心应手了。\0
+	Line 1: 得到力量，是为了不让任何人死去……\0
+	Line 2: 这份力量，是为了悼念所有死去的人。\0
+
+Entry 404: 42311	42325	-1	0	0	
+	Line 0: 意料之中的结果呢。\0
+	Line 1: 杀了这么多，当然是会变强的吧。\0
+	Line 2: \0
+
+Entry 405: 42338	42352	-1	0	0	
+	Line 0: 为了艾黛尔贾特大人，要变得更强……\0
+	Line 1: 为了陛下，我要尽量变强……\0
+	Line 2: \0
+
+Entry 406: 42365	42379	-1	0	0	
+	Line 0: 对贵族来说这是理所当然的成长。\0
+	Line 1: 为了进步，我会持续锻炼。\0
+	Line 2: \0
+
+Entry 407: 42392	42406	-1	0	0	
+	Line 0: 真希望只靠研究就能变强。\0
+	Line 1: 真希望只靠研究就能变强。\0
+	Line 2: \0
+
+Entry 408: 42419	42433	-1	0	0	
+	Line 0: 这样我就能有更好的战绩！\0
+	Line 1: 好，要拿出更好的战绩才行！\0
+	Line 2: \0
+
+Entry 409: 42446	42460	-1	0	0	
+	Line 0: 努力没有白费呢！\0
+	Line 1: 好像只增加了战斗的经验啊。\0
+	Line 2: \0
+
+Entry 410: 42473	42487	-1	0	0	
+	Line 0: 人会通过经验学习，然后成长的。\0
+	Line 1: 杀人的经验让我成长了……\0
+	Line 2: \0
+
+Entry 411: 42500	42514	-1	0	0	
+	Line 0: 战斗、会让、身心、变强。\0
+	Line 1: 战斗、会让、身心、变强。\0
+	Line 2: \0
+
+Entry 412: 42527	42541	-1	0	0	
+	Line 0: 稍微有所成长了吗……\0
+	Line 1: ……前进了很大的一步。\0
+	Line 2: \0
+
+Entry 413: 42554	42568	-1	0	0	
+	Line 0: 感到自己成长了。\0
+	Line 1: 变得更强、变得更快……！\0
+	Line 2: \0
+
+Entry 414: 42581	42595	-1	0	0	
+	Line 0: 训练的成果好像出来了……\0
+	Line 1: 没有力量，就无法守护任何事。\0
+	Line 2: \0
+
+Entry 415: 42608	42622	-1	0	0	
+	Line 0: 我得记住这股感觉。\0
+	Line 1: 要是不用努力就能够变强的话就好了呢……\0
+	Line 2: \0
+
+Entry 416: 42635	42649	-1	0	0	
+	Line 0: 为了大家，我得更努力才行呢～\0
+	Line 1: 呵呵，交给我吧。\0
+	Line 2: \0
+
+Entry 417: 42662	42676	-1	0	0	
+	Line 0: 现在的我和之前可不一样！\0
+	Line 1: 我想要变强，我想要守护大家！\0
+	Line 2: \0
+
+Entry 418: 42689	42703	-1	0	0	
+	Line 0: 我会变得更强……\0
+	Line 1: 还得更加努力用功钻研才行。\0
+	Line 2: \0
+
+Entry 419: 42716	42730	-1	0	0	
+	Line 0: 贵族必须强大。\0
+	Line 1: 我必须变得更强……\0
+	Line 2: \0
+
+Entry 420: 42743	42757	-1	0	0	
+	Line 0: 俺好像还能变得块头更大哦！\0
+	Line 1: 俺好像又变得更强了！\0
+	Line 2: \0
+
+Entry 421: 42770	42784	-1	0	0	
+	Line 0: 好像又变强了……\0
+	Line 1: 我会变得更强给你看的！\0
+	Line 2: \0
+
+Entry 422: 42797	42811	-1	0	0	
+	Line 0: 得更努力点才行……\0
+	Line 1: 还不足够……要再更强……！\0
+	Line 2: \0
+
+Entry 423: 42824	42838	-1	0	0	
+	Line 0: 我能变得更强吗……\0
+	Line 1: 我想要……变得更强……！\0
+	Line 2: \0
+
+Entry 424: 42851	42865	-1	0	0	
+	Line 0: 人家还只是个弱女子哦～\0
+	Line 1: 人家还远远不够呢～\0
+	Line 2: \0
+
+Entry 425: 42878	42892	-1	0	0	
+	Line 0: 还有很长一段路要走呢。\0
+	Line 1: 要卯足全力奋发向上，没错！\0
+	Line 2: \0
+
+Entry 426: 42906	-1	-1	0	0	
+	Line 0: 原来我还有成长的空间啊……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 427: 42919	-1	-1	0	0	
+	Line 0: 经验是成长的养分，对吧？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 428: 42938	-1	-1	0	0	
+	Line 0: 从实践中可以学到很多事物。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 429: 42953	42967	-1	0	0	
+	Line 0: 也是有男人喜欢“强大的女人”对吧？\0
+	Line 1: 战争结束后，我……\0
+	Line 2: \0
+
+Entry 430: 42973	-1	-1	0	0	
+	Line 0: 看来我还不是无用之人啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 431: 42988	-1	-1	0	0	
+	Line 0: 嗯，好像还能变得更强呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 432: 43005	43018	-1	0	0	
+	Line 0: 这样更能为蕾雅大人效力了。\0
+	Line 1: 我使用力量的目的只有一个……\0
+	Line 2: \0
+
+Entry 433: 43021	-1	-1	0	0	
+	Line 0: 对佣兵来说力量就是一切。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 434: 43037	43051	-1	0	0	
+	Line 0: 我应该有稍微变强了吧？\0
+	Line 1: 我变得更强了吧？\0
+	Line 2: \0
+
+Entry 435: 43064	-1	-1	0	0	
+	Line 0: 啊哈哈，对我有点刮目相看了吗？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 436: 43077	-1	-1	0	0	
+	Line 0: 感谢主赐予的恩惠。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 437: 43090	-1	-1	0	0	
+	Line 0: 唔，力量泉涌而来呐！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 438: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 439: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 440: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 441: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 442: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 443: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 444: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 445: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 446: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 447: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 448: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 449: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 450: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 451: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 452: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 453: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 454: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 455: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 456: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 457: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 458: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 459: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 460: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 461: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 462: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 463: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 464: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 465: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 466: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 467: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 468: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 469: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 470: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 471: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 472: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 473: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 474: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 475: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 476: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 477: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 478: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 479: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 480: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 481: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 482: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 483: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 484: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 485: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 486: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 487: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 488: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 489: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 490: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 491: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 492: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 493: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 494: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 495: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 496: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 497: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 498: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 499: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 500: 42190	42204	-1	0	0	
+	Line 0: 向前踏出一步了吧？\0
+	Line 1: 还有成长空间。\0
+	Line 2: \0
+
+Entry 501: 42217	42231	-1	0	0	
+	Line 0: 向前踏出一步了吧？\0
+	Line 1: 还有成长空间。\0
+	Line 2: \0
+
+Entry 502: 42244	42258	-1	0	0	
+	Line 0: 算是进展了一步吧？\0
+	Line 1: 还不是停下脚步的时候！\0
+	Line 2: \0
+
+Entry 503: 42271	42285	42299	0	0	
+	Line 0: 我还能变得更强……！\0
+	Line 1: 逐步向前迈进吧。\0
+	Line 2: 每多杀一人，我就越接近怪物吗……\0
+
+Entry 504: 42312	42326	-1	0	0	
+	Line 0: 我还可以变得更强哦！\0
+	Line 1: 强者生存，弱者灭亡……战争总是如此。\0
+	Line 2: \0
+
+Entry 505: 42339	42353	-1	0	0	
+	Line 0: 路程还很遥远……\0
+	Line 1: 我的目标远远不止这种程度呢。\0
+	Line 2: \0
+
+Entry 506: 42366	42380	-1	0	0	
+	Line 0: 这一步……是为了成就大业！\0
+	Line 1: 这一步……是为了成就大业！\0
+	Line 2: \0
+
+Entry 507: 42393	42407	-1	0	0	
+	Line 0: 累积经验就能成长是理所当然的。\0
+	Line 1: 累积实战经验就会变强……这也是理所当然。\0
+	Line 2: \0
+
+Entry 508: 42420	42434	-1	0	0	
+	Line 0: 我还能变得更强！\0
+	Line 1: 我还会变得更强！\0
+	Line 2: \0
+
+Entry 509: 42447	42461	-1	0	0	
+	Line 0: 我也是会成长的呢！\0
+	Line 1: 若是不变得更强，就只有死路一条……\0
+	Line 2: \0
+
+Entry 510: 42474	42488	-1	0	0	
+	Line 0: 如何？我的身体？是不是比较结实了呢？\0
+	Line 1: 变得更强再前往战场……一直周而复始。\0
+	Line 2: \0
+
+Entry 511: 42501	42515	-1	0	0	
+	Line 0: 我有、更高的、目标。\0
+	Line 1: 为了布里基特，我、掌握、生存的能力。\0
+	Line 2: \0
+
+Entry 512: 42528	42542	-1	0	0	
+	Line 0: 这样就能为殿下效力。\0
+	Line 1: 这样就能为殿下效力。\0
+	Line 2: \0
+
+Entry 513: 42555	42569	-1	0	0	
+	Line 0: 技巧磨练得更纯熟了吗？\0
+	Line 1: 力量不会背叛自己。\0
+	Line 2: \0
+
+Entry 514: 42582	42596	-1	0	0	
+	Line 0: 距离理想还很遥远呢……\0
+	Line 1: 更接近目标一点了吧？\0
+	Line 2: \0
+
+Entry 515: 42609	42623	-1	0	0	
+	Line 0: 这就是所谓的成长吧！\0
+	Line 1: 我应该有稍微变强了吧？\0
+	Line 2: \0
+
+Entry 516: 42636	42650	-1	0	0	
+	Line 0: 你可以多依赖我一点哦～？\0
+	Line 1: 还必须变得更强。\0
+	Line 2: \0
+
+Entry 517: 42663	42677	-1	0	0	
+	Line 0: 我会帮上大家的忙！\0
+	Line 1: 我应该成长了。\0
+	Line 2: \0
+
+Entry 518: 42690	42704	-1	0	0	
+	Line 0: 我必须再多加磨练。\0
+	Line 1: 我为自己的成长感到开心。\0
+	Line 2: \0
+
+Entry 519: 42717	42731	-1	0	0	
+	Line 0: 离顶点还很遥远……\0
+	Line 1: 我得到了与我相符的力量。\0
+	Line 2: \0
+
+Entry 520: 42744	42758	-1	0	0	
+	Line 0: 俺的肌肉正开心着呢！\0
+	Line 1: 俺是不是离成为优秀的骑士又更进一步了呢？\0
+	Line 2: \0
+
+Entry 521: 42771	42785	-1	0	0	
+	Line 0: 应该还能更努力的……\0
+	Line 1: 我觉得自己吃了多少苦头，就变强了多少呢。\0
+	Line 2: \0
+
+Entry 522: 42798	42812	-1	0	0	
+	Line 0: 努力终于有成果了呢。\0
+	Line 1: 这样我又能向前迈进……！\0
+	Line 2: \0
+
+Entry 523: 42825	42839	-1	0	0	
+	Line 0: 这是……我的力量吗……？\0
+	Line 1: 我变得对自己有自信了！\0
+	Line 2: \0
+
+Entry 524: 42852	42866	-1	0	0	
+	Line 0: 好像变得更厉害了呢～\0
+	Line 1: 好像变得更厉害了呢～\0
+	Line 2: \0
+
+Entry 525: 42879	42893	-1	0	0	
+	Line 0: 我还想迈向更高的境界呢。\0
+	Line 1: 我还可以变得更强的！\0
+	Line 2: \0
+
+Entry 526: 42907	-1	-1	0	0	
+	Line 0: 我的身体似乎都记住了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 527: 42920	-1	-1	0	0	
+	Line 0: 我感到稍微变强了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 528: 42939	-1	-1	0	0	
+	Line 0: 吾的身体比想象中还要灵活呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 529: 42954	42968	-1	0	0	
+	Line 0: 我应该还可以更闪耀夺目！\0
+	Line 1: 原来我也有沉睡中的才能！\0
+	Line 2: \0
+
+Entry 530: 42974	-1	-1	0	0	
+	Line 0: 让我回想起从前……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 531: 42989	-1	-1	0	0	
+	Line 0: 成长可真是件好事啊！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 532: 43006	-1	-1	0	0	
+	Line 0: 我想再大闹一番呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 533: 43022	43033	-1	0	0	
+	Line 0: 这么一来任务也会更容易执行。\0
+	Line 1: 这么一来就更能遵循指示行动了。\0
+	Line 2: \0
+
+Entry 534: 43038	43052	-1	0	0	
+	Line 0: 我会更努力的。\0
+	Line 1: 我得更加努力。\0
+	Line 2: \0
+
+Entry 535: 43065	-1	-1	0	0	
+	Line 0: 就算到了这把年纪还能变强啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 536: 43078	-1	-1	0	0	
+	Line 0: 我必须强大。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 537: 43091	-1	-1	0	0	
+	Line 0: 甚好，甚好！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 538: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 539: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 540: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 541: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 542: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 543: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 544: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 545: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 546: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 547: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 548: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 549: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 550: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 551: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 552: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 553: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 554: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 555: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 556: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 557: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 558: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 559: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 560: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 561: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 562: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 563: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 564: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 565: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 566: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 567: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 568: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 569: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 570: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 571: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 572: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 573: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 574: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 575: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 576: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 577: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 578: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 579: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 580: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 581: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 582: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 583: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 584: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 585: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 586: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 587: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 588: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 589: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 590: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 591: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 592: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 593: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 594: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 595: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 596: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 597: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 598: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 599: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 600: 42191	42205	-1	3	0	
+	Line 0: 这样可没办法成为大家的榜样啊。\0
+	Line 1: 是个不值得被表扬的结果呢……\0
+	Line 2: \0
+
+Entry 601: 42218	42232	-1	3	0	
+	Line 0: 这样可没办法成为大家的榜样呢。\0
+	Line 1: 是个不值得被表扬的结果呢……\0
+	Line 2: \0
+
+Entry 602: 42245	42259	-1	3	0	
+	Line 0: 马马虎虎呢……真是的。\0
+	Line 1: 只有这样是不够的……\0
+	Line 2: \0
+
+Entry 603: 42272	42286	42300	3	0	
+	Line 0: 我只是在按部就班地锻炼……\0
+	Line 1: ……这下子，又前进了一步呢。\0
+	Line 2: 就这种程度，还不足以与她交锋……\0
+
+Entry 604: 42313	42327	-1	3	0	
+	Line 0: 也是会有不顺利的时候啦。\0
+	Line 1: 明明就没时间在原地踏步……\0
+	Line 2: \0
+
+Entry 605: 42340	42354	-1	3	0	
+	Line 0: 不能如愿呢。\0
+	Line 1: 虽然微不足道，但成长就是成长。\0
+	Line 2: \0
+
+Entry 606: 42367	42381	-1	3	0	
+	Line 0: 什么？这是说我进步缓慢吗？\0
+	Line 1: 不行啊，这真是令人焦急。\0
+	Line 2: \0
+
+Entry 607: 42394	42408	-1	3	0	
+	Line 0: 睡觉不是会比这次成长得要多吗？\0
+	Line 1: 我觉得这好像浪费了我的人生。\0
+	Line 2: \0
+
+Entry 608: 42421	42435	-1	3	0	
+	Line 0: 我的实力不可能只有这样吧！\0
+	Line 1: 可恶，真是丢脸啊。\0
+	Line 2: \0
+
+Entry 609: 42448	42462	-1	3	0	
+	Line 0: 呜哇？果然因为是家里蹲吗……\0
+	Line 1: 贝尔果然办不到……\0
+	Line 2: \0
+
+Entry 610: 42475	42489	-1	3	0	
+	Line 0: 没有预想中的成果呢。\0
+	Line 1: 我想这种状态说不定也不错哦。\0
+	Line 2: \0
+
+Entry 611: 42502	42516	-1	3	0	
+	Line 0: 状况、不好，我、不消沉、不会丧气。\0
+	Line 1: 状况、不好，我、不消沉、不会丧气。\0
+	Line 2: \0
+
+Entry 612: 42529	42543	-1	3	0	
+	Line 0: ……还不够啊。\0
+	Line 1: ……可没有时间停下来。\0
+	Line 2: \0
+
+Entry 613: 42556	42570	-1	3	0	
+	Line 0: 哼，只有这点程度还不够……\0
+	Line 1: 啧……锻炼不够吗？\0
+	Line 2: \0
+
+Entry 614: 42583	42597	-1	3	0	
+	Line 0: 有点笑不太出来呢。\0
+	Line 1: 我真是丢脸……\0
+	Line 2: \0
+
+Entry 615: 42610	42624	-1	3	0	
+	Line 0: 哦！这个是……\0
+	Line 1: 我不能再偷懒下去了……\0
+	Line 2: \0
+
+Entry 616: 42637	42651	-1	3	0	
+	Line 0: 无法事事如愿呢～\0
+	Line 1: 对不起……我也真是的……\0
+	Line 2: \0
+
+Entry 617: 42664	42678	-1	3	0	
+	Line 0: 呜呜……对不起……\0
+	Line 1: 那个，不该是这样的……\0
+	Line 2: \0
+
+Entry 618: 42691	42705	-1	3	0	
+	Line 0: 唔，我的状况似乎不太好。\0
+	Line 1: 这次落后了的进度，得从哪弥补回来才行……\0
+	Line 2: \0
+
+Entry 619: 42718	42732	-1	3	0	
+	Line 0: 我并没有偷懒懈怠啊……\0
+	Line 1: 我竟然……\0
+	Line 2: \0
+
+Entry 620: 42745	42759	-1	3	0	
+	Line 0: 奇怪了……没什么手感呢。\0
+	Line 1: 锻炼还不够呢！\0
+	Line 2: \0
+
+Entry 621: 42772	42786	-1	3	0	
+	Line 0: 高兴不起来呢……\0
+	Line 1: 得更加绷紧神经才行……\0
+	Line 2: \0
+
+Entry 622: 42799	42813	-1	3	0	
+	Line 0: 现在明明不是烦恼进步缓慢的时候！\0
+	Line 1: 很气这样的自己……！\0
+	Line 2: \0
+
+Entry 623: 42826	42840	-1	3	0	
+	Line 0: 咦？怎么会……\0
+	Line 1: 我、我不会气馁的……\0
+	Line 2: \0
+
+Entry 624: 42853	42867	-1	3	0	
+	Line 0: 哎呀呀，人家太松懈了吗……\0
+	Line 1: 诶～有点失望啊……\0
+	Line 2: \0
+
+Entry 625: 42880	42894	-1	3	0	
+	Line 0: 这下子得重新打起精神了呢。\0
+	Line 1: 这条路可还真险峻呢……\0
+	Line 2: \0
+
+Entry 626: 42908	-1	-1	3	0	
+	Line 0: 果然没办法像当年那样呢……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 627: 42921	-1	-1	3	0	
+	Line 0: 噢！怎么会这样……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 628: 42940	-1	-1	3	0	
+	Line 0: 若是吾再年轻几岁……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 629: 42955	-1	-1	3	0	
+	Line 0: 哎呀？状态似乎不太好呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 630: 42975	-1	-1	3	0	
+	Line 0: 我也衰老了吗……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 631: 42990	-1	-1	3	0	
+	Line 0: 唔……抱歉，我表现得不好。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 632: 43007	-1	-1	3	0	
+	Line 0: 我也会有停滞期的啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 633: 43023	-1	-1	3	0	
+	Line 0: 啧……没有手感啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 634: 43039	43053	-1	3	0	
+	Line 0: 啧，真无聊呢。\0
+	Line 1: 啧，状态不佳啊。\0
+	Line 2: \0
+
+Entry 635: 43066	-1	-1	3	0	
+	Line 0: 我也累了啊……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 636: 43079	-1	-1	3	0	
+	Line 0: 我无话可说。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 637: 43092	-1	-1	3	0	
+	Line 0: 唔唔，吾的威严……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 638: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 639: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 640: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 641: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 642: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 643: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 644: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 645: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 646: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 647: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 648: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 649: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 650: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 651: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 652: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 653: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 654: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 655: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 656: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 657: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 658: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 659: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 660: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 661: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 662: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 663: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 664: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 665: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 666: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 667: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 668: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 669: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 670: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 671: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 672: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 673: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 674: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 675: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 676: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 677: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 678: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 679: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 680: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 681: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 682: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 683: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 684: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 685: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 686: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 687: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 688: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 689: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 690: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 691: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 692: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 693: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 694: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 695: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 696: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 697: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 698: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 699: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 700: 42192	42206	-1	1	0	
+	Line 0: 这个感觉……所有力量都解放出来了吗？\0
+	Line 1: 潜力全部都引发出来了呢。\0
+	Line 2: \0
+
+Entry 701: 42219	42233	-1	1	0	
+	Line 0: 这个感觉……所有力量都解放出来了吗？\0
+	Line 1: 应该激发出所有潜力了。\0
+	Line 2: \0
+
+Entry 702: 42246	42260	-1	1	0	
+	Line 0: 这就是极限了吗？\0
+	Line 1: 我不会再奢求比这更多了。\0
+	Line 2: \0
+
+Entry 703: 42273	42287	42301	1	0	
+	Line 0: 我竟然能变得这么强。\0
+	Line 1: 我们一起走了段很长的路呢……\0
+	Line 2: 只要有这份力量……！\0
+
+Entry 704: 42314	42328	-1	1	0	
+	Line 0: 我已经用完所有的潜能了吗？\0
+	Line 1: 哈哈，我变得可真强。\0
+	Line 2: \0
+
+Entry 705: 42341	42355	-1	1	0	
+	Line 0: 感到成长的瓶颈呢。\0
+	Line 1: 既然到了极限，只能用其他方法变强了。\0
+	Line 2: \0
+
+Entry 706: 42368	42382	-1	1	0	
+	Line 0: 让我以自己锻炼至今的能力为傲吧。\0
+	Line 1: 得到了力量后，就能用来成就些什么了。\0
+	Line 2: \0
+
+Entry 707: 42395	42409	-1	1	0	
+	Line 0: 都变得这么强了，就不需要再训练了吧？\0
+	Line 1: 不管变得多强，不获胜就没有意义呢。\0
+	Line 2: \0
+
+Entry 708: 42422	42436	-1	1	0	
+	Line 0: 哦！？我已经强到不能再强了吗？\0
+	Line 1: 这就是我的极限！？不，一定不只如此！\0
+	Line 2: \0
+
+Entry 709: 42449	42463	-1	1	0	
+	Line 0: 贝尔登峰造极了？嘿嘿嘿……\0
+	Line 1: 呃，这是代表贝尔已经到了成长的极限吗！？\0
+	Line 2: \0
+
+Entry 710: 42476	42490	-1	1	0	
+	Line 0: 哎呀……好像经历太多了。\0
+	Line 1: 到达这个境界，我能得到什么呢？\0
+	Line 2: \0
+
+Entry 711: 42503	42517	-1	1	0	
+	Line 0: 成长的极限、吗？无法理解。\0
+	Line 1: 极限的话，只能通过、其他方法、变强。\0
+	Line 2: \0
+
+Entry 712: 42530	42544	-1	1	0	
+	Line 0: 这就是极限了吗……\0
+	Line 1: 总算走到这一步了吗……\0
+	Line 2: \0
+
+Entry 713: 42557	42571	-1	1	0	
+	Line 0: 我站上顶点了吗……？\0
+	Line 1: 不论再怎么锻炼自己……还是非常遥远……\0
+	Line 2: \0
+
+Entry 714: 42584	42598	-1	1	0	
+	Line 0: 看来我已经到达颠峰了……\0
+	Line 1: 没想到我竟然能变得如此强大。\0
+	Line 2: \0
+
+Entry 715: 42611	42625	-1	1	0	
+	Line 0: 或许很难再继续成长了呢……\0
+	Line 1: 都变得这么强了，我可是无所惧怕了呢。\0
+	Line 2: \0
+
+Entry 716: 42638	42652	-1	1	0	
+	Line 0: 变得如此厉害了呢……\0
+	Line 1: 呵呵，你可以以我为傲哦？\0
+	Line 2: \0
+
+Entry 717: 42665	42679	-1	1	0	
+	Line 0: 这是我努力的成果！\0
+	Line 1: 原来我可以变得这么强大。\0
+	Line 2: \0
+
+Entry 718: 42692	42706	-1	1	0	
+	Line 0: 我跟以前完全不一样了呢。\0
+	Line 1: 没想到我能达到这种境界……\0
+	Line 2: \0
+
+Entry 719: 42719	42733	-1	1	0	
+	Line 0: 没有比这更好的表现了吧。\0
+	Line 1: 好像达到理想的境界了。\0
+	Line 2: \0
+
+Entry 720: 42746	42760	-1	1	0	
+	Line 0: 俺可能没办法块头再变得更大了呢。\0
+	Line 1: 呜哦哦！俺的肌肉好饱满！\0
+	Line 2: \0
+
+Entry 721: 42773	42787	-1	1	0	
+	Line 0: 我认为我尽力了。\0
+	Line 1: 这或许就是我的极限呢。\0
+	Line 2: \0
+
+Entry 722: 42800	42814	-1	1	0	
+	Line 0: 总算来到这一步了……\0
+	Line 1: 我的目标就是要达到这个境界。\0
+	Line 2: \0
+
+Entry 723: 42827	42841	-1	1	0	
+	Line 0: 或许很难再继续成长了……\0
+	Line 1: 能成长到这个境界好像做梦一样。\0
+	Line 2: \0
+
+Entry 724: 42854	42868	-1	1	0	
+	Line 0: 这已经是人家的极限了～\0
+	Line 1: 人家是不是太过努力了呢～？\0
+	Line 2: \0
+
+Entry 725: 42881	42895	-1	1	0	
+	Line 0: 或许很难再更进一步的成长了呢……\0
+	Line 1: 达到这个境界的一天，我等很久了……！\0
+	Line 2: \0
+
+Entry 726: 42909	-1	-1	1	0	
+	Line 0: 我重夺以往的力量了吗？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 727: 42922	-1	-1	1	0	
+	Line 0: 我也完全能够独当一面了呢！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 728: 42941	-1	-1	1	0	
+	Line 0: 没想到一把年纪还能达到这个境界……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 729: 42956	-1	-1	1	0	
+	Line 0: 不知不觉间……我的力量已经登峰造极了呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 730: 42976	-1	-1	1	0	
+	Line 0: 我竟然还能达到这个境界。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 731: 42991	-1	-1	1	0	
+	Line 0: 哦哦，我竟然能变得这么强！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 732: 43008	-1	-1	1	0	
+	Line 0: 已经没有人可以阻止我了哟……没错吧？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 733: 43024	-1	-1	1	0	
+	Line 0: 锻炼至此便足够了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 734: 43040	43054	-1	1	0	
+	Line 0: 这样就能够守护蕾雅大人吗……\0
+	Line 1: 我要以这股力量来守护蕾雅大人……！\0
+	Line 2: \0
+
+Entry 735: 43067	-1	-1	1	0	
+	Line 0: 成长到这个地步也是尽头了吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 736: 43080	-1	-1	1	0	
+	Line 0: 我所有的力量，在这一刻全数解放了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 737: 43093	-1	-1	1	0	
+	Line 0: 对这副身躯来说，这已经是极限了呐！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 738: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 739: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 740: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 741: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 742: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 743: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 744: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 745: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 746: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 747: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 748: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 749: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 750: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 751: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 752: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 753: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 754: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 755: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 756: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 757: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 758: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 759: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 760: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 761: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 762: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 763: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 764: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 765: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 766: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 767: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 768: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 769: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 770: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 771: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 772: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 773: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 774: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 775: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 776: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 777: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 778: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 779: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 780: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 781: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 782: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 783: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 784: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 785: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 786: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 787: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 788: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 789: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 790: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 791: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 792: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 793: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 794: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 795: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 796: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 797: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 798: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 799: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 800: 42193	42207	-1	0	0	
+	Line 0: 我能活用这些经验。\0
+	Line 1: 好像开始掌握到了。\0
+	Line 2: \0
+
+Entry 801: 42220	42234	-1	0	0	
+	Line 0: 我能活用这些经验呢。\0
+	Line 1: 好像开始掌握到了呢。\0
+	Line 2: \0
+
+Entry 802: 42247	42261	-1	0	0	
+	Line 0: 学会的知识是不会背叛自己的。\0
+	Line 1: 要是这力量能够帮上什么忙的话……\0
+	Line 2: \0
+
+Entry 803: 42274	42288	42302	0	0	
+	Line 0: 似乎抓到诀窍了。\0
+	Line 1: 今后也得努力修练呢。\0
+	Line 2: 我开始上手了吗？\0
+
+Entry 804: 42315	42329	-1	0	0	
+	Line 0: 很好，我掌握住大部分的要领了。\0
+	Line 1: 也是有非实战就学不到的事情。\0
+	Line 2: \0
+
+Entry 805: 42342	42356	-1	0	0	
+	Line 0: 哦，我开始明白了。\0
+	Line 1: 力量总不会嫌太多。\0
+	Line 2: \0
+
+Entry 806: 42369	42383	-1	0	0	
+	Line 0: 我有一点头绪了。\0
+	Line 1: 赌上性命得到的经验是很贵重的。\0
+	Line 2: \0
+
+Entry 807: 42396	42410	-1	0	0	
+	Line 0: 我觉得有点意思呢。\0
+	Line 1: 在战场之外也能派上用场吗？\0
+	Line 2: \0
+
+Entry 808: 42423	42437	-1	0	0	
+	Line 0: 我掌握到诀窍了吗！？\0
+	Line 1: 如果派不上用场就没意义了。\0
+	Line 2: \0
+
+Entry 809: 42450	42464	-1	0	0	
+	Line 0: 贝尔好像……抓到了诀窍？\0
+	Line 1: 贝尔好像……抓到了诀窍？\0
+	Line 2: \0
+
+Entry 810: 42477	42491	-1	0	0	
+	Line 0: 呵呵，稍微明白一些诀窍了。\0
+	Line 1: 似乎熟练了呢。\0
+	Line 2: \0
+
+Entry 811: 42504	42518	-1	0	0	
+	Line 0: 我、进化、成长了。\0
+	Line 1: 我、进化、成长了。\0
+	Line 2: \0
+
+Entry 812: 42531	42545	-1	0	0	
+	Line 0: 看来已经熟练了。\0
+	Line 1: 就算讨厌，也总会习惯的。\0
+	Line 2: \0
+
+Entry 813: 42558	42572	-1	0	0	
+	Line 0: 看来锻炼有些成果了。\0
+	Line 1: 可以的话还想更进步啊。\0
+	Line 2: \0
+
+Entry 814: 42585	42599	-1	0	0	
+	Line 0: 原来是这么一回事啊……\0
+	Line 1: 好，渐渐习惯了。\0
+	Line 2: \0
+
+Entry 815: 42612	42626	-1	0	0	
+	Line 0: 我好像明白了。\0
+	Line 1: 我要明白了，我能明白了……\0
+	Line 2: \0
+
+Entry 816: 42639	42653	-1	0	0	
+	Line 0: 我好像理解了哦～\0
+	Line 1: 原来如此……\0
+	Line 2: \0
+
+Entry 817: 42666	42680	-1	0	0	
+	Line 0: 或许锻炼略有小成？\0
+	Line 1: 努力好像开花结果了。\0
+	Line 2: \0
+
+Entry 818: 42693	42707	-1	0	0	
+	Line 0: 好像开始掌握到了呢。\0
+	Line 1: 我的技术都磨练得更纯熟了。\0
+	Line 2: \0
+
+Entry 819: 42720	42734	-1	0	0	
+	Line 0: 嗯，我开始懂了。\0
+	Line 1: 嗯，我似乎能使用这个呢。\0
+	Line 2: \0
+
+Entry 820: 42747	42761	-1	0	0	
+	Line 0: 俺好像明白了哦！\0
+	Line 1: 这也是必要的呢。\0
+	Line 2: \0
+
+Entry 821: 42774	42788	-1	0	0	
+	Line 0: 理解了之后还挺有趣的嘛！\0
+	Line 1: 我还想多加磨练呢！\0
+	Line 2: \0
+
+Entry 822: 42801	42815	-1	0	0	
+	Line 0: 嗯嗯，原来如此……\0
+	Line 1: 嗯嗯，原来如此……\0
+	Line 2: \0
+
+Entry 823: 42828	42842	-1	0	0	
+	Line 0: 好像稍微懂了……\0
+	Line 1: 只要能使用这个，我也能……\0
+	Line 2: \0
+
+Entry 824: 42855	42869	-1	0	0	
+	Line 0: 这能派上用场吗～？\0
+	Line 1: 这似乎很实用呢～！\0
+	Line 2: \0
+
+Entry 825: 42882	42896	-1	0	0	
+	Line 0: 原来如此……我懂了！\0
+	Line 1: 要运用到实战上看看吗……\0
+	Line 2: \0
+
+Entry 826: 42910	-1	-1	0	0	
+	Line 0: 学无止境呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 827: 42923	-1	-1	0	0	
+	Line 0: 获益良多呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 828: 42942	-1	-1	0	0	
+	Line 0: 唔……还有研究空间。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 829: 42957	-1	-1	0	0	
+	Line 0: 我的身体不知不觉间就掌握了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 830: 42977	-1	-1	0	0	
+	Line 0: 唔，原来如此……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 831: 42992	-1	-1	0	0	
+	Line 0: 技巧磨练得更加精湛了啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 832: 43009	-1	-1	0	0	
+	Line 0: 看来已经十分熟练了呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 833: 43025	-1	-1	0	0	
+	Line 0: 技术是不会背叛自己的。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 834: 43041	43055	-1	0	0	
+	Line 0: 开始有点明白了。\0
+	Line 1: 嗯，我开始明白了。\0
+	Line 2: \0
+
+Entry 835: 43068	-1	-1	0	0	
+	Line 0: 看来还能加把劲呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 836: 43081	-1	-1	0	0	
+	Line 0: 我更加理解了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 837: 43094	-1	-1	0	0	
+	Line 0: 哦，这可真有意思。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 838: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 839: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 840: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 841: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 842: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 843: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 844: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 845: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 846: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 847: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 848: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 849: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 850: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 851: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 852: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 853: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 854: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 855: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 856: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 857: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 858: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 859: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 860: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 861: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 862: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 863: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 864: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 865: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 866: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 867: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 868: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 869: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 870: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 871: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 872: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 873: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 874: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 875: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 876: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 877: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 878: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 879: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 880: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 881: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 882: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 883: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 884: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 885: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 886: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 887: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 888: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 889: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 890: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 891: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 892: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 893: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 894: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 895: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 896: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 897: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 898: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 899: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 900: 42194	42208	-1	0	0	
+	Line 0: 还有许多事物要学习。\0
+	Line 1: 还有很多该学习的东西。\0
+	Line 2: \0
+
+Entry 901: 42221	42235	-1	0	0	
+	Line 0: 还有许多事物要学习呢。\0
+	Line 1: 该学习的东西还有很多呢。\0
+	Line 2: \0
+
+Entry 902: 42248	42262	-1	0	0	
+	Line 0: 有所收获呢。\0
+	Line 1: 欲穷千里目，更上一层楼。\0
+	Line 2: \0
+
+Entry 903: 42275	42289	42303	0	0	
+	Line 0: 这都是宝贵的经验呢。\0
+	Line 1: 这成果会为我们带来更美好的未来。\0
+	Line 2: 似乎磨练得更纯熟了。\0
+
+Entry 904: 42316	42330	-1	0	0	
+	Line 0: 原来如此……是这个样子的呢。\0
+	Line 1: 原来如此……该怎么运用于计策之中呢？\0
+	Line 2: \0
+
+Entry 905: 42343	42357	-1	0	0	
+	Line 0: 这就是指导的成果吗？\0
+	Line 1: 这个似乎可以利用呢。\0
+	Line 2: \0
+
+Entry 906: 42370	42384	-1	0	0	
+	Line 0: 嗯，我总有一天会精通此道。\0
+	Line 1: 不是总有一天，我会立刻精通此道。\0
+	Line 2: \0
+
+Entry 907: 42397	42411	-1	0	0	
+	Line 0: 只要到最后都不会腻就好。\0
+	Line 1: 看来接下来的路还很长呢。\0
+	Line 2: \0
+
+Entry 908: 42424	42438	-1	0	0	
+	Line 0: 要在实战中试试才行。\0
+	Line 1: 要在实战中试试才行。\0
+	Line 2: \0
+
+Entry 909: 42451	42465	-1	0	0	
+	Line 0: 虽然这股力量对家里蹲来说没什么用处……\0
+	Line 1: 虽然这股力量对家里蹲来说没什么用处……\0
+	Line 2: \0
+
+Entry 910: 42478	42492	-1	0	0	
+	Line 0: 深入理解之后，真是感到开心呢。\0
+	Line 1: 深入理解之后，真是感到开心呢。\0
+	Line 2: \0
+
+Entry 911: 42505	42519	-1	0	0	
+	Line 0: 我只是、一步一步、脚踏实地、向前进。\0
+	Line 1: 我只是、一步一步、脚踏实地、向前进。\0
+	Line 2: \0
+
+Entry 912: 42532	42546	-1	0	0	
+	Line 0: 抓到诀窍了。\0
+	Line 1: 还不够……我还能继续。\0
+	Line 2: \0
+
+Entry 913: 42559	42573	-1	0	0	
+	Line 0: 比起之前更熟练了吧。\0
+	Line 1: 这些经验会变成我成长的粮食。\0
+	Line 2: \0
+
+Entry 914: 42586	42600	-1	0	0	
+	Line 0: 得累积更多经验才行。\0
+	Line 1: 抓到诀窍了！\0
+	Line 2: \0
+
+Entry 915: 42613	42627	-1	0	0	
+	Line 0: 原来如此，我理解了。\0
+	Line 1: 距离一流还很遥远吗……？\0
+	Line 2: \0
+
+Entry 916: 42640	42654	-1	0	0	
+	Line 0: 好像变得熟练了呢～\0
+	Line 1: 我好像抓到手感了～\0
+	Line 2: \0
+
+Entry 917: 42667	42681	-1	0	0	
+	Line 0: 必须记住这个感觉。\0
+	Line 1: 好像稍微变得熟练了？\0
+	Line 2: \0
+
+Entry 918: 42694	42708	-1	0	0	
+	Line 0: 原来如此，是这样使用的呢。\0
+	Line 1: 这技能该如何活用呢？\0
+	Line 2: \0
+
+Entry 919: 42721	42735	-1	0	0	
+	Line 0: 我开始看见本质了。\0
+	Line 1: 越来越接近核心了……\0
+	Line 2: \0
+
+Entry 920: 42748	42762	-1	0	0	
+	Line 0: 好像能够比之前做得更好了哦！\0
+	Line 1: 俺好像也能办得到！\0
+	Line 2: \0
+
+Entry 921: 42775	42789	-1	0	0	
+	Line 0: 我想我更加明白了。\0
+	Line 1: 基础的范围应该都学会了吧。\0
+	Line 2: \0
+
+Entry 922: 42802	42816	-1	0	0	
+	Line 0: 哈～哈，我开始明白了。\0
+	Line 1: 我会拼死努力的。\0
+	Line 2: \0
+
+Entry 923: 42829	42843	-1	0	0	
+	Line 0: 好像正在进步……\0
+	Line 1: 我把握住重点了……\0
+	Line 2: \0
+
+Entry 924: 42856	42870	-1	0	0	
+	Line 0: 哈哈哈，人家开始明白了～\0
+	Line 1: 别看人家这样，人家可是有在努力的哦～\0
+	Line 2: \0
+
+Entry 925: 42883	42897	-1	0	0	
+	Line 0: 理解原理之后就变得简单了呢。\0
+	Line 1: 看来还能更加把劲呢。\0
+	Line 2: \0
+
+Entry 926: 42911	-1	-1	0	0	
+	Line 0: 似乎开始上手了！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 927: 42924	-1	-1	0	0	
+	Line 0: 渐渐地开始明白了呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 928: 42943	-1	-1	0	0	
+	Line 0: 还远远不到完美的地步啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 929: 42958	-1	-1	0	0	
+	Line 0: 我还是歌姬的时候，记性也很好呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 930: 42978	-1	-1	0	0	
+	Line 0: 学海无涯……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 931: 42993	-1	-1	0	0	
+	Line 0: 我将运用这股力量多加表现！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 932: 43010	-1	-1	0	0	
+	Line 0: 为了活下来，这很重要吧？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 933: 43026	-1	-1	0	0	
+	Line 0: 开始有点明白了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 934: 43042	43056	-1	0	0	
+	Line 0: 逐渐掌握诀窍了。\0
+	Line 1: 我应该掌握住大部分的要领了……\0
+	Line 2: \0
+
+Entry 935: 43069	-1	-1	0	0	
+	Line 0: 越来越有趣了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 936: 43082	-1	-1	0	0	
+	Line 0: 好像开始掌握到了呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 937: 43095	-1	-1	0	0	
+	Line 0: 还需要多加学习呐！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 938: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 939: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 940: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 941: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 942: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 943: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 944: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 945: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 946: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 947: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 948: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 949: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 950: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 951: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 952: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 953: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 954: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 955: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 956: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 957: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 958: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 959: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 960: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 961: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 962: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 963: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 964: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 965: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 966: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 967: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 968: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 969: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 970: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 971: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 972: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 973: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 974: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 975: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 976: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 977: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 978: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 979: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 980: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 981: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 982: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 983: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 984: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 985: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 986: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 987: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 988: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 989: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 990: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 991: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 992: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 993: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 994: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 995: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 996: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 997: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 998: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 999: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1000: 42195	42209	-1	0	0	
+	Line 0: 我会记住这个感觉。\0
+	Line 1: 获得了很好的经验。\0
+	Line 2: \0
+
+Entry 1001: 42222	42236	-1	0	0	
+	Line 0: 我会记住这个感觉。\0
+	Line 1: 获得了很好的经验呢！\0
+	Line 2: \0
+
+Entry 1002: 42249	42263	-1	0	0	
+	Line 0: 好像掌握些什么了。\0
+	Line 1: 我又得到了一份力量。\0
+	Line 2: \0
+
+Entry 1003: 42276	42290	42304	0	0	
+	Line 0: 看来开始像话了呢。\0
+	Line 1: 这都是宝贵的经验呢。\0
+	Line 2: 我不会自满。\0
+
+Entry 1004: 42317	42331	-1	0	0	
+	Line 0: 没有比经验更好的财产了。\0
+	Line 1: 能选择的手段当然是越多越好啊。\0
+	Line 2: \0
+
+Entry 1005: 42344	42358	-1	0	0	
+	Line 0: 战场上也可以学到很多事物……\0
+	Line 1: 战场上也可以学到很多事物……\0
+	Line 2: \0
+
+Entry 1006: 42371	42385	-1	0	0	
+	Line 0: 原来如此，我明白了。\0
+	Line 1: 原来如此，我明白了。\0
+	Line 2: \0
+
+Entry 1007: 42398	42412	-1	0	0	
+	Line 0: 如何，我很熟练了吗？\0
+	Line 1: 稍微能够运用了呢。\0
+	Line 2: \0
+
+Entry 1008: 42425	42439	-1	0	0	
+	Line 0: 要是有变强一点就好了。\0
+	Line 1: 我有在变强吗？\0
+	Line 2: \0
+
+Entry 1009: 42452	42466	-1	0	0	
+	Line 0: 希望能因此变得更厉害呢……\0
+	Line 1: 嗯，只要能变强一点点贝尔就很开心了。\0
+	Line 2: \0
+
+Entry 1010: 42479	42493	-1	0	0	
+	Line 0: 如此脚踏实地地学习也是非常重要的。\0
+	Line 1: 如此脚踏实地地学习也是非常重要的。\0
+	Line 2: \0
+
+Entry 1011: 42506	42520	-1	0	0	
+	Line 0: 我、更加、接近、专精了。\0
+	Line 1: 我、更加、接近、专精的境界了。\0
+	Line 2: \0
+
+Entry 1012: 42533	42547	-1	0	0	
+	Line 0: 更加深入理解了吗……\0
+	Line 1: 原来战场上也有值得学习之处啊。\0
+	Line 2: \0
+
+Entry 1013: 42560	42574	-1	0	0	
+	Line 0: 掌握诀窍了。\0
+	Line 1: 我所冀望的境界，还在遥远的前方。\0
+	Line 2: \0
+
+Entry 1014: 42587	42601	-1	0	0	
+	Line 0: 我好像……成功了……？\0
+	Line 1: 越来越得心应手了。\0
+	Line 2: \0
+
+Entry 1015: 42614	42628	-1	0	0	
+	Line 0: 只要抓到重点就简单了。\0
+	Line 1: 渐渐地掌握了呢。\0
+	Line 2: \0
+
+Entry 1016: 42641	42655	-1	0	0	
+	Line 0: 呵呵，差不多都习惯了呢～\0
+	Line 1: 虽然我也不清楚习惯了之后会如何……\0
+	Line 2: \0
+
+Entry 1017: 42668	42682	-1	0	0	
+	Line 0: 好像变得更熟练了。\0
+	Line 1: 啊，我渐渐地了解了！\0
+	Line 2: \0
+
+Entry 1018: 42695	42709	-1	0	0	
+	Line 0: 我认为稍微有所进步了。\0
+	Line 1: 我想我抓到诀窍了。\0
+	Line 2: \0
+
+Entry 1019: 42722	42736	-1	0	0	
+	Line 0: 努力有回报了呢。\0
+	Line 1: 我的进步没有终点。\0
+	Line 2: \0
+
+Entry 1020: 42749	42763	-1	0	0	
+	Line 0: 俺好像还在成长期呢！\0
+	Line 1: 锻炼得相当不错呢！\0
+	Line 2: \0
+
+Entry 1021: 42776	42790	-1	0	0	
+	Line 0: 我想我掌握住大部分的要领了。\0
+	Line 1: 我觉得抓到诀窍了。\0
+	Line 2: \0
+
+Entry 1022: 42803	42817	-1	0	0	
+	Line 0: 我想我抓到诀窍了。\0
+	Line 1: 得朝着下一个目标努力才行呢！\0
+	Line 2: \0
+
+Entry 1023: 42830	42844	-1	0	0	
+	Line 0: 或许抓到诀窍了……\0
+	Line 1: 若要将此运用到实战……\0
+	Line 2: \0
+
+Entry 1024: 42857	42871	-1	0	0	
+	Line 0: 这可能很适合人家呢～\0
+	Line 1: 人家也能使用这个吗～？\0
+	Line 2: \0
+
+Entry 1025: 42884	42898	-1	0	0	
+	Line 0: 我已经相当熟练了哦！\0
+	Line 1: 如果能顺利地应用的话……\0
+	Line 2: \0
+
+Entry 1026: 42912	-1	-1	0	0	
+	Line 0: 希望这份力量能帮上忙吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1027: 42925	-1	-1	0	0	
+	Line 0: 原来是这么一回事呢……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1028: 42944	-1	-1	0	0	
+	Line 0: 学习技能不分年龄。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1029: 42959	-1	-1	0	0	
+	Line 0: 我开始懂得这招的窍门了呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1030: 42979	-1	-1	0	0	
+	Line 0: 哦，又认识到新的事物了。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1031: 42994	-1	-1	0	0	
+	Line 0: 看来已经差不多熟练了！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1032: 43011	-1	-1	0	0	
+	Line 0: 就算再不愿意，只要战斗就会锻炼到。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1033: 43027	-1	-1	0	0	
+	Line 0: 原来这才是着眼点啊。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1034: 43043	43057	-1	0	0	
+	Line 0: 嗯，总觉得能办得到。\0
+	Line 1: 总算开始像话了吧。\0
+	Line 2: \0
+
+Entry 1035: 43070	-1	-1	0	0	
+	Line 0: 这感觉还不错。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1036: 43083	-1	-1	0	0	
+	Line 0: 似乎能派上用场呢。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1037: 43096	-1	-1	0	0	
+	Line 0: 吾会将此化为己力。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1038: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1039: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1040: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1041: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1042: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1043: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1044: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1045: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1046: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1047: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1048: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1049: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1050: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1051: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1052: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1053: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1054: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1055: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1056: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1057: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1058: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1059: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1060: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1061: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1062: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1063: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1064: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1065: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1066: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1067: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1068: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1069: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1070: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1071: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1072: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1073: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1074: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1075: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1076: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1077: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1078: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1079: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1080: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1081: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1082: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1083: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1084: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1085: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1086: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1087: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1088: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1089: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1090: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1091: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1092: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1093: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1094: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1095: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1096: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1097: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1098: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1099: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1100: 42196	42210	-1	1	0	
+	Line 0: 我完全掌握了吧？\0
+	Line 1: 似乎已经理解得很透彻了。\0
+	Line 2: \0
+
+Entry 1101: 42223	42237	-1	1	0	
+	Line 0: 我完全掌握了吧？\0
+	Line 1: 已经理解得很透彻了吧？\0
+	Line 2: \0
+
+Entry 1102: 42250	42264	-1	1	0	
+	Line 0: 我全部理解了。\0
+	Line 1: 看来我付出的努力得到回报了。\0
+	Line 2: \0
+
+Entry 1103: 42277	42291	42305	1	0	
+	Line 0: 达到这个水平已经相当足够了吧。\0
+	Line 1: 好，该想想怎样活用这技能……\0
+	Line 2: 已经足够了吧……\0
+
+Entry 1104: 42318	42332	-1	1	0	
+	Line 0: 这样子就完美了吧？\0
+	Line 1: 有这完成度的话，也能活用在计策上了呢。\0
+	Line 2: \0
+
+Entry 1105: 42345	42359	-1	1	0	
+	Line 0: 又获得新的力量了。\0
+	Line 1: 这项技能要活用还是埋没，全取决于自己……\0
+	Line 2: \0
+
+Entry 1106: 42372	42386	-1	1	0	
+	Line 0: 高贵之人学得也快。\0
+	Line 1: 这是拼上性命而得来的力量……\0
+	Line 2: \0
+
+Entry 1107: 42399	42413	-1	1	0	
+	Line 0: 嗯～试着去做就会有收获呢。\0
+	Line 1: 技能当然是越多越好。\0
+	Line 2: \0
+
+Entry 1108: 42426	42440	-1	1	0	
+	Line 0: 我要用这股力量朝更大的目标前进。\0
+	Line 1: 我要用这股力量，开创未来！\0
+	Line 2: \0
+
+Entry 1109: 42453	42467	-1	1	0	
+	Line 0: 哦哦！我完全理解了！\0
+	Line 1: 好像融会贯通了呢！\0
+	Line 2: \0
+
+Entry 1110: 42480	42494	-1	1	0	
+	Line 0: 我感觉自己彻底融会贯通了。\0
+	Line 1: 自己彻底融会贯通了。\0
+	Line 2: \0
+
+Entry 1111: 42507	42521	-1	1	0	
+	Line 0: 学到、精髓了。\0
+	Line 1: 学到、精髓了。\0
+	Line 2: \0
+
+Entry 1112: 42534	42548	-1	1	0	
+	Line 0: 变得像话了呢。\0
+	Line 1: 做的不错吧。\0
+	Line 2: \0
+
+Entry 1113: 42561	42575	-1	1	0	
+	Line 0: 如此纯熟应该够了吧？\0
+	Line 1: 能达到如此境界已足够了。\0
+	Line 2: \0
+
+Entry 1114: 42588	42602	-1	1	0	
+	Line 0: 应该无法再提升了吧。\0
+	Line 1: 彻底学会了！\0
+	Line 2: \0
+
+Entry 1115: 42615	42629	-1	1	0	
+	Line 0: 如何？很完美对吧？\0
+	Line 1: 这股力量……得让它派得上用场才行呢。\0
+	Line 2: \0
+
+Entry 1116: 42642	42656	-1	1	0	
+	Line 0: 这样就完美了～\0
+	Line 1: 都做到这个地步了，已经足够了吧～？\0
+	Line 2: \0
+
+Entry 1117: 42669	42683	-1	1	0	
+	Line 0: 这么一来就无可挑剔了。\0
+	Line 1: 我的努力没有白费呢！\0
+	Line 2: \0
+
+Entry 1118: 42696	42710	-1	1	0	
+	Line 0: 这么熟练的话总该足够了吧。\0
+	Line 1: 之前的努力没有白费呢。\0
+	Line 2: \0
+
+Entry 1119: 42723	42737	-1	1	0	
+	Line 0: 我完全地掌握了呢。\0
+	Line 1: 如此一来，我的活跃将会是必然的。\0
+	Line 2: \0
+
+Entry 1120: 42750	42764	-1	1	0	
+	Line 0: 俺的身体会记着，已经没问题了！\0
+	Line 1: 这样已经十分足够了吧？\0
+	Line 2: \0
+
+Entry 1121: 42777	42791	-1	1	0	
+	Line 0: 都达到这个程度了，应该无可挑剔了吧！\0
+	Line 1: 我觉得自己完全掌握了！\0
+	Line 2: \0
+
+Entry 1122: 42804	42818	-1	1	0	
+	Line 0: 嗯，我完全掌握了。\0
+	Line 1: 我得以这成果致胜……\0
+	Line 2: \0
+
+Entry 1123: 42831	42845	-1	1	0	
+	Line 0: 完全记起来了……\0
+	Line 1: 我想我彻底学会了……！\0
+	Line 2: \0
+
+Entry 1124: 42858	42872	-1	1	0	
+	Line 0: 人家又变得更可靠了呢……\0
+	Line 1: 人家做得这么好，应该非常足够了吧～？\0
+	Line 2: \0
+
+Entry 1125: 42885	42899	-1	1	0	
+	Line 0: 看来已经不能比现在的更完美了呢！\0
+	Line 1: 这样可以说是专精了吧？\0
+	Line 2: \0
+
+Entry 1126: 42913	-1	-1	1	0	
+	Line 0: 看来我完全掌握了！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1127: 42926	-1	-1	1	0	
+	Line 0: 我已经完全记起来了哟！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1128: 42945	-1	-1	1	0	
+	Line 0: 吾必定能够活用。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1129: 42960	42969	-1	1	0	
+	Line 0: 呵呵呵，我已经达到炉火纯青的境界了。\0
+	Line 1: 在战场上净会学到一些实用的经验呢。\0
+	Line 2: \0
+
+Entry 1130: 42980	-1	-1	1	0	
+	Line 0: 如此精熟，应该足够了吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1131: 42995	-1	-1	1	0	
+	Line 0: 哈哈哈！这样就完美了吧！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1132: 43012	-1	-1	1	0	
+	Line 0: 我会活用这股力量。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1133: 43028	-1	-1	1	0	
+	Line 0: 总算有所成就了吗？\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1134: 43044	43058	-1	1	0	
+	Line 0: 我觉得已经完全掌握了。\0
+	Line 1: 这么一来，就能随心所欲地使用了。\0
+	Line 2: \0
+
+Entry 1135: 43071	-1	-1	1	0	
+	Line 0: 好～算是这样吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1136: 43084	-1	-1	1	0	
+	Line 0: 这样就足够了吧。\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1137: 43097	-1	-1	1	0	
+	Line 0: 发现新技巧真是令人百感交集呐！\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1138: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1139: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1140: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1141: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1142: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1143: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1144: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1145: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1146: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1147: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1148: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1149: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1150: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1151: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1152: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1153: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1154: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1155: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1156: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1157: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1158: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1159: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1160: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1161: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1162: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1163: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1164: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1165: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1166: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1167: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1168: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1169: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1170: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1171: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+

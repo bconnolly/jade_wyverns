@@ -1,0 +1,6004 @@
+Header: 1264728	8	1200	32	24
+Flags: 0 0 0 1 1 1 1 1 
+Lines per Entry: 3
+
+Entry 0: 42187	-1	-1	3	0	
+	Line 0: Forgive me, everyone. My battle ends here.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1: 42214	-1	-1	3	0	
+	Line 0: Forgive me, everyone. My battle ends here.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 2: 42241	-1	-1	3	0	
+	Line 0: To be left behind... Unacceptable.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 3: 42268	-1	-1	3	0	
+	Line 0: I have no choice but to admit defeat.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 4: 42309	-1	-1	3	0	
+	Line 0: I didn't expect that... We'll call it a stalemate.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 5: 42336	-1	-1	3	0	
+	Line 0: Rendered useless... Lady Edelgard...forgive me.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 6: 42363	-1	-1	3	0	
+	Line 0: So shameful. How could I...fall like this?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 7: 42390	-1	-1	3	0	
+	Line 0: Perhaps it's time for a nice nap...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 8: 42417	-1	-1	3	0	
+	Line 0: What? I lost? Not me. Never me...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 9: 42444	-1	-1	3	0	
+	Line 0: Oh, Bernie... You're really not cut out for this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 10: 42471	-1	-1	3	0	
+	Line 0: Damn it! Not here... I can't quit now.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 11: 42498	-1	-1	3	0	
+	Line 0: I did not grab the victory. I must retreat now.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 12: 42525	-1	-1	3	0	
+	Line 0: I've failed... Apologies, Your Highness. I could not\nfulfill my duty.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 13: 42552	-1	-1	3	0	
+	Line 0: Can't move. Can't lift my weapon any longer.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 14: 42579	-1	-1	3	0	
+	Line 0: Maybe I'm not...cut out for this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 15: 42606	-1	-1	3	0	
+	Line 0: I can't believe it... Well, not much more I can\ndo here.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 16: 42633	-1	-1	3	0	
+	Line 0: I...I don't think I can keep fighting.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 17: 42660	-1	-1	3	0	
+	Line 0: Wasn't I...strong enough?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 18: 42687	-1	-1	3	0	
+	Line 0: Forgive me. Inexperience got the best of me.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 19: 42714	-1	-1	3	0	
+	Line 0: Impossible... How could I lose?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 20: 42741	-1	-1	3	0	
+	Line 0: Huh! There go the knees...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 21: 42768	-1	-1	3	0	
+	Line 0: I'm sorry, everyone. It was just too much.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 22: 42795	-1	-1	3	0	
+	Line 0: How vexing... This isn't what I wanted.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 23: 42822	-1	-1	3	0	
+	Line 0: I'm sorry. I wasn't able to help.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 24: 42849	-1	-1	3	0	
+	Line 0: Guess that's it for me. I'll just go rest up\nor...something.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 25: 42876	-1	-1	3	0	
+	Line 0: Damn! I'm letting the captain down.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 26: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 27: 42917	-1	-1	3	0	
+	Line 0: I must call it a day...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 28: 42936	-1	-1	3	0	
+	Line 0: I must fall back. My research cannot end here.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 29: 42951	-1	-1	3	0	
+	Line 0: I won't forget this. You can count on that.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 30: 42971	-1	-1	3	0	
+	Line 0: I have yet to be forgiven... For now, I must retreat.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 31: 42986	-1	-1	3	0	
+	Line 0: I have failed. Forgive me, but...I must pull back.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 32: 43003	-1	-1	3	0	
+	Line 0: Forced me to retreat, huh? You'll get yours.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 33: 43019	-1	-1	3	0	
+	Line 0: Didn't earn my keep...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 34: 43035	-1	-1	3	0	
+	Line 0: I can't let Lady Rhea down. I just need to get\na bit stronger...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 35: 43062	-1	-1	3	0	
+	Line 0: Damn... Am I losing my edge?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 36: 43075	-1	-1	3	0	
+	Line 0: How can this be?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 37: 43088	-1	-1	3	0	
+	Line 0: You shall not be forgiven!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 38: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 39: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 40: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 41: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 42: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 43: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 44: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 45: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 46: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 47: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 48: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 49: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 50: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 51: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 52: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 53: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 54: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 55: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 56: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 57: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 58: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 59: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 60: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 61: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 62: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 63: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 64: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 65: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 66: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 67: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 68: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 69: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 70: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 71: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 72: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 73: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 74: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 75: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 76: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 77: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 78: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 79: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 80: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 81: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 82: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 83: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 84: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 85: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 86: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 87: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 88: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 89: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 90: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 91: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 92: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 93: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 94: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 95: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 96: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 97: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 98: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 99: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 100: -1	42200	-1	3	0	
+	Line 0: \0
+	Line 1: So, this is how it ends...\0
+	Line 2: \0
+
+Entry 101: -1	42227	-1	3	0	
+	Line 0: \0
+	Line 1: So this...is how it ends.\0
+	Line 2: \0
+
+Entry 102: -1	42254	-1	3	0	
+	Line 0: \0
+	Line 1: My teacher...leave me behind. You must lead the\nothers onward...\0
+	Line 2: \0
+
+Entry 103: -1	42281	42295	3	0	
+	Line 0: \0
+	Line 1: So this is my punishment. Professor... Everyone...\nForgive me.\0
+	Line 2: A fitting end for a monster like me.\0
+
+Entry 104: -1	42322	-1	3	0	
+	Line 0: \0
+	Line 1: The dreams of men don't amount to much. Sorry,\nbut...it's up to you now.\0
+	Line 2: \0
+
+Entry 105: -1	42349	-1	3	0	
+	Line 0: \0
+	Line 1: Your Majesty, I die so that...you may seize\nyour destiny.\0
+	Line 2: \0
+
+Entry 106: -1	42376	-1	3	0	
+	Line 0: \0
+	Line 1: This is as far as I go. Why must it end here?\0
+	Line 2: \0
+
+Entry 107: -1	42403	-1	3	0	
+	Line 0: \0
+	Line 1: Just my luck to be born in such a dismal time...\0
+	Line 2: \0
+
+Entry 108: -1	42430	-1	3	0	
+	Line 0: \0
+	Line 1: Don't blame yourself. It's my fault for being weak.\0
+	Line 2: \0
+
+Entry 109: -1	42457	-1	3	0	
+	Line 0: \0
+	Line 1: Was there any more I...could have done?\0
+	Line 2: \0
+
+Entry 110: -1	42484	-1	3	0	
+	Line 0: \0
+	Line 1: I'd hoped to relive those glory days...but it wasn't\nmeant to be.\0
+	Line 2: \0
+
+Entry 111: -1	42511	-1	3	0	
+	Line 0: \0
+	Line 1: My dreams and pride...lost. Must I die on\nforeign soil?\0
+	Line 2: \0
+
+Entry 112: -1	42538	-1	3	0	
+	Line 0: \0
+	Line 1: Your Highness. Somehow you must...\0
+	Line 2: \0
+
+Entry 113: -1	42565	-1	3	0	
+	Line 0: \0
+	Line 1: Where's my weapon? Damn it! Can't see...anything.\0
+	Line 2: \0
+
+Entry 114: -1	42592	-1	3	0	
+	Line 0: \0
+	Line 1: I...don't want to die. I have to make it home.\0
+	Line 2: \0
+
+Entry 115: -1	42619	-1	3	0	
+	Line 0: \0
+	Line 1: Heh, I'm not afraid. I figured it would end like this...\0
+	Line 2: \0
+
+Entry 116: -1	42646	-1	3	0	
+	Line 0: \0
+	Line 1: I go now to meet the goddess...\0
+	Line 2: \0
+
+Entry 117: -1	42673	-1	3	0	
+	Line 0: \0
+	Line 1: Why...can't I stand? Need to keep...fighting.\0
+	Line 2: \0
+
+Entry 118: -1	42700	-1	3	0	
+	Line 0: \0
+	Line 1: Glenn...I'll see you soon. Death isn't sad, not...really.\0
+	Line 2: \0
+
+Entry 119: -1	42727	-1	3	0	
+	Line 0: \0
+	Line 1: To think I'd meet my end...in a place like this.\0
+	Line 2: \0
+
+Entry 120: -1	42754	-1	3	0	
+	Line 0: \0
+	Line 1: Maya...I'm sorry. I did what I could.\0
+	Line 2: \0
+
+Entry 121: -1	42781	-1	3	0	
+	Line 0: \0
+	Line 1: Wish I...could've seen more of the world.\0
+	Line 2: \0
+
+Entry 122: -1	42808	-1	3	0	
+	Line 0: \0
+	Line 1: If only I'd lived...just a little longer.\0
+	Line 2: \0
+
+Entry 123: -1	42835	-1	3	0	
+	Line 0: \0
+	Line 1: I have no regrets. I'll be with the goddess soon...\0
+	Line 2: \0
+
+Entry 124: -1	42862	-1	3	0	
+	Line 0: \0
+	Line 1: I'm...dying for someone else? I can't believe this.\0
+	Line 2: \0
+
+Entry 125: -1	42889	-1	3	0	
+	Line 0: \0
+	Line 1: I'm sorry, Captain. I couldn't keep my promise.\0
+	Line 2: \0
+
+Entry 126: -1	42903	-1	3	0	
+	Line 0: \0
+	Line 1: I have lived many years...yet there was still more\nI wished to do.\0
+	Line 2: \0
+
+Entry 127: -1	42930	-1	3	0	
+	Line 0: \0
+	Line 1: Mother...I will see you soon.\0
+	Line 2: \0
+
+Entry 128: -1	42949	-1	3	0	
+	Line 0: \0
+	Line 1: My dream... I can only hope someone else makes it\na reality...\0
+	Line 2: \0
+
+Entry 129: -1	42964	-1	3	0	
+	Line 0: \0
+	Line 1: I had hoped to settle down...but it's too late for all\nthat now.\0
+	Line 2: \0
+
+Entry 130: -1	42984	-1	3	0	
+	Line 0: \0
+	Line 1: Your Highness, I entreat you... Please,\nprotect Faerghus...\0
+	Line 2: \0
+
+Entry 131: -1	42999	-1	3	0	
+	Line 0: \0
+	Line 1: Don't worry, Captain. I've got...no regrets.\0
+	Line 2: \0
+
+Entry 132: -1	43016	-1	3	0	
+	Line 0: \0
+	Line 1: If I die here, you must save...\0
+	Line 2: \0
+
+Entry 133: -1	43032	-1	3	0	
+	Line 0: \0
+	Line 1: Finally found so many reasons to live...\0
+	Line 2: \0
+
+Entry 134: -1	43048	-1	3	0	
+	Line 0: \0
+	Line 1: Not like this. I haven't repaid my debt to Lady Rhea.\0
+	Line 2: \0
+
+Entry 135: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 136: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 137: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 138: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 139: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 140: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 141: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 142: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 143: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 144: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 145: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 146: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 147: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 148: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 149: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 150: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 151: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 152: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 153: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 154: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 155: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 156: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 157: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 158: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 159: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 160: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 161: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 162: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 163: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 164: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 165: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 166: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 167: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 168: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 169: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 170: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 171: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 200: -1	42201	-1	3	0	
+	Line 0: \0
+	Line 1: Forgive me. My battle ends here.\0
+	Line 2: \0
+
+Entry 201: -1	42228	-1	3	0	
+	Line 0: \0
+	Line 1: Forgive me. My battle ends here.\0
+	Line 2: \0
+
+Entry 202: -1	42255	-1	3	0	
+	Line 0: \0
+	Line 1: I've done all I can. I must retreat for now.\0
+	Line 2: \0
+
+Entry 203: -1	42282	42296	3	0	
+	Line 0: \0
+	Line 1: I took it too far. I must retreat for now.\0
+	Line 2: Not now! Not before...that woman's blood is spilled.\0
+
+Entry 204: -1	42323	-1	3	0	
+	Line 0: \0
+	Line 1: So much for my schemes. I'm bowing out.\0
+	Line 2: \0
+
+Entry 205: -1	42350	-1	3	0	
+	Line 0: \0
+	Line 1: I can fight no longer. I must pull back...\0
+	Line 2: \0
+
+Entry 206: -1	42377	-1	3	0	
+	Line 0: \0
+	Line 1: I cannot die here. For now I must retreat.\0
+	Line 2: \0
+
+Entry 207: -1	42404	-1	3	0	
+	Line 0: \0
+	Line 1: Not ready to die just yet. Please take care of the rest.\0
+	Line 2: \0
+
+Entry 208: -1	42431	-1	3	0	
+	Line 0: \0
+	Line 1: I'll get stronger...but for now, I'll retreat while I can.\0
+	Line 2: \0
+
+Entry 209: -1	42458	-1	3	0	
+	Line 0: \0
+	Line 1: It hurts... Better pull back, Bernie.\0
+	Line 2: \0
+
+Entry 210: -1	42485	-1	3	0	
+	Line 0: \0
+	Line 1: That's it for me. I still have more to do, after all.\0
+	Line 2: \0
+
+Entry 211: -1	42512	-1	3	0	
+	Line 0: \0
+	Line 1: I will not be dying here. I will retreat now.\0
+	Line 2: \0
+
+Entry 212: -1	42539	-1	3	0	
+	Line 0: \0
+	Line 1: His Highness saved my life. I won't waste it...\0
+	Line 2: \0
+
+Entry 213: -1	42566	-1	3	0	
+	Line 0: \0
+	Line 1: Guess that's all I had to offer.\0
+	Line 2: \0
+
+Entry 214: -1	42593	-1	3	0	
+	Line 0: \0
+	Line 1: I-I can't fight anymore. Must retreat while I can.\0
+	Line 2: \0
+
+Entry 215: -1	42620	-1	3	0	
+	Line 0: \0
+	Line 1: Damn. I'm not dying here. I'm pulling back for now.\0
+	Line 2: \0
+
+Entry 216: -1	42647	-1	3	0	
+	Line 0: \0
+	Line 1: I must pull back. Please, be safe.\0
+	Line 2: \0
+
+Entry 217: -1	42674	-1	3	0	
+	Line 0: \0
+	Line 1: I'll only slow you down. Go on without me.\0
+	Line 2: \0
+
+Entry 218: -1	42701	-1	3	0	
+	Line 0: \0
+	Line 1: I must retreat. I wish you luck with the battle ahead.\0
+	Line 2: \0
+
+Entry 219: -1	42728	-1	3	0	
+	Line 0: \0
+	Line 1: Impressive... I must retreat.\0
+	Line 2: \0
+
+Entry 220: -1	42755	-1	3	0	
+	Line 0: \0
+	Line 1: Brute force won't cut it.\0
+	Line 2: \0
+
+Entry 221: -1	42782	-1	3	0	
+	Line 0: \0
+	Line 1: I've been defeated. I'll withdraw...\0
+	Line 2: \0
+
+Entry 222: -1	42809	-1	3	0	
+	Line 0: \0
+	Line 1: Seems...I may have...underestimated the enemy.\0
+	Line 2: \0
+
+Entry 223: -1	42836	-1	3	0	
+	Line 0: \0
+	Line 1: I'm sorry. I'm just not good enough...\0
+	Line 2: \0
+
+Entry 224: -1	42863	-1	3	0	
+	Line 0: \0
+	Line 1: I clearly tried too hard. I'll just go rest up\nor...something.\0
+	Line 2: \0
+
+Entry 225: -1	42890	-1	3	0	
+	Line 0: \0
+	Line 1: Pathetic... Captain Jeralt would be ashamed.\0
+	Line 2: \0
+
+Entry 226: -1	42904	-1	3	0	
+	Line 0: \0
+	Line 1: I cannot allow myself to fall here... My role is\ntoo important.\0
+	Line 2: \0
+
+Entry 227: -1	42931	-1	3	0	
+	Line 0: \0
+	Line 1: I am sorry. I must retreat.\0
+	Line 2: \0
+
+Entry 228: -1	42950	-1	3	0	
+	Line 0: \0
+	Line 1: I must fall back. My work is too important to\nend here...\0
+	Line 2: \0
+
+Entry 229: -1	42965	-1	3	0	
+	Line 0: \0
+	Line 1: Can't afford to die here... None of us can.\0
+	Line 2: \0
+
+Entry 230: -1	42985	-1	3	0	
+	Line 0: \0
+	Line 1: It's time to retreat. I cannot afford to fall here.\0
+	Line 2: \0
+
+Entry 231: -1	43000	-1	3	0	
+	Line 0: \0
+	Line 1: I'm sorry. My faith is strong, but I fear I must retreat.\0
+	Line 2: \0
+
+Entry 232: -1	43017	-1	3	0	
+	Line 0: \0
+	Line 1: No... We're so close! I can't fall here. Please, see the\nbattle through.\0
+	Line 2: \0
+
+Entry 233: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 234: -1	43049	-1	3	0	
+	Line 0: \0
+	Line 1: How will I ever get strong enough...\0
+	Line 2: \0
+
+Entry 235: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 236: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 237: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 238: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 239: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 240: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 241: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 242: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 243: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 244: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 245: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 246: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 247: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 248: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 249: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 250: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 251: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 252: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 253: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 254: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 255: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 256: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 257: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 258: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 259: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 260: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 261: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 262: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 263: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 264: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 265: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 266: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 267: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 268: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 269: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 270: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 271: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 272: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 273: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 274: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 275: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 276: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 277: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 278: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 279: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 280: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 281: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 282: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 283: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 284: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 285: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 286: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 287: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 288: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 289: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 290: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 291: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 292: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 293: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 294: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 295: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 296: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 297: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 298: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 299: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 300: 42188	42202	-1	0	0	
+	Line 0: Such power dwells within?\0
+	Line 1: I'm stronger than before.\0
+	Line 2: \0
+
+Entry 301: 42215	42229	-1	0	0	
+	Line 0: Such power dwells within?\0
+	Line 1: I'm stronger than before.\0
+	Line 2: \0
+
+Entry 302: 42242	42256	-1	0	0	
+	Line 0: I must get stronger.\0
+	Line 1: My ambitions are within reach.\0
+	Line 2: \0
+
+Entry 303: 42269	42283	42297	0	0	
+	Line 0: I must keep aiming higher.\0
+	Line 1: Only the strong succeed.\0
+	Line 2: A consequence of the blood I've spilled.\0
+
+Entry 304: 42310	42324	-1	0	0	
+	Line 0: Progress suits me well.\0
+	Line 1: I'm that much closer to my goal.\0
+	Line 2: \0
+
+Entry 305: 42337	42351	-1	0	0	
+	Line 0: Any experience is worth having.\0
+	Line 1: To kill is to grow stronger.\0
+	Line 2: \0
+
+Entry 306: 42364	42378	-1	0	0	
+	Line 0: Always getting stronger.\0
+	Line 1: I'll take all the strength I can get.\0
+	Line 2: \0
+
+Entry 307: 42391	42405	-1	0	0	
+	Line 0: I think I'm improving.\0
+	Line 1: I think I'm improving.\0
+	Line 2: \0
+
+Entry 308: 42418	42432	-1	0	0	
+	Line 0: Pretty good, don't ya think?\0
+	Line 1: That's a win for everyone.\0
+	Line 2: \0
+
+Entry 309: 42445	42459	-1	0	0	
+	Line 0: Whoa, did I get stronger?\0
+	Line 1: Maybe this'll help me keep steady.\0
+	Line 2: \0
+
+Entry 310: 42472	42486	-1	0	0	
+	Line 0: I want to be all I can.\0
+	Line 1: All this power just to survive.\0
+	Line 2: \0
+
+Entry 311: 42499	42513	-1	0	0	
+	Line 0: Hard work created this.\0
+	Line 1: Hard work is a friend to count on.\0
+	Line 2: \0
+
+Entry 312: 42526	42540	-1	0	0	
+	Line 0: I will handle whatever comes.\0
+	Line 1: I wield this power for His Highness.\0
+	Line 2: \0
+
+Entry 313: 42553	42567	-1	0	0	
+	Line 0: Stronger, huh? We'll see.\0
+	Line 1: I fight and grow stronger. Only natural.\0
+	Line 2: \0
+
+Entry 314: 42580	42594	-1	0	0	
+	Line 0: I'll stick with it.\0
+	Line 1: I'll keep moving forward.\0
+	Line 2: \0
+
+Entry 315: 42607	42621	-1	0	0	
+	Line 0: This is what a real man looks like.\0
+	Line 1: Need to pull my weight.\0
+	Line 2: \0
+
+Entry 316: 42634	42648	-1	0	0	
+	Line 0: I feel more...powerful!\0
+	Line 1: This is for everyone's good.\0
+	Line 2: \0
+
+Entry 317: 42661	42675	-1	0	0	
+	Line 0: Feeling stronger.\0
+	Line 1: I can't stop now!\0
+	Line 2: \0
+
+Entry 318: 42688	42702	-1	0	0	
+	Line 0: Have I improved some?\0
+	Line 1: Hopefully I'll be more useful now.\0
+	Line 2: \0
+
+Entry 319: 42715	42729	-1	0	0	
+	Line 0: I am still not satisfied.\0
+	Line 1: Good but not enough.\0
+	Line 2: \0
+
+Entry 320: 42742	42756	-1	0	0	
+	Line 0: I think I've gotten stronger.\0
+	Line 1: Gotta get stronger.\0
+	Line 2: \0
+
+Entry 321: 42769	42783	-1	0	0	
+	Line 0: I feel like I've grown.\0
+	Line 1: I want to do my part.\0
+	Line 2: \0
+
+Entry 322: 42796	42810	-1	0	0	
+	Line 0: There's still a long way to go.\0
+	Line 1: I aspire to be my best.\0
+	Line 2: \0
+
+Entry 323: 42823	42837	-1	0	0	
+	Line 0: I guess I feel a little stronger.\0
+	Line 1: I feel a little stronger.\0
+	Line 2: \0
+
+Entry 324: 42850	42864	-1	0	0	
+	Line 0: Don't expect much more than that.\0
+	Line 1: It was the least I could do.\0
+	Line 2: \0
+
+Entry 325: 42877	42891	-1	0	0	
+	Line 0: Gotta keep improving.\0
+	Line 1: Still far from the top.\0
+	Line 2: \0
+
+Entry 326: 42905	-1	-1	0	0	
+	Line 0: Haven't withered away just yet.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 327: 42918	42932	-1	0	0	
+	Line 0: I am maturing at a rapid pace.\0
+	Line 1: I am only just beginning.\0
+	Line 2: \0
+
+Entry 328: 42937	-1	-1	0	0	
+	Line 0: I'm only getting better with age.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 329: 42952	42966	-1	0	0	
+	Line 0: More polish never hurts.\0
+	Line 1: Strength and beauty. What a pair.\0
+	Line 2: \0
+
+Entry 330: 42972	-1	-1	0	0	
+	Line 0: Ah, still had room to grow.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 331: 42987	-1	-1	0	0	
+	Line 0: Haa, more! Ahem. Good.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 332: 43004	-1	-1	0	0	
+	Line 0: I'm stronger!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 333: 43020	-1	-1	0	0	
+	Line 0: I'll grow as strong as I can.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 334: 43036	43050	-1	0	0	
+	Line 0: Feel like I grew up a little.\0
+	Line 1: Seems I've improved again.\0
+	Line 2: \0
+
+Entry 335: 43063	-1	-1	0	0	
+	Line 0: Even I have room to grow.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 336: 43076	-1	-1	0	0	
+	Line 0: I have ascended.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 337: 43089	-1	-1	0	0	
+	Line 0: I can do more than this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 338: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 339: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 340: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 341: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 342: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 343: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 344: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 345: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 346: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 347: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 348: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 349: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 350: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 351: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 352: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 353: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 354: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 355: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 356: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 357: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 358: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 359: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 360: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 361: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 362: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 363: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 364: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 365: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 366: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 367: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 368: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 369: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 370: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 371: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 372: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 373: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 374: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 375: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 376: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 377: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 378: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 379: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 380: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 381: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 382: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 383: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 384: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 385: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 386: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 387: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 388: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 389: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 390: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 391: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 392: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 393: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 394: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 395: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 396: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 397: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 398: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 399: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 400: 42189	42203	-1	0	0	
+	Line 0: We must all do our part.\0
+	Line 1: I'll use this power for the greater good.\0
+	Line 2: \0
+
+Entry 401: 42216	42230	-1	0	0	
+	Line 0: We must all do our part.\0
+	Line 1: I'll use this power for the greater good.\0
+	Line 2: \0
+
+Entry 402: 42243	42257	-1	0	0	
+	Line 0: It's a long road yet.\0
+	Line 1: I must outwit even death.\0
+	Line 2: \0
+
+Entry 403: 42270	42284	42298	0	0	
+	Line 0: I'm getting stronger. I can feel it.\0
+	Line 1: With this strength, I can protect them all.\0
+	Line 2: My strength is in the service of revenge.\0
+
+Entry 404: 42311	42325	-1	0	0	
+	Line 0: I expected as much.\0
+	Line 1: More battles means more strength.\0
+	Line 2: \0
+
+Entry 405: 42338	42352	-1	0	0	
+	Line 0: This strength will serve Lady Edelgard well!\0
+	Line 1: It is all for Her Majesty.\0
+	Line 2: \0
+
+Entry 406: 42365	42379	-1	0	0	
+	Line 0: The noble standard.\0
+	Line 1: I'm continuing to improve.\0
+	Line 2: \0
+
+Entry 407: 42392	42406	-1	0	0	
+	Line 0: If only my research had such results.\0
+	Line 1: If only progress didn't require so much work.\0
+	Line 2: \0
+
+Entry 408: 42419	42433	-1	0	0	
+	Line 0: Now I can do so much better!\0
+	Line 1: The results speak for themselves.\0
+	Line 2: \0
+
+Entry 409: 42446	42460	-1	0	0	
+	Line 0: I guess hard work does pay off.\0
+	Line 1: Seems like fighting's all I do these days.\0
+	Line 2: \0
+
+Entry 410: 42473	42487	-1	0	0	
+	Line 0: Growth is a part of life.\0
+	Line 1: I'm growing, but at what cost?\0
+	Line 2: \0
+
+Entry 411: 42500	42514	-1	0	0	
+	Line 0: War feeds my body and mind.\0
+	Line 1: War fuels my body and mind.\0
+	Line 2: \0
+
+Entry 412: 42527	42541	-1	0	0	
+	Line 0: I suppose I've improved.\0
+	Line 1: A step forward.\0
+	Line 2: \0
+
+Entry 413: 42554	42568	-1	0	0	
+	Line 0: I can feel the difference.\0
+	Line 1: Stronger. Faster. Never enough.\0
+	Line 2: \0
+
+Entry 414: 42581	42595	-1	0	0	
+	Line 0: I'm starting to see results.\0
+	Line 1: Without power, who can you protect?\0
+	Line 2: \0
+
+Entry 415: 42608	42622	-1	0	0	
+	Line 0: I like how this feels.\0
+	Line 1: That took too much effort.\0
+	Line 2: \0
+
+Entry 416: 42635	42649	-1	0	0	
+	Line 0: I won't let everyone down.\0
+	Line 1: Leave it to me.\0
+	Line 2: \0
+
+Entry 417: 42662	42676	-1	0	0	
+	Line 0: A change for the better.\0
+	Line 1: I'll protect everyone!\0
+	Line 2: \0
+
+Entry 418: 42689	42703	-1	0	0	
+	Line 0: I will get stronger still.\0
+	Line 1: I must continue my training.\0
+	Line 2: \0
+
+Entry 419: 42716	42730	-1	0	0	
+	Line 0: Nobles must be strong.\0
+	Line 1: I can exceed this.\0
+	Line 2: \0
+
+Entry 420: 42743	42757	-1	0	0	
+	Line 0: Still got room to grow.\0
+	Line 1: Did it again!\0
+	Line 2: \0
+
+Entry 421: 42770	42784	-1	0	0	
+	Line 0: I'm getting better.\0
+	Line 1: I believe I can do more.\0
+	Line 2: \0
+
+Entry 422: 42797	42811	-1	0	0	
+	Line 0: I have to try harder.\0
+	Line 1: I'm not there yet.\0
+	Line 2: \0
+
+Entry 423: 42824	42838	-1	0	0	
+	Line 0: I wonder how much more I can learn.\0
+	Line 1: I want to learn even more.\0
+	Line 2: \0
+
+Entry 424: 42851	42865	-1	0	0	
+	Line 0: I'm still a delicate flower, you know.\0
+	Line 1: I still have a long way to go.\0
+	Line 2: \0
+
+Entry 425: 42878	42892	-1	0	0	
+	Line 0: Can't get comfortable.\0
+	Line 1: I'll keep pushing myself.\0
+	Line 2: \0
+
+Entry 426: 42906	-1	-1	0	0	
+	Line 0: Had I room to grow?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 427: 42919	-1	-1	0	0	
+	Line 0: They say experience feeds growth.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 428: 42938	-1	-1	0	0	
+	Line 0: There is much to learn from battle.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 429: 42953	42967	-1	0	0	
+	Line 0: Getting stronger all the time.\0
+	Line 1: One day, the war will be over...\0
+	Line 2: \0
+
+Entry 430: 42973	-1	-1	0	0	
+	Line 0: Maybe I'm not a total waste.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 431: 42988	-1	-1	0	0	
+	Line 0: Still room to improve.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 432: 43005	43018	-1	0	0	
+	Line 0: The better to serve Lady Rhea.\0
+	Line 1: I fight for one reason and one alone.\0
+	Line 2: \0
+
+Entry 433: 43021	-1	-1	0	0	
+	Line 0: Strength is all for a mercenary.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 434: 43037	43051	-1	0	0	
+	Line 0: I feel...stronger.\0
+	Line 1: I've gotten stronger, haven't I?\0
+	Line 2: \0
+
+Entry 435: 43064	-1	-1	0	0	
+	Line 0: Guess I'm not done yet.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 436: 43077	-1	-1	0	0	
+	Line 0: Thank you, sweet Goddess.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 437: 43090	-1	-1	0	0	
+	Line 0: Hm. I feel more powerful.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 438: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 439: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 440: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 441: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 442: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 443: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 444: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 445: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 446: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 447: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 448: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 449: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 450: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 451: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 452: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 453: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 454: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 455: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 456: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 457: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 458: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 459: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 460: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 461: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 462: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 463: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 464: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 465: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 466: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 467: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 468: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 469: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 470: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 471: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 472: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 473: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 474: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 475: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 476: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 477: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 478: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 479: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 480: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 481: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 482: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 483: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 484: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 485: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 486: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 487: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 488: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 489: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 490: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 491: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 492: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 493: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 494: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 495: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 496: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 497: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 498: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 499: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 500: 42190	42204	-1	0	0	
+	Line 0: Another step forward.\0
+	Line 1: There is still room for improvement.\0
+	Line 2: \0
+
+Entry 501: 42217	42231	-1	0	0	
+	Line 0: Another step forward.\0
+	Line 1: There is still room for improvement.\0
+	Line 2: \0
+
+Entry 502: 42244	42258	-1	0	0	
+	Line 0: One step at a time...\0
+	Line 1: I've no time to idle.\0
+	Line 2: \0
+
+Entry 503: 42271	42285	42299	0	0	
+	Line 0: I will get stronger yet!\0
+	Line 1: I won't stop marching onward.\0
+	Line 2: With each kill, more monstrous...\0
+
+Entry 504: 42312	42326	-1	0	0	
+	Line 0: I'm not done yet.\0
+	Line 1: The weak fall. The strong live.\0
+	Line 2: \0
+
+Entry 505: 42339	42353	-1	0	0	
+	Line 0: I still have a long way to go.\0
+	Line 1: Not my goal but a means to an end.\0
+	Line 2: \0
+
+Entry 506: 42366	42380	-1	0	0	
+	Line 0: Greatness awaits me.\0
+	Line 1: Greatness awaits me.\0
+	Line 2: \0
+
+Entry 507: 42393	42407	-1	0	0	
+	Line 0: It's simple logic.\0
+	Line 1: Battle does have its benefits.\0
+	Line 2: \0
+
+Entry 508: 42420	42434	-1	0	0	
+	Line 0: I'm just gettin' started!\0
+	Line 1: And I'll keep getting stronger.\0
+	Line 2: \0
+
+Entry 509: 42447	42461	-1	0	0	
+	Line 0: I can improve too, you know.\0
+	Line 1: Only the strong survive.\0
+	Line 2: \0
+
+Entry 510: 42474	42488	-1	0	0	
+	Line 0: Well? Like what you see?\0
+	Line 1: Feels like fighting is all there is.\0
+	Line 2: \0
+
+Entry 511: 42501	42515	-1	0	0	
+	Line 0: I am greater now.\0
+	Line 1: For Brigid, I find strength to carry on.\0
+	Line 2: \0
+
+Entry 512: 42528	42542	-1	0	0	
+	Line 0: The better to serve His Highness.\0
+	Line 1: The better to serve His Highness.\0
+	Line 2: \0
+
+Entry 513: 42555	42569	-1	0	0	
+	Line 0: I have improved.\0
+	Line 1: Strength never betrays.\0
+	Line 2: \0
+
+Entry 514: 42582	42596	-1	0	0	
+	Line 0: I have so far left to go.\0
+	Line 1: I'm getting closer to my goals.\0
+	Line 2: \0
+
+Entry 515: 42609	42623	-1	0	0	
+	Line 0: Guess I've gotten better.\0
+	Line 1: I sense an improvement.\0
+	Line 2: \0
+
+Entry 516: 42636	42650	-1	0	0	
+	Line 0: You can rely on me.\0
+	Line 1: My work's not done.\0
+	Line 2: \0
+
+Entry 517: 42663	42677	-1	0	0	
+	Line 0: Everyone will be so pleased!\0
+	Line 1: I keep advancing!\0
+	Line 2: \0
+
+Entry 518: 42690	42704	-1	0	0	
+	Line 0: My technique could use some polish.\0
+	Line 1: For now, I'll revel in my achievement.\0
+	Line 2: \0
+
+Entry 519: 42717	42731	-1	0	0	
+	Line 0: I am still far from my best.\0
+	Line 1: My skills are rising to my status.\0
+	Line 2: \0
+
+Entry 520: 42744	42758	-1	0	0	
+	Line 0: Making my muscles proud.\0
+	Line 1: Am I getting closer?\0
+	Line 2: \0
+
+Entry 521: 42771	42785	-1	0	0	
+	Line 0: I'll try even harder next time.\0
+	Line 1: I've found strength in adversity.\0
+	Line 2: \0
+
+Entry 522: 42798	42812	-1	0	0	
+	Line 0: My efforts are paying off.\0
+	Line 1: I will keep making progress.\0
+	Line 2: \0
+
+Entry 523: 42825	42839	-1	0	0	
+	Line 0: Is this power really mine?\0
+	Line 1: I'm really gaining confidence.\0
+	Line 2: \0
+
+Entry 524: 42852	42866	-1	0	0	
+	Line 0: I think... Yeah. I'm definitely tougher.\0
+	Line 1: Hm, yep. I'm stronger now.\0
+	Line 2: \0
+
+Entry 525: 42879	42893	-1	0	0	
+	Line 0: I'm aiming high.\0
+	Line 1: There's more work to be done.\0
+	Line 2: \0
+
+Entry 526: 42907	-1	-1	0	0	
+	Line 0: I can feel it in my bones.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 527: 42920	-1	-1	0	0	
+	Line 0: I feel my strength building.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 528: 42939	-1	-1	0	0	
+	Line 0: I could go another few rounds.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 529: 42954	42968	-1	0	0	
+	Line 0: I can still shine brighter.\0
+	Line 1: I've still got hidden talents.\0
+	Line 2: \0
+
+Entry 530: 42974	-1	-1	0	0	
+	Line 0: Reminds me of my youth.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 531: 42989	-1	-1	0	0	
+	Line 0: Growing stronger suits me.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 532: 43006	-1	-1	0	0	
+	Line 0: Just let me at 'em.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 533: 43022	43033	-1	0	0	
+	Line 0: This'll make the job easier.\0
+	Line 1: More effective.\0
+	Line 2: \0
+
+Entry 534: 43038	43052	-1	0	0	
+	Line 0: I'll keep it up.\0
+	Line 1: This still isn't good enough.\0
+	Line 2: \0
+
+Entry 535: 43065	-1	-1	0	0	
+	Line 0: Even at my age...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 536: 43078	-1	-1	0	0	
+	Line 0: I must be strong... I must.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 537: 43091	-1	-1	0	0	
+	Line 0: Not bad, not bad!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 538: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 539: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 540: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 541: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 542: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 543: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 544: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 545: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 546: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 547: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 548: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 549: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 550: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 551: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 552: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 553: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 554: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 555: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 556: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 557: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 558: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 559: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 560: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 561: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 562: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 563: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 564: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 565: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 566: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 567: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 568: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 569: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 570: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 571: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 572: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 573: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 574: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 575: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 576: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 577: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 578: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 579: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 580: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 581: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 582: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 583: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 584: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 585: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 586: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 587: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 588: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 589: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 590: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 591: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 592: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 593: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 594: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 595: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 596: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 597: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 598: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 599: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 600: 42191	42205	-1	3	0	
+	Line 0: I'm not setting a very good example...\0
+	Line 1: Not my best.\0
+	Line 2: \0
+
+Entry 601: 42218	42232	-1	3	0	
+	Line 0: I'm not setting a very good example.\0
+	Line 1: Not my best.\0
+	Line 2: \0
+
+Entry 602: 42245	42259	-1	3	0	
+	Line 0: That won't do at all.\0
+	Line 1: It's not enough!\0
+	Line 2: \0
+
+Entry 603: 42272	42286	42300	3	0	
+	Line 0: Slow and steady.\0
+	Line 1: Even the smallest step matters.\0
+	Line 2: It's not enough to beat her!\0
+
+Entry 604: 42313	42327	-1	3	0	
+	Line 0: Life doesn't always go as planned.\0
+	Line 1: I can't afford this setback.\0
+	Line 2: \0
+
+Entry 605: 42340	42354	-1	3	0	
+	Line 0: This is harder than expected.\0
+	Line 1: A laughable improvement, but it's something.\0
+	Line 2: \0
+
+Entry 606: 42367	42381	-1	3	0	
+	Line 0: This can't be right...\0
+	Line 1: I am not well pleased.\0
+	Line 2: \0
+
+Entry 607: 42394	42408	-1	3	0	
+	Line 0: I could've been sleeping this whole time.\0
+	Line 1: Was any of this worth it?\0
+	Line 2: \0
+
+Entry 608: 42421	42435	-1	3	0	
+	Line 0: Ugh, I'm stronger than this.\0
+	Line 1: Ugh, stepped in that one.\0
+	Line 2: \0
+
+Entry 609: 42448	42462	-1	3	0	
+	Line 0: What did I expect...\0
+	Line 1: Bernie's just no good.\0
+	Line 2: \0
+
+Entry 610: 42475	42489	-1	3	0	
+	Line 0: Not...quite what I was after.\0
+	Line 1: Maybe it's better this way.\0
+	Line 2: \0
+
+Entry 611: 42502	42516	-1	3	0	
+	Line 0: Disappointing, but I will not misplace my heart.\0
+	Line 1: No matter what, I will not misplace my heart.\0
+	Line 2: \0
+
+Entry 612: 42529	42543	-1	3	0	
+	Line 0: Not good enough.\0
+	Line 1: This is no time to stand idle.\0
+	Line 2: \0
+
+Entry 613: 42556	42570	-1	3	0	
+	Line 0: Not good enough.\0
+	Line 1: Guess I need to train harder.\0
+	Line 2: \0
+
+Entry 614: 42583	42597	-1	3	0	
+	Line 0: Is this a joke?\0
+	Line 1: I just eked by.\0
+	Line 2: \0
+
+Entry 615: 42610	42624	-1	3	0	
+	Line 0: Whoops. Oh well.\0
+	Line 1: Old habits die hard.\0
+	Line 2: \0
+
+Entry 616: 42637	42651	-1	3	0	
+	Line 0: It's just not my day.\0
+	Line 1: I don't know what happened.\0
+	Line 2: \0
+
+Entry 617: 42664	42678	-1	3	0	
+	Line 0: Aw, this stinks.\0
+	Line 1: Wait, that's it?\0
+	Line 2: \0
+
+Entry 618: 42691	42705	-1	3	0	
+	Line 0: Hm. I'm not at my best today.\0
+	Line 1: I'll make up for this setback.\0
+	Line 2: \0
+
+Entry 619: 42718	42732	-1	3	0	
+	Line 0: I thought I gave it my all!\0
+	Line 1: Me of all people... Really?\0
+	Line 2: \0
+
+Entry 620: 42745	42759	-1	3	0	
+	Line 0: Huh... Ugh.\0
+	Line 1: Gotta train harder.\0
+	Line 2: \0
+
+Entry 621: 42772	42786	-1	3	0	
+	Line 0: It's hard to be happy about this.\0
+	Line 1: I've got to pull it together.\0
+	Line 2: \0
+
+Entry 622: 42799	42813	-1	3	0	
+	Line 0: I don't have time for failure!\0
+	Line 1: Hmph.\0
+	Line 2: \0
+
+Entry 623: 42826	42840	-1	3	0	
+	Line 0: Um... Oh well.\0
+	Line 1: I won't let this hold me back.\0
+	Line 2: \0
+
+Entry 624: 42853	42867	-1	3	0	
+	Line 0: Oh dear. Maybe I was too lazy.\0
+	Line 1: Not quite what I'd hoped for.\0
+	Line 2: \0
+
+Entry 625: 42880	42894	-1	3	0	
+	Line 0: Can I get a do-over?\0
+	Line 1: I got cocky.\0
+	Line 2: \0
+
+Entry 626: 42908	-1	-1	3	0	
+	Line 0: My age is catching up to me.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 627: 42921	-1	-1	3	0	
+	Line 0: A bit disappointing...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 628: 42940	-1	-1	3	0	
+	Line 0: This wouldn't have happened in my youth.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 629: 42955	-1	-1	3	0	
+	Line 0: I'm not at my best today...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 630: 42975	-1	-1	3	0	
+	Line 0: Age takes its toll.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 631: 42990	-1	-1	3	0	
+	Line 0: Ugh, that's an embarrassment.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 632: 43007	-1	-1	3	0	
+	Line 0: Even I have bad days.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 633: 43023	-1	-1	3	0	
+	Line 0: Not what I was hoping for.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 634: 43039	43053	-1	3	0	
+	Line 0: What?! That's not good.\0
+	Line 1: Could be better.\0
+	Line 2: \0
+
+Entry 635: 43066	-1	-1	3	0	
+	Line 0: Damn it! Utter nonsense...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 636: 43079	-1	-1	3	0	
+	Line 0: Disappointing...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 637: 43092	-1	-1	3	0	
+	Line 0: How undignified...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 638: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 639: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 640: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 641: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 642: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 643: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 644: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 645: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 646: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 647: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 648: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 649: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 650: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 651: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 652: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 653: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 654: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 655: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 656: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 657: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 658: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 659: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 660: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 661: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 662: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 663: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 664: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 665: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 666: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 667: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 668: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 669: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 670: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 671: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 672: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 673: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 674: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 675: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 676: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 677: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 678: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 679: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 680: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 681: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 682: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 683: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 684: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 685: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 686: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 687: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 688: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 689: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 690: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 691: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 692: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 693: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 694: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 695: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 696: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 697: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 698: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 699: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 700: 42192	42206	-1	1	0	
+	Line 0: I've finally realized my potential.\0
+	Line 1: It seems I've reached my full potential.\0
+	Line 2: \0
+
+Entry 701: 42219	42233	-1	1	0	
+	Line 0: I've finally realized my potential.\0
+	Line 1: It seems I've reached my full potential.\0
+	Line 2: \0
+
+Entry 702: 42246	42260	-1	1	0	
+	Line 0: Have I reached the limit?\0
+	Line 1: My ambitions are sated...for now.\0
+	Line 2: \0
+
+Entry 703: 42273	42287	42301	1	0	
+	Line 0: I never thought I'd achieve such strength.\0
+	Line 1: It's been a long road to this point.\0
+	Line 2: With this much strength...\0
+
+Entry 704: 42314	42328	-1	1	0	
+	Line 0: I think I'm finally at my best.\0
+	Line 1: Aren't I a sight?\0
+	Line 2: \0
+
+Entry 705: 42341	42355	-1	1	0	
+	Line 0: I believe I've grown all I can.\0
+	Line 1: A ceiling. I'll break through it somehow.\0
+	Line 2: \0
+
+Entry 706: 42368	42382	-1	1	0	
+	Line 0: I admire my ability to come so far.\0
+	Line 1: I will use this power wisely.\0
+	Line 2: \0
+
+Entry 707: 42395	42409	-1	1	0	
+	Line 0: I'm done now, right?\0
+	Line 1: Strength is great, but you still have to win.\0
+	Line 2: \0
+
+Entry 708: 42422	42436	-1	1	0	
+	Line 0: Does this mean I'm the best?\0
+	Line 1: This is it? No way!\0
+	Line 2: \0
+
+Entry 709: 42449	42463	-1	1	0	
+	Line 0: I feel...powerful!\0
+	Line 1: Um, is this as good as it gets?\0
+	Line 2: \0
+
+Entry 710: 42476	42490	-1	1	0	
+	Line 0: I think I've outdone myself!\0
+	Line 1: I've come so far, but what have I gained?\0
+	Line 2: \0
+
+Entry 711: 42503	42517	-1	1	0	
+	Line 0: A limit? I will not be accepting of this!\0
+	Line 1: If this is the top, I will find a new top.\0
+	Line 2: \0
+
+Entry 712: 42530	42544	-1	1	0	
+	Line 0: Is this my limit?\0
+	Line 1: At long last.\0
+	Line 2: \0
+
+Entry 713: 42557	42571	-1	1	0	
+	Line 0: I've reached the peak.\0
+	Line 1: All that training, but it's still out of reach.\0
+	Line 2: \0
+
+Entry 714: 42584	42598	-1	1	0	
+	Line 0: I guess I've reached my limits.\0
+	Line 1: I surprised even myself.\0
+	Line 2: \0
+
+Entry 715: 42611	42625	-1	1	0	
+	Line 0: It'll be hard to top this.\0
+	Line 1: Nothing left to fear.\0
+	Line 2: \0
+
+Entry 716: 42638	42652	-1	1	0	
+	Line 0: When did I get so strong?\0
+	Line 1: Not bad at all.\0
+	Line 2: \0
+
+Entry 717: 42665	42679	-1	1	0	
+	Line 0: I worked hard for this.\0
+	Line 1: Wow, I'm strong!\0
+	Line 2: \0
+
+Entry 718: 42692	42706	-1	1	0	
+	Line 0: I've come so far.\0
+	Line 1: To think I'd make it this far...\0
+	Line 2: \0
+
+Entry 719: 42719	42733	-1	1	0	
+	Line 0: Perfection.\0
+	Line 1: It seems I've reached the ideal.\0
+	Line 2: \0
+
+Entry 720: 42746	42760	-1	1	0	
+	Line 0: Is this as big as I get?\0
+	Line 1: My blood is pumping!\0
+	Line 2: \0
+
+Entry 721: 42773	42787	-1	1	0	
+	Line 0: Guess I've done all I can.\0
+	Line 1: I may have reached my limit.\0
+	Line 2: \0
+
+Entry 722: 42800	42814	-1	1	0	
+	Line 0: I've finally made it!\0
+	Line 1: I've reached my goal!\0
+	Line 2: \0
+
+Entry 723: 42827	42841	-1	1	0	
+	Line 0: I probably won't get any better.\0
+	Line 1: I never dreamed I'd come this far.\0
+	Line 2: \0
+
+Entry 724: 42854	42868	-1	1	0	
+	Line 0: Well, I've gone about as far as I can.\0
+	Line 1: Maybe I'm doing too much.\0
+	Line 2: \0
+
+Entry 725: 42881	42895	-1	1	0	
+	Line 0: This is it for me?\0
+	Line 1: I've waited for this day.\0
+	Line 2: \0
+
+Entry 726: 42909	-1	-1	1	0	
+	Line 0: Have I regained my true power?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 727: 42922	-1	-1	1	0	
+	Line 0: My potential has been reached!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 728: 42941	-1	-1	1	0	
+	Line 0: The apex of learning.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 729: 42956	-1	-1	1	0	
+	Line 0: Well, would you look at that.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 730: 42976	-1	-1	1	0	
+	Line 0: A humbling achievement for one such as I.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 731: 42991	-1	-1	1	0	
+	Line 0: Didn't know I had it in me.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 732: 43008	-1	-1	1	0	
+	Line 0: No one can stop me now!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 733: 43024	-1	-1	1	0	
+	Line 0: I've finally trained enough.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 734: 43040	43054	-1	1	0	
+	Line 0: Bet I can protect Lady Rhea now.\0
+	Line 1: I'll use this power to protect Lady Rhea!\0
+	Line 2: \0
+
+Entry 735: 43067	-1	-1	1	0	
+	Line 0: It seems I've grown all I can.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 736: 43080	-1	-1	1	0	
+	Line 0: My full power is realized.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 737: 43093	-1	-1	1	0	
+	Line 0: This body has its limits...\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 738: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 739: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 740: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 741: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 742: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 743: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 744: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 745: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 746: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 747: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 748: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 749: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 750: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 751: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 752: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 753: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 754: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 755: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 756: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 757: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 758: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 759: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 760: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 761: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 762: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 763: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 764: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 765: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 766: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 767: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 768: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 769: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 770: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 771: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 772: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 773: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 774: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 775: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 776: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 777: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 778: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 779: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 780: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 781: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 782: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 783: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 784: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 785: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 786: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 787: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 788: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 789: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 790: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 791: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 792: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 793: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 794: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 795: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 796: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 797: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 798: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 799: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 800: 42193	42207	-1	0	0	
+	Line 0: Practice yields results.\0
+	Line 1: I'm getting the hang of this.\0
+	Line 2: \0
+
+Entry 801: 42220	42234	-1	0	0	
+	Line 0: Practice yields results.\0
+	Line 1: I'm getting the hang of this.\0
+	Line 2: \0
+
+Entry 802: 42247	42261	-1	0	0	
+	Line 0: I won't forget all I've learned.\0
+	Line 1: Now, to put this skill to use...\0
+	Line 2: \0
+
+Entry 803: 42274	42288	42302	0	0	
+	Line 0: It's all coming together.\0
+	Line 1: All the more reason to train diligently.\0
+	Line 2: I understand this better now.\0
+
+Entry 804: 42315	42329	-1	0	0	
+	Line 0: Hm, yeah, I've got this down.\0
+	Line 1: Some things you can't learn in a book.\0
+	Line 2: \0
+
+Entry 805: 42342	42356	-1	0	0	
+	Line 0: Ah, it's clear to me now.\0
+	Line 1: I suppose this will serve me well.\0
+	Line 2: \0
+
+Entry 806: 42369	42383	-1	0	0	
+	Line 0: Enlightening!\0
+	Line 1: Another gain from mortal risk.\0
+	Line 2: \0
+
+Entry 807: 42396	42410	-1	0	0	
+	Line 0: Not a total waste.\0
+	Line 1: Can I use this off the battlefield?\0
+	Line 2: \0
+
+Entry 808: 42423	42437	-1	0	0	
+	Line 0: I'm getting it.\0
+	Line 1: Can't let this power go unused.\0
+	Line 2: \0
+
+Entry 809: 42450	42464	-1	0	0	
+	Line 0: I think I...got it...\0
+	Line 1: I...think I got it.\0
+	Line 2: \0
+
+Entry 810: 42477	42491	-1	0	0	
+	Line 0: Oh, I see now.\0
+	Line 1: It's starting to feel like a part of me.\0
+	Line 2: \0
+
+Entry 811: 42504	42518	-1	0	0	
+	Line 0: I work to grow.\0
+	Line 1: I work to grow.\0
+	Line 2: \0
+
+Entry 812: 42531	42545	-1	0	0	
+	Line 0: It seems I've improved.\0
+	Line 1: I'll do what I must.\0
+	Line 2: \0
+
+Entry 813: 42558	42572	-1	0	0	
+	Line 0: Well, that worked out.\0
+	Line 1: I still need to improve.\0
+	Line 2: \0
+
+Entry 814: 42585	42599	-1	0	0	
+	Line 0: So this is how it's done.\0
+	Line 1: I understand.\0
+	Line 2: \0
+
+Entry 815: 42612	42626	-1	0	0	
+	Line 0: I'm really getting the hang of this.\0
+	Line 1: I see how this works.\0
+	Line 2: \0
+
+Entry 816: 42639	42653	-1	0	0	
+	Line 0: This isn't so hard.\0
+	Line 1: Interesting!\0
+	Line 2: \0
+
+Entry 817: 42666	42680	-1	0	0	
+	Line 0: Am I making progress?\0
+	Line 1: All that work was worth it!\0
+	Line 2: \0
+
+Entry 818: 42693	42707	-1	0	0	
+	Line 0: I'm getting the hang of this!\0
+	Line 1: Practice is paying off!\0
+	Line 2: \0
+
+Entry 819: 42720	42734	-1	0	0	
+	Line 0: I'm beginning to understand.\0
+	Line 1: This should be suitable.\0
+	Line 2: \0
+
+Entry 820: 42747	42761	-1	0	0	
+	Line 0: I think I get it now.\0
+	Line 1: Guess I need to know this stuff, huh?\0
+	Line 2: \0
+
+Entry 821: 42774	42788	-1	0	0	
+	Line 0: It's fun when you know what you're doing!\0
+	Line 1: Now to keep polishing my skills!\0
+	Line 2: \0
+
+Entry 822: 42801	42815	-1	0	0	
+	Line 0: Hmm, I see.\0
+	Line 1: Hmm, I see.\0
+	Line 2: \0
+
+Entry 823: 42828	42842	-1	0	0	
+	Line 0: I think I get it.\0
+	Line 1: I'll try to put this to use.\0
+	Line 2: \0
+
+Entry 824: 42855	42869	-1	0	0	
+	Line 0: How's this gonna help?\0
+	Line 1: This'll be helpful.\0
+	Line 2: \0
+
+Entry 825: 42882	42896	-1	0	0	
+	Line 0: I will master this.\0
+	Line 1: Let's see it in action.\0
+	Line 2: \0
+
+Entry 826: 42910	-1	-1	0	0	
+	Line 0: There is always more to learn.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 827: 42923	-1	-1	0	0	
+	Line 0: Well worth the effort.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 828: 42942	-1	-1	0	0	
+	Line 0: Perhaps I'll expand the scope of my research.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 829: 42957	-1	-1	0	0	
+	Line 0: It's all instinct now.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 830: 42977	-1	-1	0	0	
+	Line 0: Very well, then.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 831: 42992	-1	-1	0	0	
+	Line 0: Seems my practice has paid off.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 832: 43009	-1	-1	0	0	
+	Line 0: Looks like I'm getting it.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 833: 43025	-1	-1	0	0	
+	Line 0: Technique never betrays.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 834: 43041	43055	-1	0	0	
+	Line 0: This isn't so hard!\0
+	Line 1: Yeah! I'm getting it!\0
+	Line 2: \0
+
+Entry 835: 43068	-1	-1	0	0	
+	Line 0: I can use this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 836: 43081	-1	-1	0	0	
+	Line 0: I understand this better.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 837: 43094	-1	-1	0	0	
+	Line 0: How interesting.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 838: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 839: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 840: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 841: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 842: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 843: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 844: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 845: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 846: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 847: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 848: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 849: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 850: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 851: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 852: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 853: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 854: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 855: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 856: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 857: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 858: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 859: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 860: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 861: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 862: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 863: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 864: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 865: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 866: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 867: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 868: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 869: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 870: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 871: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 872: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 873: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 874: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 875: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 876: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 877: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 878: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 879: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 880: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 881: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 882: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 883: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 884: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 885: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 886: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 887: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 888: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 889: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 890: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 891: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 892: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 893: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 894: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 895: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 896: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 897: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 898: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 899: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 900: 42194	42208	-1	0	0	
+	Line 0: I still have much to learn.\0
+	Line 1: There is still more to learn.\0
+	Line 2: \0
+
+Entry 901: 42221	42235	-1	0	0	
+	Line 0: I still have much to learn.\0
+	Line 1: There is still more to learn.\0
+	Line 2: \0
+
+Entry 902: 42248	42262	-1	0	0	
+	Line 0: My efforts were not in vain.\0
+	Line 1: Each milestone informs the next.\0
+	Line 2: \0
+
+Entry 903: 42275	42289	42303	0	0	
+	Line 0: Each new experience is an asset.\0
+	Line 1: This skill will serve me well in the future.\0
+	Line 2: I've improved.\0
+
+Entry 904: 42316	42330	-1	0	0	
+	Line 0: I see... It's all making sense now.\0
+	Line 1: Good fuel for a scheme.\0
+	Line 2: \0
+
+Entry 905: 42343	42357	-1	0	0	
+	Line 0: Perhaps I've been well taught.\0
+	Line 1: This should prove useful.\0
+	Line 2: \0
+
+Entry 906: 42370	42384	-1	0	0	
+	Line 0: I will master this.\0
+	Line 1: Now is the time to master this.\0
+	Line 2: \0
+
+Entry 907: 42397	42411	-1	0	0	
+	Line 0: How long will this take?\0
+	Line 1: There must be more to this.\0
+	Line 2: \0
+
+Entry 908: 42424	42438	-1	0	0	
+	Line 0: Let's put this to the test.\0
+	Line 1: Let's put this to the test.\0
+	Line 2: \0
+
+Entry 909: 42451	42465	-1	0	0	
+	Line 0: I'd never have learned this back in my room.\0
+	Line 1: I'd never have learned this back in my room.\0
+	Line 2: \0
+
+Entry 910: 42478	42492	-1	0	0	
+	Line 0: I've grasped it! How lovely.\0
+	Line 1: I'm getting the hang of it.\0
+	Line 2: \0
+
+Entry 911: 42505	42519	-1	0	0	
+	Line 0: One step before the next step.\0
+	Line 1: One step before the next step.\0
+	Line 2: \0
+
+Entry 912: 42532	42546	-1	0	0	
+	Line 0: It's in my grasp.\0
+	Line 1: There must be more I can do.\0
+	Line 2: \0
+
+Entry 913: 42559	42573	-1	0	0	
+	Line 0: I can do better now.\0
+	Line 1: Growth sustains me.\0
+	Line 2: \0
+
+Entry 914: 42586	42600	-1	0	0	
+	Line 0: There's so much left to learn.\0
+	Line 1: Of course!\0
+	Line 2: \0
+
+Entry 915: 42613	42627	-1	0	0	
+	Line 0: It's all becoming clearer.\0
+	Line 1: Still a long way to go.\0
+	Line 2: \0
+
+Entry 916: 42640	42654	-1	0	0	
+	Line 0: I'm getting much better!\0
+	Line 1: This is making sense!\0
+	Line 2: \0
+
+Entry 917: 42667	42681	-1	0	0	
+	Line 0: I'm starting to get it!\0
+	Line 1: Is this what success feels like?\0
+	Line 2: \0
+
+Entry 918: 42694	42708	-1	0	0	
+	Line 0: It all makes sense now.\0
+	Line 1: How best to use this skill...\0
+	Line 2: \0
+
+Entry 919: 42721	42735	-1	0	0	
+	Line 0: Now I see the heart of it.\0
+	Line 1: I am getting to the heart of it.\0
+	Line 2: \0
+
+Entry 920: 42748	42762	-1	0	0	
+	Line 0: Better than before.\0
+	Line 1: This is workin' out!\0
+	Line 2: \0
+
+Entry 921: 42775	42789	-1	0	0	
+	Line 0: I feel like I get it now.\0
+	Line 1: I've got the gist of it now.\0
+	Line 2: \0
+
+Entry 922: 42802	42816	-1	0	0	
+	Line 0: Aha, I'm getting it!\0
+	Line 1: I guess all that time wasn't wasted.\0
+	Line 2: \0
+
+Entry 923: 42829	42843	-1	0	0	
+	Line 0: I think it's coming along.\0
+	Line 1: I think I've got the idea.\0
+	Line 2: \0
+
+Entry 924: 42856	42870	-1	0	0	
+	Line 0: Oh yeah! Gettin' the hang of it!\0
+	Line 1: I didn't even know I cared this much.\0
+	Line 2: \0
+
+Entry 925: 42883	42897	-1	0	0	
+	Line 0: Not as hard as I thought.\0
+	Line 1: This'll be useful.\0
+	Line 2: \0
+
+Entry 926: 42911	-1	-1	0	0	
+	Line 0: It seems my proficiency has improved.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 927: 42924	-1	-1	0	0	
+	Line 0: I understand more every day.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 928: 42943	-1	-1	0	0	
+	Line 0: I still have much to learn.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 929: 42958	-1	-1	0	0	
+	Line 0: I always was a quick study.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 930: 42978	-1	-1	0	0	
+	Line 0: Always something new to learn.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 931: 42993	-1	-1	0	0	
+	Line 0: I'll make good use of this power.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 932: 43010	-1	-1	0	0	
+	Line 0: This'll help keep me alive.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 933: 43026	-1	-1	0	0	
+	Line 0: I'm getting it.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 934: 43042	43056	-1	0	0	
+	Line 0: Yeah, I'm doin' it!\0
+	Line 1: Feeling pretty good about this.\0
+	Line 2: \0
+
+Entry 935: 43069	-1	-1	0	0	
+	Line 0: Interesting.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 936: 43082	-1	-1	0	0	
+	Line 0: It is part of me now.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 937: 43095	-1	-1	0	0	
+	Line 0: I ought to learn some more.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 938: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 939: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 940: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 941: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 942: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 943: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 944: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 945: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 946: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 947: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 948: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 949: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 950: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 951: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 952: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 953: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 954: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 955: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 956: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 957: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 958: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 959: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 960: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 961: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 962: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 963: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 964: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 965: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 966: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 967: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 968: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 969: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 970: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 971: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 972: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 973: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 974: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 975: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 976: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 977: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 978: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 979: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 980: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 981: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 982: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 983: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 984: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 985: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 986: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 987: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 988: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 989: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 990: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 991: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 992: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 993: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 994: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 995: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 996: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 997: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 998: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 999: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1000: 42195	42209	-1	0	0	
+	Line 0: The glory of progress.\0
+	Line 1: This experience is critical.\0
+	Line 2: \0
+
+Entry 1001: 42222	42236	-1	0	0	
+	Line 0: The glory of progress.\0
+	Line 1: This experience is critical.\0
+	Line 2: \0
+
+Entry 1002: 42249	42263	-1	0	0	
+	Line 0: I'm getting closer...\0
+	Line 1: Another skill refined.\0
+	Line 2: \0
+
+Entry 1003: 42276	42290	42304	0	0	
+	Line 0: That worked out well.\0
+	Line 1: That worked out well.\0
+	Line 2: I'll never be satisfied.\0
+
+Entry 1004: 42317	42331	-1	0	0	
+	Line 0: Experience is everything.\0
+	Line 1: More cards for my sleeve...\0
+	Line 2: \0
+
+Entry 1005: 42344	42358	-1	0	0	
+	Line 0: The battlefield has much to teach.\0
+	Line 1: The battlefield has much to teach.\0
+	Line 2: \0
+
+Entry 1006: 42371	42385	-1	0	0	
+	Line 0: Seems simple enough.\0
+	Line 1: Seems simple enough.\0
+	Line 2: \0
+
+Entry 1007: 42398	42412	-1	0	0	
+	Line 0: It's starting to take shape.\0
+	Line 1: It's within my grasp.\0
+	Line 2: \0
+
+Entry 1008: 42425	42439	-1	0	0	
+	Line 0: As long as it makes me stronger.\0
+	Line 1: I think I'm improving!\0
+	Line 2: \0
+
+Entry 1009: 42452	42466	-1	0	0	
+	Line 0: Hope this is good for something.\0
+	Line 1: I'm glad I'm getting better.\0
+	Line 2: \0
+
+Entry 1010: 42479	42493	-1	0	0	
+	Line 0: I'm a quick study.\0
+	Line 1: I'm a quick study.\0
+	Line 2: \0
+
+Entry 1011: 42506	42520	-1	0	0	
+	Line 0: I am closing in on expertise.\0
+	Line 1: I have much expertise now.\0
+	Line 2: \0
+
+Entry 1012: 42533	42547	-1	0	0	
+	Line 0: I've deepened my understanding.\0
+	Line 1: War is an effective teacher.\0
+	Line 2: \0
+
+Entry 1013: 42560	42574	-1	0	0	
+	Line 0: I've got it.\0
+	Line 1: I'm just not there yet.\0
+	Line 2: \0
+
+Entry 1014: 42587	42601	-1	0	0	
+	Line 0: Am I starting to master this?\0
+	Line 1: Making strides.\0
+	Line 2: \0
+
+Entry 1015: 42614	42628	-1	0	0	
+	Line 0: Got it. Good to go.\0
+	Line 1: I'm really getting it...I think.\0
+	Line 2: \0
+
+Entry 1016: 42641	42655	-1	0	0	
+	Line 0: I'm a natural.\0
+	Line 1: I'll do my best with this.\0
+	Line 2: \0
+
+Entry 1017: 42668	42682	-1	0	0	
+	Line 0: It's all coming together.\0
+	Line 1: I'm starting to get it!\0
+	Line 2: \0
+
+Entry 1018: 42695	42709	-1	0	0	
+	Line 0: I'm certain I've improved!\0
+	Line 1: I'm finally grasping this.\0
+	Line 2: \0
+
+Entry 1019: 42722	42736	-1	0	0	
+	Line 0: My efforts have borne fruit.\0
+	Line 1: I must always improve.\0
+	Line 2: \0
+
+Entry 1020: 42749	42763	-1	0	0	
+	Line 0: Guess I'm still growing.\0
+	Line 1: I'm feeling good about this.\0
+	Line 2: \0
+
+Entry 1021: 42776	42790	-1	0	0	
+	Line 0: I think I've got the hang of it.\0
+	Line 1: I'm really getting the hang of it.\0
+	Line 2: \0
+
+Entry 1022: 42803	42817	-1	0	0	
+	Line 0: I've got a grasp on this.\0
+	Line 1: Perseverance is the key.\0
+	Line 2: \0
+
+Entry 1023: 42830	42844	-1	0	0	
+	Line 0: It's starting to make sense.\0
+	Line 1: Now to apply this knowledge.\0
+	Line 2: \0
+
+Entry 1024: 42857	42871	-1	0	0	
+	Line 0: Huh, I'm actually pretty good at this.\0
+	Line 1: Could be useful...\0
+	Line 2: \0
+
+Entry 1025: 42884	42898	-1	0	0	
+	Line 0: I'm gettin' the hang of it.\0
+	Line 1: Let's put it to the test.\0
+	Line 2: \0
+
+Entry 1026: 42912	-1	-1	0	0	
+	Line 0: Hopefully this proves useful.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1027: 42925	-1	-1	0	0	
+	Line 0: Aha!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1028: 42944	-1	-1	0	0	
+	Line 0: Age is but a number.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1029: 42959	-1	-1	0	0	
+	Line 0: I suppose it's working.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1030: 42979	-1	-1	0	0	
+	Line 0: Some new insight.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1031: 42994	-1	-1	0	0	
+	Line 0: I've really gotten the hang of this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1032: 43011	-1	-1	0	0	
+	Line 0: I've learned a thing or two from battle.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1033: 43027	-1	-1	0	0	
+	Line 0: I'm finding my focus.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1034: 43043	43057	-1	0	0	
+	Line 0: I can really do this!\0
+	Line 1: Yeah. I understand now.\0
+	Line 2: \0
+
+Entry 1035: 43070	-1	-1	0	0	
+	Line 0: Not bad.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1036: 43083	-1	-1	0	0	
+	Line 0: This will help the greater good.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1037: 43096	-1	-1	0	0	
+	Line 0: I will make my mark.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1038: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1039: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1040: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1041: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1042: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1043: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1044: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1045: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1046: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1047: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1048: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1049: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1050: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1051: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1052: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1053: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1054: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1055: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1056: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1057: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1058: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1059: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1060: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1061: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1062: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1063: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1064: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1065: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1066: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1067: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1068: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1069: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1070: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1071: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1072: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1073: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1074: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1075: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1076: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1077: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1078: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1079: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1080: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1081: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1082: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1083: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1084: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1085: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1086: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1087: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1088: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1089: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1090: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1091: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1092: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1093: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1094: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1095: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1096: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1097: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1098: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1099: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1100: 42196	42210	-1	1	0	
+	Line 0: It seems I've exhausted this topic.\0
+	Line 1: I've fully grasped this topic.\0
+	Line 2: \0
+
+Entry 1101: 42223	42237	-1	1	0	
+	Line 0: It seems I've exhausted this topic.\0
+	Line 1: I've fully grasped this topic.\0
+	Line 2: \0
+
+Entry 1102: 42250	42264	-1	1	0	
+	Line 0: I've mastered this art.\0
+	Line 1: My efforts are paying off.\0
+	Line 2: \0
+
+Entry 1103: 42277	42291	42305	1	0	
+	Line 0: This should be enough.\0
+	Line 1: Now, how best to use this skill...\0
+	Line 2: That should be enough...\0
+
+Entry 1104: 42318	42332	-1	1	0	
+	Line 0: I've reached the pinnacle.\0
+	Line 1: Now my schemes will really pack a punch.\0
+	Line 2: \0
+
+Entry 1105: 42345	42359	-1	1	0	
+	Line 0: Another skill mastered.\0
+	Line 1: To kill or not to kill is my choice alone.\0
+	Line 2: \0
+
+Entry 1106: 42372	42386	-1	1	0	
+	Line 0: People like me are quick studies.\0
+	Line 1: Everything I've done has led to this.\0
+	Line 2: \0
+
+Entry 1107: 42399	42413	-1	1	0	
+	Line 0: Practice does make perfect.\0
+	Line 1: You can't be too skilled.\0
+	Line 2: \0
+
+Entry 1108: 42426	42440	-1	1	0	
+	Line 0: Time to set my aims even higher!\0
+	Line 1: This'll help me walk my own path.\0
+	Line 2: \0
+
+Entry 1109: 42453	42467	-1	1	0	
+	Line 0: Oh, I get it now!\0
+	Line 1: I've really made this my own.\0
+	Line 2: \0
+
+Entry 1110: 42480	42494	-1	1	0	
+	Line 0: I've really made this my own.\0
+	Line 1: I finally made it my own.\0
+	Line 2: \0
+
+Entry 1111: 42507	42521	-1	1	0	
+	Line 0: My understanding has completion!\0
+	Line 1: My understanding is complete.\0
+	Line 2: \0
+
+Entry 1112: 42534	42548	-1	1	0	
+	Line 0: This worked out well.\0
+	Line 1: I must admit I did well.\0
+	Line 2: \0
+
+Entry 1113: 42561	42575	-1	1	0	
+	Line 0: Maybe this will do.\0
+	Line 1: This level of mastery...is enough.\0
+	Line 2: \0
+
+Entry 1114: 42588	42602	-1	1	0	
+	Line 0: My lessons are complete.\0
+	Line 1: I've made it my own.\0
+	Line 2: \0
+
+Entry 1115: 42615	42629	-1	1	0	
+	Line 0: I'm pretty much perfect.\0
+	Line 1: I need to put this to use.\0
+	Line 2: \0
+
+Entry 1116: 42642	42656	-1	1	0	
+	Line 0: That should do it!\0
+	Line 1: I've made good progress.\0
+	Line 2: \0
+
+Entry 1117: 42669	42683	-1	1	0	
+	Line 0: I got it all down.\0
+	Line 1: I earned this.\0
+	Line 2: \0
+
+Entry 1118: 42696	42710	-1	1	0	
+	Line 0: That should do.\0
+	Line 1: Effort truly does pay off in the end.\0
+	Line 2: \0
+
+Entry 1119: 42723	42737	-1	1	0	
+	Line 0: Mastery at last.\0
+	Line 1: Now my success is guaranteed.\0
+	Line 2: \0
+
+Entry 1120: 42750	42764	-1	1	0	
+	Line 0: I'm good at training.\0
+	Line 1: This good enough?\0
+	Line 2: \0
+
+Entry 1121: 42777	42791	-1	1	0	
+	Line 0: I can't believe I made it this far.\0
+	Line 1: I think I've mastered it!\0
+	Line 2: \0
+
+Entry 1122: 42804	42818	-1	1	0	
+	Line 0: Perfect comprehension.\0
+	Line 1: This success will translate to victory!\0
+	Line 2: \0
+
+Entry 1123: 42831	42845	-1	1	0	
+	Line 0: OK, I've got it now.\0
+	Line 1: I think I really get it now!\0
+	Line 2: \0
+
+Entry 1124: 42858	42872	-1	1	0	
+	Line 0: Wow, I put in more work than I realized.\0
+	Line 1: Guess I've got that down.\0
+	Line 2: \0
+
+Entry 1125: 42885	42899	-1	1	0	
+	Line 0: That's all there is to know.\0
+	Line 1: I've reached the top.\0
+	Line 2: \0
+
+Entry 1126: 42913	-1	-1	1	0	
+	Line 0: I have mastered this ability.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1127: 42926	-1	-1	1	0	
+	Line 0: Committed to memory.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1128: 42945	-1	-1	1	0	
+	Line 0: I will no doubt make use of this.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1129: 42960	42969	-1	1	0	
+	Line 0: Another subject mastered.\0
+	Line 1: Another skill only for battle...\0
+	Line 2: \0
+
+Entry 1130: 42980	-1	-1	1	0	
+	Line 0: Seems I'm adequately trained.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1131: 42995	-1	-1	1	0	
+	Line 0: Haha! What a pleasure!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1132: 43012	-1	-1	1	0	
+	Line 0: I'll show you what I can do.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1133: 43028	-1	-1	1	0	
+	Line 0: I've finally mastered it.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1134: 43044	43058	-1	1	0	
+	Line 0: I get it now! No problem.\0
+	Line 1: I really get it now.\0
+	Line 2: \0
+
+Entry 1135: 43071	-1	-1	1	0	
+	Line 0: That's more like it.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1136: 43084	-1	-1	1	0	
+	Line 0: That should do.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1137: 43097	-1	-1	1	0	
+	Line 0: Each skill is like a treasure.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1138: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1139: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1140: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1141: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1142: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1143: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1144: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1145: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1146: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1147: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1148: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1149: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1150: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1151: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1152: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1153: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1154: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1155: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1156: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1157: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1158: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1159: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1160: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1161: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1162: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1163: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1164: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1165: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1166: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1167: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1168: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1169: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1170: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1171: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+

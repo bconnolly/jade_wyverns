@@ -1,0 +1,6004 @@
+Header: 1264728	8	1200	32	24
+Flags: 0 0 0 1 1 1 1 1 
+Lines per Entry: 3
+
+Entry 0: 42187	-1	-1	3	0	
+	Line 0: 다들 미안해…… 여기까지다……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1: 42214	-1	-1	3	0	
+	Line 0: 다들 미안…… 여기까지인 것 같아……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 2: 42241	-1	-1	3	0	
+	Line 0: 내가…… 지다니……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 3: 42268	-1	-1	3	0	
+	Line 0: 패배를 인정할 수밖에 없나……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 4: 42309	-1	-1	3	0	
+	Line 0: 섣부른 판단이었나……\n미안하지만 손쓸 도리가 없어.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 5: 42336	-1	-1	3	0	
+	Line 0: 제가 못 움직이게 될 줄이야……\n에델가르트님…… 죄송합니다……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 6: 42363	-1	-1	3	0	
+	Line 0: 이 내가…… 긍지 높은 내가……\n패배할 줄이야……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 7: 42390	-1	-1	3	0	
+	Line 0: 하아…… 싸우고 싶지 않았는데……\n게다가 지다니……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 8: 42417	-1	-1	3	0	
+	Line 0: 거짓말이지!? 내가 졌다니……\n빌어먹을…… 젠장~!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 9: 42444	-1	-1	3	0	
+	Line 0: 베르한텐…… 베르한테는 역시\n무리였어요오오오오……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 10: 42471	-1	-1	3	0	
+	Line 0: 이런 데서…… 분하다……\n저, 포기하지 않을 거예요……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 11: 42498	-1	-1	3	0	
+	Line 0: 실수, 원통합니다……\n저, 철수, 죄송합니다, 생각합니다……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 12: 42525	-1	-1	3	0	
+	Line 0: 큭…… 본분을 다하지 못해\n죄송합니다, 전하……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 13: 42552	-1	-1	3	0	
+	Line 0: 몸이, 무거워……\n내 검은, 닿지 않는가……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 14: 42579	-1	-1	3	0	
+	Line 0: 역시…… 저 같은 녀석이\n싸우는 건 무리였을까요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 15: 42606	-1	-1	3	0	
+	Line 0: 나도 참…… 손을 들어야겠는걸.\n이건 이제 무리겠어……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 16: 42633	-1	-1	3	0	
+	Line 0: 미, 미안해……\n난…… 이제 못 싸울지도……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 17: 42660	-1	-1	3	0	
+	Line 0: 죄송해요……\n저로는 힘이 부족했나 봐요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 18: 42687	-1	-1	3	0	
+	Line 0: 죄송합니다……\n제가 미숙했던 모양입니다……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 19: 42714	-1	-1	3	0	
+	Line 0: 바, 바보 같은……!\n이 내가…… 패배했다고……?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 20: 42741	-1	-1	3	0	
+	Line 0: 미안해애애……\n나, 더는 못 서 있겠어……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 21: 42768	-1	-1	3	0	
+	Line 0: 다들 미안해요……\n제게는 무거운 짐이었나 봐요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 22: 42795	-1	-1	3	0	
+	Line 0: 으…… 분해……\n이럴 리가 없었는데요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 23: 42822	-1	-1	3	0	
+	Line 0: 도움을 못 드려서……\n정말…… 죄송해요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 24: 42849	-1	-1	3	0	
+	Line 0: 아파아아아아……\n나 더는 못해……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 25: 42876	-1	-1	3	0	
+	Line 0: 젠장……\n스승님의 이름을 더럽히고 말았어……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 26: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 27: 42917	-1	-1	3	0	
+	Line 0: 오늘은\n이쯤 해 두겠어요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 28: 42936	-1	-1	3	0	
+	Line 0: 후퇴하도록 하겠네…… 내 연구를\n여기서 끝낼 수는 없거든……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 29: 42951	-1	-1	3	0	
+	Line 0: 큭~! 기억해 둬……!\n나는 집념이 강하거든!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 30: 42971	-1	-1	3	0	
+	Line 0: 나는 아직 용서받지 못했다……\n……지금은 후퇴하자.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 31: 42986	-1	-1	3	0	
+	Line 0: 역부족이었나……\n원통하지만 여기서 후퇴한다!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 32: 43003	-1	-1	3	0	
+	Line 0: 이 나를 후퇴하게 만들다니……\n얼굴은 기억해 뒀다, 다음은 없어……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 33: 43019	-1	-1	3	0	
+	Line 0: 보수만큼의 일을 했는지 의심스럽지만……\n어쩔 수 없다, 후퇴하지.\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 34: 43035	-1	-1	3	0	
+	Line 0: 좀 더 강해지지 않으면……\n레아님을 도와드릴 수 없어……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 35: 43062	-1	-1	3	0	
+	Line 0: 당했군……\n나도 노쇠했나……?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 36: 43075	-1	-1	3	0	
+	Line 0: 무슨 일이…… 이 내가……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 37: 43088	-1	-1	3	0	
+	Line 0: 용서 못한다……!\n너…… 언젠가 뜨거운 맛을 보게 될 거다……!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 38: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 39: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 40: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 41: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 42: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 43: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 44: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 45: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 46: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 47: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 48: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 49: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 50: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 51: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 52: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 53: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 54: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 55: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 56: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 57: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 58: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 59: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 60: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 61: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 62: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 63: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 64: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 65: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 66: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 67: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 68: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 69: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 70: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 71: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 72: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 73: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 74: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 75: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 76: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 77: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 78: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 79: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 80: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 81: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 82: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 83: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 84: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 85: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 86: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 87: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 88: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 89: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 90: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 91: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 92: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 93: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 94: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 95: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 96: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 97: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 98: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 99: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 100: -1	42200	-1	3	0	
+	Line 0: \0
+	Line 1: 여기서…… 끝인가……\0
+	Line 2: \0
+
+Entry 101: -1	42227	-1	3	0	
+	Line 0: \0
+	Line 1: 여기서…… 끝이구나……\0
+	Line 2: \0
+
+Entry 102: -1	42254	-1	3	0	
+	Line 0: \0
+	Line 1: 선생님…… 내 길의 끝에……\n모두를…… 부탁해……\0
+	Line 2: \0
+
+Entry 103: -1	42281	42295	3	0	
+	Line 0: \0
+	Line 1: ……아아, 이것이…… 벌인가.\n선생님, 그리고 모두…… 미안해.\0
+	Line 2: 괴물은 파멸한다……\n나한테…… 어울리는 결말이군……\0
+
+Entry 104: -1	42322	-1	3	0	
+	Line 0: \0
+	Line 1: 하하…… 사람의 꿈은… 덧없군……\n미안해, 뒤는 맡길게……\0
+	Line 2: \0
+
+Entry 105: -1	42349	-1	3	0	
+	Line 0: \0
+	Line 1: 폐하…… 제 몸을 발판 삼아……\n세계를……\0
+	Line 2: \0
+
+Entry 106: -1	42376	-1	3	0	
+	Line 0: \0
+	Line 1: 이곳이…… 나의 종착점인가……\n분하군…… 아무것도 못 이루고……\0
+	Line 2: \0
+
+Entry 107: -1	42403	-1	3	0	
+	Line 0: \0
+	Line 1: 이 시대에…… 태어난 게……\n운이 다한 거였나…… 아아……\0
+	Line 2: \0
+
+Entry 108: -1	42430	-1	3	0	
+	Line 0: \0
+	Line 1: 내가 죽는 건…… 내가 약한 탓이야……\n그러니까…… 맘에 두지 마……\0
+	Line 2: \0
+
+Entry 109: -1	42457	-1	3	0	
+	Line 0: \0
+	Line 1: 제가…… 할 수 있는 게……\n더…… 있었을까요…… 미안……\0
+	Line 2: \0
+
+Entry 110: -1	42484	-1	3	0	
+	Line 0: \0
+	Line 1: 아무것도 없던…… 그 시절로 돌아갈 뿐……\n그걸로 됐을…… 텐데, 아아……\0
+	Line 2: \0
+
+Entry 111: -1	42511	-1	3	0	
+	Line 0: \0
+	Line 1: 꿈…… 긍지…… 모두, 잃다……\n이국 땅에서…… 목숨이, 다합니까……\0
+	Line 2: \0
+
+Entry 112: -1	42538	-1	3	0	
+	Line 0: \0
+	Line 1: 전하……\n부디…… 당신은……\0
+	Line 2: \0
+
+Entry 113: -1	42565	-1	3	0	
+	Line 0: \0
+	Line 1: 내 무기는…… 어디에 있지……?\n젠장…… 이제 아무것도…… 보이지 않아……\0
+	Line 2: \0
+
+Entry 114: -1	42592	-1	3	0	
+	Line 0: \0
+	Line 1: 살아서…… 돌아가야 해……\n죽을 수 없어…… 죽고 싶지 않은, 데……\0
+	Line 2: \0
+
+Entry 115: -1	42619	-1	3	0	
+	Line 0: \0
+	Line 1: 하하…… 무섭지는…… 않네.\n각오만큼은…… 했었으니까……\0
+	Line 2: \0
+
+Entry 116: -1	42646	-1	3	0	
+	Line 0: \0
+	Line 1: 아…… 미안, 해……\n먼저…… 여신님 곁으로……\0
+	Line 2: \0
+
+Entry 117: -1	42673	-1	3	0	
+	Line 0: \0
+	Line 1: 어라…… 왜 설 수가 없지……\n싸워야…… 하는……데……\0
+	Line 2: \0
+
+Entry 118: -1	42700	-1	3	0	
+	Line 0: \0
+	Line 1: 아프고…… 괴롭, 지만……\n그렌…… 죽는 건…… 외롭지 않아……\0
+	Line 2: \0
+
+Entry 119: -1	42727	-1	3	0	
+	Line 0: \0
+	Line 1: 이런 데서……\n나는…… 끝나는 것인가……\0
+	Line 2: \0
+
+Entry 120: -1	42754	-1	3	0	
+	Line 0: \0
+	Line 1: 마야…… 미안해애……\n오빠, 열심히 했지만……\0
+	Line 2: \0
+
+Entry 121: -1	42781	-1	3	0	
+	Line 0: \0
+	Line 1: 좀 더…… 다양한 풍경을……\n보고 싶었어……\0
+	Line 2: \0
+
+Entry 122: -1	42808	-1	3	0	
+	Line 0: \0
+	Line 1: 적어도…… 조금만 더, 길게……\n살고 싶었어……\0
+	Line 2: \0
+
+Entry 123: -1	42835	-1	3	0	
+	Line 0: \0
+	Line 1: 후회는…… 없어요……\n이걸로 저도…… 주의 곁으로……\0
+	Line 2: \0
+
+Entry 124: -1	42862	-1	3	0	
+	Line 0: \0
+	Line 1: 누군가를 위해서 죽다니……\n말도 안…… 되는데……\0
+	Line 2: \0
+
+Entry 125: -1	42889	-1	3	0	
+	Line 0: \0
+	Line 1: 스승님, 죄송해요……\n약속…… 지키지 못했어……\0
+	Line 2: \0
+
+Entry 126: -1	42903	-1	3	0	
+	Line 0: \0
+	Line 1: 이미 충분히 살았는가……\n해야 할 일이…… 아직 남았……\0
+	Line 2: \0
+
+Entry 127: -1	42930	-1	3	0	
+	Line 0: \0
+	Line 1: 어머니……\n저도…… 곁으로……\0
+	Line 2: \0
+
+Entry 128: -1	42949	-1	3	0	
+	Line 0: \0
+	Line 1: 나의 꿈…… 언젠가 누군가가……\n실현시켜 주리라…… 믿네……\0
+	Line 2: \0
+
+Entry 129: -1	42964	-1	3	0	
+	Line 0: \0
+	Line 1: 죽을 때까지는…… 결혼할 줄……\n알았는데…… 으윽……\0
+	Line 2: \0
+
+Entry 130: -1	42984	-1	3	0	
+	Line 0: \0
+	Line 1: 전하……\n부디…… 반드시 조국을……\0
+	Line 2: \0
+
+Entry 131: -1	42999	-1	3	0	
+	Line 0: \0
+	Line 1: 단장님…… 이 알로이스……\n행복한…… 인생이었습니다……\0
+	Line 2: \0
+
+Entry 132: -1	43016	-1	3	0	
+	Line 0: \0
+	Line 1: 만약 내 몸이…… 썩는대도……\n목적을 완수해서…… 구원을……\0
+	Line 2: \0
+
+Entry 133: -1	43032	-1	3	0	
+	Line 0: \0
+	Line 1: 상당히…… 미련이 늘었군……\n빨리…… 죽었으면…… 아냐……\0
+	Line 2: \0
+
+Entry 134: -1	43048	-1	3	0	
+	Line 0: \0
+	Line 1: 레아님께…… 은혜를……\n아직 다…… 갚지 못했는데……\0
+	Line 2: \0
+
+Entry 135: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 136: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 137: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 138: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 139: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 140: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 141: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 142: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 143: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 144: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 145: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 146: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 147: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 148: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 149: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 150: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 151: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 152: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 153: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 154: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 155: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 156: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 157: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 158: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 159: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 160: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 161: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 162: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 163: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 164: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 165: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 166: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 167: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 168: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 169: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 170: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 171: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 200: -1	42201	-1	3	0	
+	Line 0: \0
+	Line 1: 미안해…… 더 이상은……\0
+	Line 2: \0
+
+Entry 201: -1	42228	-1	3	0	
+	Line 0: \0
+	Line 1: 미안해…… 더 이상은……\0
+	Line 2: \0
+
+Entry 202: -1	42255	-1	3	0	
+	Line 0: \0
+	Line 1: 내 책략은 동났어.\n진퇴양난이군……\0
+	Line 2: \0
+
+Entry 203: -1	42282	42296	3	0	
+	Line 0: \0
+	Line 1: 쳇…… 너무 깊이 쫓아갔군.\n……일단 후퇴다.\0
+	Line 2: 죽을 수 없다……\n그 여자를 죽일 때까지는……!\0
+
+Entry 204: -1	42323	-1	3	0	
+	Line 0: \0
+	Line 1: 책략이 빗나갔나……\n이래선 어쩔 도리가 없군……\0
+	Line 2: \0
+
+Entry 205: -1	42350	-1	3	0	
+	Line 0: \0
+	Line 1: 크윽…… 더 이상은 못 싸우겠군요.\n뒤로 물러나도록…… 하겠습니다……\0
+	Line 2: \0
+
+Entry 206: -1	42377	-1	3	0	
+	Line 0: \0
+	Line 1: 나는…… 목숨을 잃을 수는……\n미안하지만 여기선 물러나도록 하겠어……\0
+	Line 2: \0
+
+Entry 207: -1	42404	-1	3	0	
+	Line 0: \0
+	Line 1: 아직 죽고 싶진 않으니까…… 후퇴할게요.\n뒤는 맡겨요……\0
+	Line 2: \0
+
+Entry 208: -1	42431	-1	3	0	
+	Line 0: \0
+	Line 1: 나는 좀 더 강해질 거야…… 반드시……!\n그걸 위해서 여기선 후퇴하겠어……\0
+	Line 2: \0
+
+Entry 209: -1	42458	-1	3	0	
+	Line 0: \0
+	Line 1: 아파아…… 더는 못 싸워……\n베르, 철수할게요…… 미안……\0
+	Line 2: \0
+
+Entry 210: -1	42485	-1	3	0	
+	Line 0: \0
+	Line 1: 여기까지네요…… 물러나야겠어……\n아직 하고 싶은 게 있어요……\0
+	Line 2: \0
+
+Entry 211: -1	42512	-1	3	0	
+	Line 0: \0
+	Line 1: 저, 죽습니다, 불가능합니다.\n지금, 철수합니다……\0
+	Line 2: \0
+
+Entry 212: -1	42539	-1	3	0	
+	Line 0: \0
+	Line 1: 전하께서 하사하신 목숨……\n쓸모없게 만들 수는 없다……!\0
+	Line 2: \0
+
+Entry 213: -1	42566	-1	3	0	
+	Line 0: \0
+	Line 1: 하…… 나는 애초에\n이 정도였던 건가……\0
+	Line 2: \0
+
+Entry 214: -1	42593	-1	3	0	
+	Line 0: \0
+	Line 1: 큭…… 더는 싸울 수 없나……\n움직일 수 있을 때…… 후퇴해야……\0
+	Line 2: \0
+
+Entry 215: -1	42620	-1	3	0	
+	Line 0: \0
+	Line 1: 젠장…… 죽을 줄, 알고……\n나는 물러나겠어……!\0
+	Line 2: \0
+
+Entry 216: -1	42647	-1	3	0	
+	Line 0: \0
+	Line 1: 더는 안 되겠어…… 나는 물러날게~\n다들 부디 무사하기를 빌어.\0
+	Line 2: \0
+
+Entry 217: -1	42674	-1	3	0	
+	Line 0: \0
+	Line 1: 더 이상은…… 거치적거리겠지.\n이 틈에 철수해야……\0
+	Line 2: \0
+
+Entry 218: -1	42701	-1	3	0	
+	Line 0: \0
+	Line 1: 큭…… 지금이 물러날 때군요.\n……무운을 빕니다!\0
+	Line 2: \0
+
+Entry 219: -1	42728	-1	3	0	
+	Line 0: \0
+	Line 1: 큭…… 꽤 하는군……\n여기선 물러날 수밖에 없겠어……\0
+	Line 2: \0
+
+Entry 220: -1	42755	-1	3	0	
+	Line 0: \0
+	Line 1: 우오오오, 안 되겠다아……\n내 근육이 안 통해애……\0
+	Line 2: \0
+
+Entry 221: -1	42782	-1	3	0	
+	Line 0: \0
+	Line 1: 으…… 당했어요……\n후퇴하도록 할게요……\0
+	Line 2: \0
+
+Entry 222: -1	42809	-1	3	0	
+	Line 0: \0
+	Line 1: 죄송해요……\n적을 얕봤던 모양이에요……\0
+	Line 2: \0
+
+Entry 223: -1	42836	-1	3	0	
+	Line 0: \0
+	Line 1: 죄송해요……\n역시 저한텐 무리였어요……\0
+	Line 2: \0
+
+Entry 224: -1	42863	-1	3	0	
+	Line 0: \0
+	Line 1: 으으…… 너무 열심히 했나 봐……\n죄송해요~ 빠질게요……\0
+	Line 2: \0
+
+Entry 225: -1	42890	-1	3	0	
+	Line 0: \0
+	Line 1: 한심해……\n이래선 스승님 제자로선 실격이야……\0
+	Line 2: \0
+
+Entry 226: -1	42904	-1	3	0	
+	Line 0: \0
+	Line 1: 나라는 자가……\n이래선 신도들에게 모범이 되지 못하겠어……\0
+	Line 2: \0
+
+Entry 227: -1	42931	-1	3	0	
+	Line 0: \0
+	Line 1: 죄, 죄송해요……\n먼저 물러나도록 할게요……\0
+	Line 2: \0
+
+Entry 228: -1	42950	-1	3	0	
+	Line 0: \0
+	Line 1: 후퇴하도록 하지……\n내 임무는 아직 끝나지 않았다네……\0
+	Line 2: \0
+
+Entry 229: -1	42965	-1	3	0	
+	Line 0: \0
+	Line 1: 이런 데서 죽을 순 없어……!\n날 위해서도…… 모두를 위해서도!\0
+	Line 2: \0
+
+Entry 230: -1	42985	-1	3	0	
+	Line 0: \0
+	Line 1: 음…… 지금은 물러날 때인가.\n아직 쓰러질 수는 없으니……\0
+	Line 2: \0
+
+Entry 231: -1	43000	-1	3	0	
+	Line 0: \0
+	Line 1: 미안하네, 더 이상은 싸우지 못하겠군……\n신념을 위해 여기선 물러나지……!\0
+	Line 2: \0
+
+Entry 232: -1	43017	-1	3	0	
+	Line 0: \0
+	Line 1: 어중간하게 죽을 수야 없지……\n지금은 후퇴한다…… 뒤는 부탁해……!\0
+	Line 2: \0
+
+Entry 233: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 234: -1	43049	-1	3	0	
+	Line 0: \0
+	Line 1: 젠장…… 이래서는\n레아님을 지킬 수도……!\0
+	Line 2: \0
+
+Entry 235: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 236: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 237: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 238: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 239: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 240: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 241: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 242: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 243: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 244: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 245: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 246: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 247: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 248: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 249: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 250: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 251: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 252: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 253: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 254: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 255: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 256: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 257: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 258: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 259: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 260: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 261: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 262: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 263: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 264: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 265: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 266: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 267: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 268: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 269: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 270: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 271: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 272: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 273: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 274: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 275: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 276: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 277: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 278: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 279: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 280: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 281: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 282: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 283: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 284: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 285: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 286: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 287: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 288: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 289: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 290: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 291: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 292: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 293: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 294: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 295: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 296: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 297: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 298: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 299: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 300: 42188	42202	-1	0	0	
+	Line 0: 이 몸에 이런 힘이……?\0
+	Line 1: 또 강해졌군\0
+	Line 2: \0
+
+Entry 301: 42215	42229	-1	0	0	
+	Line 0: 이 몸에 이런 힘이……?\0
+	Line 1: 또 강해졌어\0
+	Line 2: \0
+
+Entry 302: 42242	42256	-1	0	0	
+	Line 0: 나는 강해지겠어\0
+	Line 1: 야망의 실현을 위해……!\0
+	Line 2: \0
+
+Entry 303: 42269	42283	42297	0	0	
+	Line 0: 더 높은 곳을 노려야 해\0
+	Line 1: 강해지지 않으면 아무것도 얻을 수 없다……\0
+	Line 2: 살생에 익숙해진 것에 지나지 않아……\0
+
+Entry 304: 42310	42324	-1	0	0	
+	Line 0: 성장한 느낌이 있군\0
+	Line 1: 야망의 실현에 한 걸음 더 가까워졌는걸\0
+	Line 2: \0
+
+Entry 305: 42337	42351	-1	0	0	
+	Line 0: 경험은 많을수록 좋지요\0
+	Line 1: 서로를 죽이다 보면 자연스레 강해진다……\0
+	Line 2: \0
+
+Entry 306: 42364	42378	-1	0	0	
+	Line 0: 또 강해지고 말았군\0
+	Line 1: 지금은 조금이라도 힘이 더 필요해\0
+	Line 2: \0
+
+Entry 307: 42391	42405	-1	0	0	
+	Line 0: 성장이 실감 나는걸\0
+	Line 1: 성장이 실감 나는걸\0
+	Line 2: \0
+
+Entry 308: 42418	42432	-1	0	0	
+	Line 0: 이거 봐, 느낌 좋지 않아?\0
+	Line 1: 내가 강해지면 다들 편해질 테지\0
+	Line 2: \0
+
+Entry 309: 42445	42459	-1	0	0	
+	Line 0: 와, 강해졌나, 나도?\0
+	Line 1: 전력의 최저치가 올라갔을까요?\0
+	Line 2: \0
+
+Entry 310: 42472	42486	-1	0	0	
+	Line 0: 강해지는 것도 중요하죠\0
+	Line 1: 살기 위해서라곤 해도 힘만…… 우울하네\0
+	Line 2: \0
+
+Entry 311: 42499	42513	-1	0	0	
+	Line 0: 단련의 성과, 나왔습니다\0
+	Line 1: 단련, 연마, 실전에서도, 배신하지 않습니다\0
+	Line 2: \0
+
+Entry 312: 42526	42540	-1	0	0	
+	Line 0: ……나한테 맡겨라\0
+	Line 1: 이 힘을 전하를 위해 쓰겠습니다\0
+	Line 2: \0
+
+Entry 313: 42553	42567	-1	0	0	
+	Line 0: 조금은 강해졌나\0
+	Line 1: 이 정도로 싸웠으니 당연하지\0
+	Line 2: \0
+
+Entry 314: 42580	42594	-1	0	0	
+	Line 0: 이 느낌으로 열심히 할게요!\0
+	Line 1: 한 걸음씩, 착실하게……\0
+	Line 2: \0
+
+Entry 315: 42607	42621	-1	0	0	
+	Line 0: 남자로서 체면을 세웠군\0
+	Line 1: 발목을 잡을 순 없으니까요\0
+	Line 2: \0
+
+Entry 316: 42634	42648	-1	0	0	
+	Line 0: 어머머? 강해진 것 같아\0
+	Line 1: 내 힘이 도움이 되길 바라\0
+	Line 2: \0
+
+Entry 317: 42661	42675	-1	0	0	
+	Line 0: 응, 강해진 것 같아\0
+	Line 1: 이 느낌으로 열심히 해야겠어!\0
+	Line 2: \0
+
+Entry 318: 42688	42702	-1	0	0	
+	Line 0: 조금은 성장했습니까?\0
+	Line 1: 이걸로 도움이 될 수 있을까요\0
+	Line 2: \0
+
+Entry 319: 42715	42729	-1	0	0	
+	Line 0: 이걸로 만족할 내가 아니지\0
+	Line 1: 이 정도로는 부족하군\0
+	Line 2: \0
+
+Entry 320: 42742	42756	-1	0	0	
+	Line 0: 나, 강해진 기분이 들어\0
+	Line 1: 좀 더 강해져야 해……!\0
+	Line 2: \0
+
+Entry 321: 42769	42783	-1	0	0	
+	Line 0: 성장한 느낌이 들어요\0
+	Line 1: 저도 도움이 되고 싶은걸요\0
+	Line 2: \0
+
+Entry 322: 42796	42810	-1	0	0	
+	Line 0: 이 정도론 아직 멀었어요\0
+	Line 1: 목표는 좀 더 높은 곳에 있거든요\0
+	Line 2: \0
+
+Entry 323: 42823	42837	-1	0	0	
+	Line 0: 조금은 강해진 것 같은데요……\0
+	Line 1: 조금은 강해졌어요\0
+	Line 2: \0
+
+Entry 324: 42850	42864	-1	0	0	
+	Line 0: 그렇게 기대해도 말이지~\0
+	Line 1: 이 정도는 보통이죠~\0
+	Line 2: \0
+
+Entry 325: 42877	42891	-1	0	0	
+	Line 0: 좀 더 전장을 밟아야지\0
+	Line 1: 아직 일류라곤 할 수 없지\0
+	Line 2: \0
+
+Entry 326: 42905	-1	-1	0	0	
+	Line 0: 아직 노쇠하진 않은 모양이군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 327: 42918	42932	-1	0	0	
+	Line 0: 후후, 어른에 가까워졌네요\0
+	Line 1: 좀 더 강해지겠어요\0
+	Line 2: \0
+
+Entry 328: 42937	-1	-1	0	0	
+	Line 0: 늙어서 더욱 왕성해진 것인가\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 329: 42952	42966	-1	0	0	
+	Line 0: 아름다움도 갈고닦을 수 있다면 좋을 텐데\0
+	Line 1: 슬프지만 지금은 외모보단 실력이려나\0
+	Line 2: \0
+
+Entry 330: 42972	-1	-1	0	0	
+	Line 0: 흐음, 아직 발전 가능성이……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 331: 42987	-1	-1	0	0	
+	Line 0: 힘이 몸 안에서 용솟음친다…… 오호라\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 332: 43004	-1	-1	0	0	
+	Line 0: 기쁜데, 또 한 단계 강해졌어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 333: 43020	-1	-1	0	0	
+	Line 0: 강해질 수 있는 만큼 강해져야지\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 334: 43036	43050	-1	0	0	
+	Line 0: 성장한 느낌이 들어요\0
+	Line 1: 또 성장했을까\0
+	Line 2: \0
+
+Entry 335: 43063	-1	-1	0	0	
+	Line 0: 나도 아직 할 만한가 보군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 336: 43076	-1	-1	0	0	
+	Line 0: 또 힘을 얻었습니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 337: 43089	-1	-1	0	0	
+	Line 0: 내 힘은 이런 게 아니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 338: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 339: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 340: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 341: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 342: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 343: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 344: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 345: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 346: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 347: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 348: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 349: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 350: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 351: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 352: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 353: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 354: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 355: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 356: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 357: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 358: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 359: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 360: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 361: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 362: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 363: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 364: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 365: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 366: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 367: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 368: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 369: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 370: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 371: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 372: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 373: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 374: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 375: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 376: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 377: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 378: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 379: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 380: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 381: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 382: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 383: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 384: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 385: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 386: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 387: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 388: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 389: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 390: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 391: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 392: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 393: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 394: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 395: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 396: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 397: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 398: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 399: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 400: 42189	42203	-1	0	0	
+	Line 0: 다 함께 강해지자\0
+	Line 1: 이 힘을 모두를 위해\0
+	Line 2: \0
+
+Entry 401: 42216	42230	-1	0	0	
+	Line 0: 다 함께 강해지자\0
+	Line 1: 이 힘을 모두를 위해\0
+	Line 2: \0
+
+Entry 402: 42243	42257	-1	0	0	
+	Line 0: 아직 길은 많이 남았어……\0
+	Line 1: 강해질수록 죽음은 멀어진다……\0
+	Line 2: \0
+
+Entry 403: 42270	42284	42298	0	0	
+	Line 0: 보람이 느껴지는걸\0
+	Line 1: 아무도 죽게 놔두지 않아…… 그걸 위한 힘이야\0
+	Line 2: 이 힘은 전부 복수를 위해\0
+
+Entry 404: 42311	42325	-1	0	0	
+	Line 0: 상정한 대로의 결과야\0
+	Line 1: 이 정도로 죽였으면 강해질 만도 하지\0
+	Line 2: \0
+
+Entry 405: 42338	42352	-1	0	0	
+	Line 0: 에델가르트님을 위해서라도 힘을……\0
+	Line 1: 폐하를 위해 조금이라도 힘을……\0
+	Line 2: \0
+
+Entry 406: 42365	42379	-1	0	0	
+	Line 0: 귀족에게는 당연한 성과야\0
+	Line 1: 비약을 위해 계속 단련하겠어\0
+	Line 2: \0
+
+Entry 407: 42392	42406	-1	0	0	
+	Line 0: 연구하는 만큼 강해지면 좋을 텐데\0
+	Line 1: 연구하는 만큼 강해지면 좋을 텐데\0
+	Line 2: \0
+
+Entry 408: 42419	42433	-1	0	0	
+	Line 0: 이걸로 좀 더 성과를 올릴 수 있겠어!\0
+	Line 1: 좋아, 좀 더 성과를 올려야지\0
+	Line 2: \0
+
+Entry 409: 42446	42460	-1	0	0	
+	Line 0: 노력한 보람이 있었네요!\0
+	Line 1: 전투 경험만 잔뜩 늘어나네에\0
+	Line 2: \0
+
+Entry 410: 42473	42487	-1	0	0	
+	Line 0: 사람은 경험을 통해 성장하는군요\0
+	Line 1: 사람을 죽인 경험이 나를 성장시켜……\0
+	Line 2: \0
+
+Entry 411: 42500	42514	-1	0	0	
+	Line 0: 전투, 몸도 마음도, 강해집니다\0
+	Line 1: 전투, 몸도 마음도, 강해집니다\0
+	Line 2: \0
+
+Entry 412: 42527	42541	-1	0	0	
+	Line 0: 조금은 성장했나\0
+	Line 1: ……커다란 한 걸음이군\0
+	Line 2: \0
+
+Entry 413: 42554	42568	-1	0	0	
+	Line 0: 성장이 느껴지는군\0
+	Line 1: 더 강하게, 더 빠르게……!\0
+	Line 2: \0
+
+Entry 414: 42581	42595	-1	0	0	
+	Line 0: 훈련 성과가 나왔을지도……\0
+	Line 1: 힘이 없으면 아무것도 지킬 수 없어\0
+	Line 2: \0
+
+Entry 415: 42608	42622	-1	0	0	
+	Line 0: 이 느낌, 기억해 둘까요\0
+	Line 1: 노력 안 하고 강해지면 좋을 텐데……\0
+	Line 2: \0
+
+Entry 416: 42635	42649	-1	0	0	
+	Line 0: 모두를 위해 힘내야지~\0
+	Line 1: 후후, 나한테 맡겨 줘\0
+	Line 2: \0
+
+Entry 417: 42662	42676	-1	0	0	
+	Line 0: 예전의 저랑은 좀 다르다고요!\0
+	Line 1: 강해져서 모두를 지키고 싶어!\0
+	Line 2: \0
+
+Entry 418: 42689	42703	-1	0	0	
+	Line 0: 나는 좀 더 강해지겠어……\0
+	Line 1: 아직 연마를 더 해야겠지요\0
+	Line 2: \0
+
+Entry 419: 42716	42730	-1	0	0	
+	Line 0: 귀족은 강해야만 하는 법\0
+	Line 1: 나는 더 강해져야만 해……\0
+	Line 2: \0
+
+Entry 420: 42743	42757	-1	0	0	
+	Line 0: 아직 더 커지겠어\0
+	Line 1: 나, 또 강해진 건가 봐\0
+	Line 2: \0
+
+Entry 421: 42770	42784	-1	0	0	
+	Line 0: 더 강해진 듯한……\0
+	Line 1: 좀 더 강해지겠어요!\0
+	Line 2: \0
+
+Entry 422: 42797	42811	-1	0	0	
+	Line 0: 좀 더 노력하지 않으면……\0
+	Line 1: 아직 부족해…… 좀 더 강하게……!\0
+	Line 2: \0
+
+Entry 423: 42824	42838	-1	0	0	
+	Line 0: 좀 더 강해질 수 있을까요……\0
+	Line 1: 좀 더 강해지고 싶어요……!\0
+	Line 2: \0
+
+Entry 424: 42851	42865	-1	0	0	
+	Line 0: 아직 여린 소녀랍니다~\0
+	Line 1: 저는 아직 한참 멀었어요~\0
+	Line 2: \0
+
+Entry 425: 42878	42892	-1	0	0	
+	Line 0: 아직 목표를 못 이뤘어\0
+	Line 1: 오로지 정진, 정진\0
+	Line 2: \0
+
+Entry 426: 42906	-1	-1	0	0	
+	Line 0: 나도 아직 성장할 여지가 있나\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 427: 42919	-1	-1	0	0	
+	Line 0: 경험은 성장의 양식이죠\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 428: 42938	-1	-1	0	0	
+	Line 0: 실천을 통해 배우는 게 많구먼\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 429: 42953	42967	-1	0	0	
+	Line 0: 「강한 여자」를 좋아하는 남자도 있지?\0
+	Line 1: 전쟁이 끝나면 난……\0
+	Line 2: \0
+
+Entry 430: 42973	-1	-1	0	0	
+	Line 0: 나도 아직 쓸만하군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 431: 42988	-1	-1	0	0	
+	Line 0: 흐흠, 더 강해질 수 있을 것 같군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 432: 43005	43018	-1	0	0	
+	Line 0: 이걸로 또 레아님께 힘이 되겠어\0
+	Line 1: 내가 힘을 휘두르는 목적은 단 하나\0
+	Line 2: \0
+
+Entry 433: 43021	-1	-1	0	0	
+	Line 0: 용병에게는 힘이 전부야\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 434: 43037	43051	-1	0	0	
+	Line 0: 조금은 강해졌으려나\0
+	Line 1: 저, 강해졌죠?\0
+	Line 2: \0
+
+Entry 435: 43064	-1	-1	0	0	
+	Line 0: 으하하, 조금은 다시 봤냐?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 436: 43077	-1	-1	0	0	
+	Line 0: 주의 은혜에 감사드립니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 437: 43090	-1	-1	0	0	
+	Line 0: 음, 힘이 용솟음치는군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 438: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 439: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 440: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 441: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 442: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 443: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 444: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 445: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 446: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 447: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 448: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 449: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 450: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 451: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 452: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 453: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 454: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 455: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 456: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 457: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 458: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 459: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 460: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 461: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 462: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 463: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 464: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 465: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 466: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 467: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 468: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 469: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 470: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 471: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 472: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 473: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 474: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 475: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 476: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 477: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 478: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 479: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 480: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 481: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 482: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 483: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 484: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 485: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 486: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 487: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 488: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 489: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 490: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 491: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 492: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 493: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 494: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 495: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 496: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 497: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 498: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 499: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 500: 42190	42204	-1	0	0	
+	Line 0: 한 발 전진했군\0
+	Line 1: 아직 더 성장할 수 있어\0
+	Line 2: \0
+
+Entry 501: 42217	42231	-1	0	0	
+	Line 0: 한 발 전진했군\0
+	Line 1: 아직 더 성장할 수 있어\0
+	Line 2: \0
+
+Entry 502: 42244	42258	-1	0	0	
+	Line 0: 한 걸음 전진이려나\0
+	Line 1: 아직 멈춰설 수는 없어\0
+	Line 2: \0
+
+Entry 503: 42271	42285	42299	0	0	
+	Line 0: 나는 더 강해질 수 있어……!\0
+	Line 1: 한 걸음씩 나아가자\0
+	Line 2: 죽일 때마다 괴물에 가까워지는…… 건가\0
+
+Entry 504: 42312	42326	-1	0	0	
+	Line 0: 난 더 강해질 수 있다고?\0
+	Line 1: 약하면 죽고 강하면 산다…… 싸움의 상식이지\0
+	Line 2: \0
+
+Entry 505: 42339	42353	-1	0	0	
+	Line 0: 아직 갈 길은 멉니다……\0
+	Line 1: 제 목표는 이 정도가 아닙니다\0
+	Line 2: \0
+
+Entry 506: 42366	42380	-1	0	0	
+	Line 0: 큰일을 해내기 위한…… 한 걸음이야!\0
+	Line 1: 큰일을 해내기 위한…… 한 걸음이야!\0
+	Line 2: \0
+
+Entry 507: 42393	42407	-1	0	0	
+	Line 0: 경험을 쌓으면 성장하는 게 도리지\0
+	Line 1: 실전을 거듭하면 강해진다…… 이것도 도리지\0
+	Line 2: \0
+
+Entry 508: 42420	42434	-1	0	0	
+	Line 0: 나는 좀 더 강해질 수 있어!\0
+	Line 1: 나는 더 강해질 거야!\0
+	Line 2: \0
+
+Entry 509: 42447	42461	-1	0	0	
+	Line 0: 저도 성장할 수 있다고요!\0
+	Line 1: 강해지지 않으면 죽어……\0
+	Line 2: \0
+
+Entry 510: 42474	42488	-1	0	0	
+	Line 0: 어때요, 제 몸? 단련이 좀 됐을까요?\0
+	Line 1: 강해질 때마다 또 전장으로…… 반복이네\0
+	Line 2: \0
+
+Entry 511: 42501	42515	-1	0	0	
+	Line 0: 저, 더 높은 곳, 목표입니다\0
+	Line 1: 브리기트 위해, 살아남을 힘, 손에 넣습니다\0
+	Line 2: \0
+
+Entry 512: 42528	42542	-1	0	0	
+	Line 0: 이걸로 전하께 힘이 될 수 있다\0
+	Line 1: 이걸로 전하께 힘이 될 수 있다\0
+	Line 2: \0
+
+Entry 513: 42555	42569	-1	0	0	
+	Line 0: 기술도 발전했나\0
+	Line 1: 힘은 배신하지 않아\0
+	Line 2: \0
+
+Entry 514: 42582	42596	-1	0	0	
+	Line 0: 이상은 아직 한참 멀구나……\0
+	Line 1: 조금은 목표에 가까워졌을까\0
+	Line 2: \0
+
+Entry 515: 42609	42623	-1	0	0	
+	Line 0: 이게 성장이라는 건가\0
+	Line 1: 조금은 강해졌으려나요\0
+	Line 2: \0
+
+Entry 516: 42636	42650	-1	0	0	
+	Line 0: 의지해도 되는데~?\0
+	Line 1: 더 강해지지 않으면 안 돼\0
+	Line 2: \0
+
+Entry 517: 42663	42677	-1	0	0	
+	Line 0: 모두에게 힘이 되어 주겠어!\0
+	Line 1: 난 성장했을까?\0
+	Line 2: \0
+
+Entry 518: 42690	42704	-1	0	0	
+	Line 0: 좀 더 갈고닦아야겠습니다\0
+	Line 1: 지금은 성장을 기뻐하도록 하죠\0
+	Line 2: \0
+
+Entry 519: 42717	42731	-1	0	0	
+	Line 0: 정상은 아직 저 멀리……\0
+	Line 1: 내게 어울리는 힘이 붙었다\0
+	Line 2: \0
+
+Entry 520: 42744	42758	-1	0	0	
+	Line 0: 내 근육이 기뻐하고 있어!\0
+	Line 1: 훌륭한 기사에 좀 가까워졌나?\0
+	Line 2: \0
+
+Entry 521: 42771	42785	-1	0	0	
+	Line 0: 더 노력할 수 있을 것 같아……\0
+	Line 1: 고생한 만큼 강해진 느낌이에요\0
+	Line 2: \0
+
+Entry 522: 42798	42812	-1	0	0	
+	Line 0: 성과는 나왔네요\0
+	Line 1: 이걸로 또 앞으로 나아갈 수 있어……!\0
+	Line 2: \0
+
+Entry 523: 42825	42839	-1	0	0	
+	Line 0: 이게 내 힘……?\0
+	Line 1: 자신감을 가지게 됐어요!\0
+	Line 2: \0
+
+Entry 524: 42852	42866	-1	0	0	
+	Line 0: 좀 늠름해졌을지도~\0
+	Line 1: 또 강해졌나 봐요~\0
+	Line 2: \0
+
+Entry 525: 42879	42893	-1	0	0	
+	Line 0: 더 높은 곳을 노리고 싶은데\0
+	Line 1: 더 강해질 거라고\0
+	Line 2: \0
+
+Entry 526: 42907	-1	-1	0	0	
+	Line 0: 몸이 기억하고 있는 듯해\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 527: 42920	-1	-1	0	0	
+	Line 0: 조금 강해진 기분이 들어요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 528: 42939	-1	-1	0	0	
+	Line 0: 생각보다 몸이 움직이는 모양이군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 529: 42954	42968	-1	0	0	
+	Line 0: 좀 더 빛날 수 있을 거야, 난!\0
+	Line 1: 나한테도 아직 재능이 잠들어 있어\0
+	Line 2: \0
+
+Entry 530: 42974	-1	-1	0	0	
+	Line 0: 옛날이 떠오르는군……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 531: 42989	-1	-1	0	0	
+	Line 0: 좋은 거로군, 성장은!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 532: 43006	-1	-1	0	0	
+	Line 0: 한 번 더 날뛰고 싶은데\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 533: 43022	43033	-1	0	0	
+	Line 0: 이걸로 임무가 쉬워지겠어\0
+	Line 1: 이걸로 지시에 따르기 쉬워지겠어\0
+	Line 2: \0
+
+Entry 534: 43038	43052	-1	0	0	
+	Line 0: 좀 더 노력할게요, 저\0
+	Line 1: 더더욱 열심히 할게요\0
+	Line 2: \0
+
+Entry 535: 43065	-1	-1	0	0	
+	Line 0: 이 나이가 되어서도 강해질 수가 있군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 536: 43078	-1	-1	0	0	
+	Line 0: 저도 강해져야지요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 537: 43091	-1	-1	0	0	
+	Line 0: 잘됐네, 잘됐어!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 538: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 539: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 540: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 541: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 542: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 543: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 544: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 545: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 546: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 547: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 548: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 549: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 550: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 551: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 552: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 553: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 554: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 555: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 556: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 557: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 558: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 559: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 560: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 561: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 562: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 563: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 564: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 565: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 566: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 567: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 568: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 569: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 570: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 571: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 572: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 573: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 574: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 575: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 576: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 577: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 578: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 579: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 580: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 581: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 582: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 583: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 584: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 585: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 586: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 587: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 588: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 589: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 590: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 591: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 592: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 593: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 594: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 595: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 596: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 597: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 598: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 599: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 600: 42191	42205	-1	3	0	
+	Line 0: 모범적이지 못하군\0
+	Line 1: 칭찬받을 결과는 아니군\0
+	Line 2: \0
+
+Entry 601: 42218	42232	-1	3	0	
+	Line 0: 모범적이지 못하네\0
+	Line 1: 칭찬받을 결과는 아닌걸\0
+	Line 2: \0
+
+Entry 602: 42245	42259	-1	3	0	
+	Line 0: 조금 모자라네…… 후\0
+	Line 1: 이런 걸로는 부족해……\0
+	Line 2: \0
+
+Entry 603: 42272	42286	42300	3	0	
+	Line 0: 착실하게 단련할 뿐이야……\0
+	Line 1: ……이것 또한, 한 걸음이지\0
+	Line 2: 이래선 녀석에게 닿을 수 없어……\0
+
+Entry 604: 42313	42327	-1	3	0	
+	Line 0: 잘 안 될 때도 있겠지\0
+	Line 1: 발이 묶여 있을 여유가 없는데\0
+	Line 2: \0
+
+Entry 605: 42340	42354	-1	3	0	
+	Line 0: 마음대로 안 되는군요\0
+	Line 1: 미미하긴 하지만 한 보 전진은 전진이지요\0
+	Line 2: \0
+
+Entry 606: 42367	42381	-1	3	0	
+	Line 0: 뭐라고? 내가 침체기라는 건가?\0
+	Line 1: 안 되겠어, 이래선 초조해질 뿐이야\0
+	Line 2: \0
+
+Entry 607: 42394	42408	-1	3	0	
+	Line 0: 자는 게 더 잘 자라는 거 아녜요?\0
+	Line 1: 인생을 낭비한 것 같은 기분이네\0
+	Line 2: \0
+
+Entry 608: 42421	42435	-1	3	0	
+	Line 0: 내 실력은 이 정도가 아닐 텐데!\0
+	Line 1: 젠장, 어쩔 수 없지\0
+	Line 2: \0
+
+Entry 609: 42448	42462	-1	3	0	
+	Line 0: 에엑? 역시 맨날 틀어박혀 있어서……\0
+	Line 1: 역시 베르 따윈 안 되는 걸지도……\0
+	Line 2: \0
+
+Entry 610: 42475	42489	-1	3	0	
+	Line 0: 생각한 만큼 발전을 못했네\0
+	Line 1: 이런 상태도 좋을지 모른단 생각마저 들어\0
+	Line 2: \0
+
+Entry 611: 42502	42516	-1	3	0	
+	Line 0: 상태, 나쁩니다, 저, 꺾이지 않습니다\0
+	Line 1: 상태, 나빠도, 저, 꺾이지 않습니다\0
+	Line 2: \0
+
+Entry 612: 42529	42543	-1	3	0	
+	Line 0: ……부족해\0
+	Line 1: ……멈춰 설 틈이 없는데\0
+	Line 2: \0
+
+Entry 613: 42556	42570	-1	3	0	
+	Line 0: 흥, 이 정도로는……\0
+	Line 1: 쳇…… 단련이 부족했군\0
+	Line 2: \0
+
+Entry 614: 42583	42597	-1	3	0	
+	Line 0: 잠깐, 웃지 마세요\0
+	Line 1: 내가 한심하네……\0
+	Line 2: \0
+
+Entry 615: 42610	42624	-1	3	0	
+	Line 0: 어엇, 이건……\0
+	Line 1: 느긋하게 있으면 안 되는데……\0
+	Line 2: \0
+
+Entry 616: 42637	42651	-1	3	0	
+	Line 0: 마음대로 안 되네~\0
+	Line 1: 미안해…… 나도 참……\0
+	Line 2: \0
+
+Entry 617: 42664	42678	-1	3	0	
+	Line 0: 으으, 죄송해요……\0
+	Line 1: 어어, 이러려던 건……\0
+	Line 2: \0
+
+Entry 618: 42691	42705	-1	3	0	
+	Line 0: 음, 상태가 안 좋았던 것 같군요\0
+	Line 1: 이 뒤처진 걸 어디선가 되돌려야 할 텐데요\0
+	Line 2: \0
+
+Entry 619: 42718	42732	-1	3	0	
+	Line 0: 허투루 하지도 않았건만……\0
+	Line 1: 나라는 자가……\0
+	Line 2: \0
+
+Entry 620: 42745	42759	-1	3	0	
+	Line 0: 어라아…… 별 느낌 없네\0
+	Line 1: 단련이 부족하네에\0
+	Line 2: \0
+
+Entry 621: 42772	42786	-1	3	0	
+	Line 0: 이건 기뻐할 수 없네요……\0
+	Line 1: 좀 더 정신을 바짝 차려야지……\0
+	Line 2: \0
+
+Entry 622: 42799	42813	-1	3	0	
+	Line 0: 멈춰 있을 때가 아닌데에에!\0
+	Line 1: 나한테 화가 나……!\0
+	Line 2: \0
+
+Entry 623: 42826	42840	-1	3	0	
+	Line 0: 아, 그럴 수가……\0
+	Line 1: 꺼, 꺾이지 않을 거예요……\0
+	Line 2: \0
+
+Entry 624: 42853	42867	-1	3	0	
+	Line 0: 어라라, 너무 게으름 피웠나……\0
+	Line 1: 어~ 좀 의외인데\0
+	Line 2: \0
+
+Entry 625: 42880	42894	-1	3	0	
+	Line 0: 이거 정신을 다시 차려야겠어\0
+	Line 1: 여정은 험난하구나\0
+	Line 2: \0
+
+Entry 626: 42908	-1	-1	3	0	
+	Line 0: 젊었을 때처럼은 안 되는군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 627: 42921	-1	-1	3	0	
+	Line 0: 어머나! 이런 일도……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 628: 42940	-1	-1	3	0	
+	Line 0: 나도 조금만 더 젊었더라면……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 629: 42955	-1	-1	3	0	
+	Line 0: 어머? 좀 몸 상태가 안 좋은 것 같네\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 630: 42975	-1	-1	3	0	
+	Line 0: ……나도 약해졌는가\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 631: 42990	-1	-1	3	0	
+	Line 0: 으음…… 미안하네, 소용이 없었어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 632: 43007	-1	-1	3	0	
+	Line 0: 나도 침체되는 시기는 있다고\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 633: 43023	-1	-1	3	0	
+	Line 0: 쳇…… 보람이 없군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 634: 43039	43053	-1	3	0	
+	Line 0: 쳇, 시시해\0
+	Line 1: 쳇, 상태가 별로네\0
+	Line 2: \0
+
+Entry 635: 43066	-1	-1	3	0	
+	Line 0: 지쳤군그래……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 636: 43079	-1	-1	3	0	
+	Line 0: 할 말이 없습니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 637: 43092	-1	-1	3	0	
+	Line 0: 으음, 내 위엄이……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 638: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 639: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 640: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 641: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 642: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 643: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 644: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 645: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 646: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 647: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 648: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 649: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 650: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 651: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 652: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 653: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 654: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 655: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 656: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 657: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 658: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 659: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 660: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 661: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 662: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 663: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 664: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 665: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 666: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 667: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 668: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 669: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 670: -1	-1	-1	3	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 671: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 672: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 673: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 674: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 675: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 676: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 677: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 678: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 679: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 680: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 681: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 682: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 683: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 684: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 685: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 686: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 687: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 688: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 689: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 690: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 691: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 692: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 693: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 694: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 695: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 696: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 697: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 698: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 699: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 700: 42192	42206	-1	1	0	
+	Line 0: 이 감각…… 모든 힘이 해방된 건가?\0
+	Line 1: 힘을 최대한 끌어올린 모양이야\0
+	Line 2: \0
+
+Entry 701: 42219	42233	-1	1	0	
+	Line 0: 이 감각…… 모든 힘이 해방된 건가?\0
+	Line 1: 힘을 최대한 끌어올린 걸까\0
+	Line 2: \0
+
+Entry 702: 42246	42260	-1	1	0	
+	Line 0: 이걸로 한계점인가?\0
+	Line 1: 더 이상 높은 걸 바라진 않겠어\0
+	Line 2: \0
+
+Entry 703: 42273	42287	42301	1	0	
+	Line 0: 이렇게까지 강해지다니\0
+	Line 1: 멀리까지 왔군……\0
+	Line 2: 이 정도의 힘이 있다면……!\0
+
+Entry 704: 42314	42328	-1	1	0	
+	Line 0: 잠재력을 전부 다 써 버렸나?\0
+	Line 1: 하하, 나도 참 강해졌단 말이야\0
+	Line 2: \0
+
+Entry 705: 42341	42355	-1	1	0	
+	Line 0: 성장의 벽이 느껴집니다만\0
+	Line 1: 한계라면 다른 방법으로 힘을 얻으면 될 뿐입니다\0
+	Line 2: \0
+
+Entry 706: 42368	42382	-1	1	0	
+	Line 0: 여기까지 단련해 온 걸 자랑스레 여기지\0
+	Line 1: 힘은 얻었어. 남은 건 무엇을 이루느냐야\0
+	Line 2: \0
+
+Entry 707: 42395	42409	-1	1	0	
+	Line 0: 이 정도로 강해졌으면 이제 훈련은 됐죠?\0
+	Line 1: 아무리 강해졌어도 못 이기면 쓸모없어\0
+	Line 2: \0
+
+Entry 708: 42422	42436	-1	1	0	
+	Line 0: 오오!? 내 실력 향상이 끝을 본 거야?\0
+	Line 1: 이게 내 한계라고!? 아니, 아직일걸!\0
+	Line 2: \0
+
+Entry 709: 42449	42463	-1	1	0	
+	Line 0: 가장 강해진 건가요? 에헤헤헤……\0
+	Line 1: 으~음, 더 이상 발전하지 못한단 뜻인가요!?\0
+	Line 2: \0
+
+Entry 710: 42476	42490	-1	1	0	
+	Line 0: 어머…… 이것저것 너무 많이 경험했나 봐\0
+	Line 1: 여기까지 왔는데 난 뭔가 얻었을까\0
+	Line 2: \0
+
+Entry 711: 42503	42517	-1	1	0	
+	Line 0: 성과 한계, 입니까? 이해 불가입니다\0
+	Line 1: 한계라면, 다른 방법, 강해질 뿐입니다\0
+	Line 2: \0
+
+Entry 712: 42530	42544	-1	1	0	
+	Line 0: 여기가 정점인가\0
+	Line 1: 드디어 여기까지 왔군\0
+	Line 2: \0
+
+Entry 713: 42557	42571	-1	1	0	
+	Line 0: 여기가 정점인가……?\0
+	Line 1: 아무리 실력을 갈고닦아도…… 멀군\0
+	Line 2: \0
+
+Entry 714: 42584	42598	-1	1	0	
+	Line 0: 여기가 정점인 것 같네……\0
+	Line 1: 설마 이렇게까지 강해질 줄이야\0
+	Line 2: \0
+
+Entry 715: 42611	42625	-1	1	0	
+	Line 0: 이거 이상은 어렵겠는데\0
+	Line 1: 이 정도로 강해지면 무서울 게 없지\0
+	Line 2: \0
+
+Entry 716: 42638	42652	-1	1	0	
+	Line 0: 이렇게 강해졌구나……\0
+	Line 1: 후후, 자랑스러워 해도 되지?\0
+	Line 2: \0
+
+Entry 717: 42665	42679	-1	1	0	
+	Line 0: 이게 내 노력의 성과!\0
+	Line 1: 나, 이렇게 강해졌구나\0
+	Line 2: \0
+
+Entry 718: 42692	42706	-1	1	0	
+	Line 0: 옛날과는 다른 사람이 된 것 같습니다\0
+	Line 1: 제가 이 경지에 이를 줄은……\0
+	Line 2: \0
+
+Entry 719: 42719	42733	-1	1	0	
+	Line 0: 더 높은 곳은 없겠지\0
+	Line 1: 이상에 도달한 것 같군\0
+	Line 2: \0
+
+Entry 720: 42746	42760	-1	1	0	
+	Line 0: 더 이상은 안 커지나아\0
+	Line 1: 우오오! 근육이 빵빵해!\0
+	Line 2: \0
+
+Entry 721: 42773	42787	-1	1	0	
+	Line 0: 할 만큼 했다고 생각해요\0
+	Line 1: 이게 제 한계일지도 모르겠어요\0
+	Line 2: \0
+
+Entry 722: 42800	42814	-1	1	0	
+	Line 0: 드디어 여기까지 왔어……\0
+	Line 1: 이 경지에 도달하는 게 목표였어요\0
+	Line 2: \0
+
+Entry 723: 42827	42841	-1	1	0	
+	Line 0: 더 이상 성장하기는 어려울 것 같아요……\0
+	Line 1: 이렇게 성장할 수 있다니 꿈만 같아요\0
+	Line 2: \0
+
+Entry 724: 42854	42868	-1	1	0	
+	Line 0: 이제 더 이상은 무리일걸~\0
+	Line 1: 저 너무 열심히 하지 않아요~?\0
+	Line 2: \0
+
+Entry 725: 42881	42895	-1	1	0	
+	Line 0: 더 이상 성장하길 바랄 순 없나……\0
+	Line 1: 이 경지를 기다렸다고……!\0
+	Line 2: \0
+
+Entry 726: 42909	-1	-1	1	0	
+	Line 0: 과거의 힘을 되찾았나\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 727: 42922	-1	-1	1	0	
+	Line 0: 저도 완전히 한 사람 몫을 하는군요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 728: 42941	-1	-1	1	0	
+	Line 0: 이 나이에 이 경지에 도달하다니……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 729: 42956	-1	-1	1	0	
+	Line 0: 어느샌가…… 더없이 강해지고 말았어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 730: 42976	-1	-1	1	0	
+	Line 0: 내가 이런 경지에 오를 줄이야\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 731: 42991	-1	-1	1	0	
+	Line 0: 오오, 나도 여기까지 강해졌는가!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 732: 43008	-1	-1	1	0	
+	Line 0: 이제 그 누구도 날 막을 수 없어…… 그렇지?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 733: 43024	-1	-1	1	0	
+	Line 0: 이 정도로 단련했으면 충분해\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 734: 43040	43054	-1	1	0	
+	Line 0: 이 정도면 레아님을 지킬 수 있을까……\0
+	Line 1: 이 힘으로 레아님을 지키겠어……!\0
+	Line 2: \0
+
+Entry 735: 43067	-1	-1	1	0	
+	Line 0: 여기까지 왔으니 정점을 찍었군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 736: 43080	-1	-1	1	0	
+	Line 0: 모든 힘이 지금 해방되었습니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 737: 43093	-1	-1	1	0	
+	Line 0: 이 몸으론 이게 한계로군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 738: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 739: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 740: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 741: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 742: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 743: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 744: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 745: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 746: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 747: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 748: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 749: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 750: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 751: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 752: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 753: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 754: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 755: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 756: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 757: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 758: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 759: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 760: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 761: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 762: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 763: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 764: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 765: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 766: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 767: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 768: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 769: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 770: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 771: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 772: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 773: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 774: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 775: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 776: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 777: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 778: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 779: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 780: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 781: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 782: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 783: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 784: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 785: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 786: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 787: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 788: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 789: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 790: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 791: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 792: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 793: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 794: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 795: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 796: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 797: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 798: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 799: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 800: 42193	42207	-1	0	0	
+	Line 0: 경험이 살이 됐나\0
+	Line 1: 내 것이 된 것 같은데\0
+	Line 2: \0
+
+Entry 801: 42220	42234	-1	0	0	
+	Line 0: 경험이 살이 됐어\0
+	Line 1: 내 것이 된 것 같아\0
+	Line 2: \0
+
+Entry 802: 42247	42261	-1	0	0	
+	Line 0: 몸에 밴 건 배신하지 않아\0
+	Line 1: 이 힘이 쓸모가 있다면……\0
+	Line 2: \0
+
+Entry 803: 42274	42288	42302	0	0	
+	Line 0: 핵심을 파악한 것 같아\0
+	Line 1: 앞으로도 수련에 힘써야지\0
+	Line 2: 완벽히 사용할 수 있게 됐나\0
+
+Entry 804: 42315	42329	-1	0	0	
+	Line 0: 좋아, 좋아, 대강 파악했어\0
+	Line 1: 실전이 아니면 못 배우는 것도 있지\0
+	Line 2: \0
+
+Entry 805: 42342	42356	-1	0	0	
+	Line 0: 호오, 보이기 시작했습니다\0
+	Line 1: 힘을 길러서 곤란할 것은 없지요\0
+	Line 2: \0
+
+Entry 806: 42369	42383	-1	0	0	
+	Line 0: 잠깐 번뜩인 게 있어\0
+	Line 1: 목숨을 걸고 얻은 경험은 귀중하군\0
+	Line 2: \0
+
+Entry 807: 42396	42410	-1	0	0	
+	Line 0: 좀 흥미로웠는걸\0
+	Line 1: 전장 외에도 쓸모가 있으려나?\0
+	Line 2: \0
+
+Entry 808: 42423	42437	-1	0	0	
+	Line 0: 요령을 파악했나, 나!?\0
+	Line 1: 도움이 되지 않으면 의미가 없어\0
+	Line 2: \0
+
+Entry 809: 42450	42464	-1	0	0	
+	Line 0: 뭔가, 요령이 생긴 듯한데?\0
+	Line 1: 뭔가, 요령이 생긴 듯한데?\0
+	Line 2: \0
+
+Entry 810: 42477	42491	-1	0	0	
+	Line 0: 후후, 살짝 보이기 시작했어\0
+	Line 1: 체득하고 있는 느낌이야\0
+	Line 2: \0
+
+Entry 811: 42504	42518	-1	0	0	
+	Line 0: 저, 진화, 성장, 합니다\0
+	Line 1: 저, 진화, 성장, 합니다\0
+	Line 2: \0
+
+Entry 812: 42531	42545	-1	0	0	
+	Line 0: 향상된 것 같군\0
+	Line 1: 싫어도 익숙해지는 법\0
+	Line 2: \0
+
+Entry 813: 42558	42572	-1	0	0	
+	Line 0: 틀이 잡힌 듯하군\0
+	Line 1: 좀 더 향상시키고 싶은데\0
+	Line 2: \0
+
+Entry 814: 42585	42599	-1	0	0	
+	Line 0: 그렇구나, 그런 거였어……\0
+	Line 1: 좋아, 익숙해졌다\0
+	Line 2: \0
+
+Entry 815: 42612	42626	-1	0	0	
+	Line 0: 알 것 같아요\0
+	Line 1: 보인다, 보인다……\0
+	Line 2: \0
+
+Entry 816: 42639	42653	-1	0	0	
+	Line 0: 알 것 같기도~\0
+	Line 1: 그렇구나, 그래~\0
+	Line 2: \0
+
+Entry 817: 42666	42680	-1	0	0	
+	Line 0: 형태는 잡았을지도?\0
+	Line 1: 노력의 성과가 나왔을지도\0
+	Line 2: \0
+
+Entry 818: 42693	42707	-1	0	0	
+	Line 0: 몸에 익힌 듯합니다\0
+	Line 1: 기술을 좀 더 갈고닦았습니다\0
+	Line 2: \0
+
+Entry 819: 42720	42734	-1	0	0	
+	Line 0: 흠, 이해가 되는군\0
+	Line 1: 후, 이건 쓸 수 있겠어\0
+	Line 2: \0
+
+Entry 820: 42747	42761	-1	0	0	
+	Line 0: 뭔가 알 듯한데\0
+	Line 1: 이런 것도 필요하겠지이\0
+	Line 2: \0
+
+Entry 821: 42774	42788	-1	0	0	
+	Line 0: 이해하니 재미있네요!\0
+	Line 1: 더 갈고닦고 싶어요!\0
+	Line 2: \0
+
+Entry 822: 42801	42815	-1	0	0	
+	Line 0: 흐음, 흠, 그렇구나……\0
+	Line 1: 흐음, 흠, 그렇구나……\0
+	Line 2: \0
+
+Entry 823: 42828	42842	-1	0	0	
+	Line 0: 조금은 알 듯한데……\0
+	Line 1: 이걸 사용하면 저도……\0
+	Line 2: \0
+
+Entry 824: 42855	42869	-1	0	0	
+	Line 0: 이런 게 쓸모가 있을까~?\0
+	Line 1: 이건 쓸모가 있을 것 같네요~\0
+	Line 2: \0
+
+Entry 825: 42882	42896	-1	0	0	
+	Line 0: 그렇구나…… 감 잡았어\0
+	Line 1: 실전에 도입해 볼까……\0
+	Line 2: \0
+
+Entry 826: 42910	-1	-1	0	0	
+	Line 0: 무지를 아는 것부터다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 827: 42923	-1	-1	0	0	
+	Line 0: 수확이 있었답니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 828: 42942	-1	-1	0	0	
+	Line 0: 흐음…… 연구할 여지가 있어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 829: 42957	-1	-1	0	0	
+	Line 0: 몸이 멋대로 기억하는걸\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 830: 42977	-1	-1	0	0	
+	Line 0: 흠, 과연……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 831: 42992	-1	-1	0	0	
+	Line 0: 기술이 더 발전했군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 832: 43009	-1	-1	0	0	
+	Line 0: 몸에 좀 밴 것 같은데\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 833: 43025	-1	-1	0	0	
+	Line 0: 기술은 배신하지 않아\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 834: 43041	43055	-1	0	0	
+	Line 0: 조금은 이해하기 시작했을지도요\0
+	Line 1: 응, 알 것 같아요\0
+	Line 2: \0
+
+Entry 835: 43068	-1	-1	0	0	
+	Line 0: 아직 고민해 볼 만하겠어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 836: 43081	-1	-1	0	0	
+	Line 0: 이해가 깊어졌군요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 837: 43094	-1	-1	0	0	
+	Line 0: 흐음, 이거 흥미로운데\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 838: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 839: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 840: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 841: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 842: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 843: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 844: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 845: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 846: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 847: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 848: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 849: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 850: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 851: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 852: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 853: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 854: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 855: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 856: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 857: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 858: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 859: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 860: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 861: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 862: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 863: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 864: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 865: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 866: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 867: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 868: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 869: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 870: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 871: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 872: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 873: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 874: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 875: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 876: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 877: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 878: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 879: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 880: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 881: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 882: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 883: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 884: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 885: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 886: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 887: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 888: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 889: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 890: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 891: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 892: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 893: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 894: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 895: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 896: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 897: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 898: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 899: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 900: 42194	42208	-1	0	0	
+	Line 0: 아직 배울 게 많아\0
+	Line 1: 배워야 할 게 아직 있어\0
+	Line 2: \0
+
+Entry 901: 42221	42235	-1	0	0	
+	Line 0: 아직 배울 게 많아\0
+	Line 1: 배워야 할 게 아직 있어\0
+	Line 2: \0
+
+Entry 902: 42248	42262	-1	0	0	
+	Line 0: 수확이 있었어\0
+	Line 1: 한 발 나아가면 또 다음 한 발을 원하지\0
+	Line 2: \0
+
+Entry 903: 42275	42289	42303	0	0	
+	Line 0: 뭐든지 경험이군\0
+	Line 1: 이 성과가 미래로 이어질 거야\0
+	Line 2: 더 나아진 것 같군\0
+
+Entry 904: 42316	42330	-1	0	0	
+	Line 0: 과연…… 그런 거구나……\0
+	Line 1: 그렇군…… 어떻게 책략에 써먹어 볼까?\0
+	Line 2: \0
+
+Entry 905: 42343	42357	-1	0	0	
+	Line 0: 이것이 지도의 성과입니까?\0
+	Line 1: 이건 이용할 수 있을 것 같군요\0
+	Line 2: \0
+
+Entry 906: 42370	42384	-1	0	0	
+	Line 0: 흐음, 언젠간 확실히 파악하겠어\0
+	Line 1: 언젠가가 아니라 지금 당장 파악해 주지\0
+	Line 2: \0
+
+Entry 907: 42397	42411	-1	0	0	
+	Line 0: 마지막까지 안 질리면 좋을 텐데\0
+	Line 1: 아직 갈 길이 더 있을 것 같네\0
+	Line 2: \0
+
+Entry 908: 42424	42438	-1	0	0	
+	Line 0: 실전에서 시험해 봐야지\0
+	Line 1: 실전에서 시험해 봐야지\0
+	Line 2: \0
+
+Entry 909: 42451	42465	-1	0	0	
+	Line 0: 틀어박히는 데는 필요 없는 힘이지만요\0
+	Line 1: 틀어박히는 데는 필요 없는 힘이지만요\0
+	Line 2: \0
+
+Entry 910: 42478	42492	-1	0	0	
+	Line 0: 이해가 깊어지는 건 기쁘네요\0
+	Line 1: 이해가 깊어지는 건 기쁘네요\0
+	Line 2: \0
+
+Entry 911: 42505	42519	-1	0	0	
+	Line 0: 일보 일보, 전진, 뿐입니다\0
+	Line 1: 일보 일보, 전진, 뿐입니다\0
+	Line 2: \0
+
+Entry 912: 42532	42546	-1	0	0	
+	Line 0: 파악했다\0
+	Line 1: 아직…… 좀 더 할 수 있어\0
+	Line 2: \0
+
+Entry 913: 42559	42573	-1	0	0	
+	Line 0: 전보다 잘할 수 있겠지\0
+	Line 1: 경험이 양식이 됐군\0
+	Line 2: \0
+
+Entry 914: 42586	42600	-1	0	0	
+	Line 0: 좀 더 경험을 쌓아야겠어\0
+	Line 1: 보람이 있었어요!\0
+	Line 2: \0
+
+Entry 915: 42613	42627	-1	0	0	
+	Line 0: 그렇구나, 이해했어요\0
+	Line 1: 일류가 되기엔 아직 멀었을지도\0
+	Line 2: \0
+
+Entry 916: 42640	42654	-1	0	0	
+	Line 0: 능숙해진 모양이야~\0
+	Line 1: 보람이 있네~\0
+	Line 2: \0
+
+Entry 917: 42667	42681	-1	0	0	
+	Line 0: 이 느낌을 기억해 둬야지\0
+	Line 1: 조금은 향상됐나?\0
+	Line 2: \0
+
+Entry 918: 42694	42708	-1	0	0	
+	Line 0: 과연, 이렇게 다루는 거군요\0
+	Line 1: 이 기술을 어떻게 살릴 것인가\0
+	Line 2: \0
+
+Entry 919: 42721	42735	-1	0	0	
+	Line 0: 본질이 보이기 시작했어\0
+	Line 1: 핵심에 가까워졌군……\0
+	Line 2: \0
+
+Entry 920: 42748	42762	-1	0	0	
+	Line 0: 전보다 잘할 것 같은데\0
+	Line 1: 나도 어떻게든 될 것 같아!\0
+	Line 2: \0
+
+Entry 921: 42775	42789	-1	0	0	
+	Line 0: 이해가 더욱 깊어진 느낌이에요\0
+	Line 1: 기초적인 범위는 터득한 걸까요?\0
+	Line 2: \0
+
+Entry 922: 42802	42816	-1	0	0	
+	Line 0: 흐흥~ 이해했어요\0
+	Line 1: 죽을 정도로 노력했으니까요\0
+	Line 2: \0
+
+Entry 923: 42829	42843	-1	0	0	
+	Line 0: 진보는 한 것 같아요……\0
+	Line 1: 요점은 파악했어요……\0
+	Line 2: \0
+
+Entry 924: 42856	42870	-1	0	0	
+	Line 0: 하하, 이해되기 시작했어요~\0
+	Line 1: 이래 봬도 노력은 하고 있다고요~\0
+	Line 2: \0
+
+Entry 925: 42883	42897	-1	0	0	
+	Line 0: 구조를 알면 간단하네\0
+	Line 1: 좀 더 궁리해 봐야겠는데\0
+	Line 2: \0
+
+Entry 926: 42911	-1	-1	0	0	
+	Line 0: 몸에 익숙해진 듯한데\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 927: 42924	-1	-1	0	0	
+	Line 0: 점점 이해가 되기 시작했어요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 928: 42943	-1	-1	0	0	
+	Line 0: 아직 완벽해지기엔 좀 멀구먼\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 929: 42958	-1	-1	0	0	
+	Line 0: 가희일 적에도 이해력이 좋았지\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 930: 42978	-1	-1	0	0	
+	Line 0: 배워야 할 것은 끊임없는 법……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 931: 42993	-1	-1	0	0	
+	Line 0: 이 힘으로 도와주겠네!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 932: 43010	-1	-1	0	0	
+	Line 0: 살아남으려면 중요하잖아?\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 933: 43026	-1	-1	0	0	
+	Line 0: 조금은 이해가 되는걸\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 934: 43042	43056	-1	0	0	
+	Line 0: 점점 가닥이 잡히기 시작했어요\0
+	Line 1: 대강 파악은 한 것 같은데……\0
+	Line 2: \0
+
+Entry 935: 43069	-1	-1	0	0	
+	Line 0: 흥미로워지는데\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 936: 43082	-1	-1	0	0	
+	Line 0: 체득한 듯합니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 937: 43095	-1	-1	0	0	
+	Line 0: 좀 더 배울 필요가 있겠어\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 938: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 939: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 940: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 941: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 942: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 943: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 944: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 945: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 946: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 947: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 948: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 949: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 950: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 951: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 952: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 953: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 954: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 955: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 956: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 957: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 958: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 959: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 960: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 961: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 962: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 963: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 964: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 965: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 966: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 967: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 968: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 969: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 970: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 971: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 972: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 973: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 974: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 975: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 976: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 977: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 978: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 979: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 980: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 981: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 982: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 983: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 984: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 985: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 986: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 987: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 988: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 989: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 990: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 991: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 992: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 993: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 994: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 995: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 996: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 997: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 998: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 999: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1000: 42195	42209	-1	0	0	
+	Line 0: 이 감각, 기억해 두자\0
+	Line 1: 좋은 경험을 얻었어\0
+	Line 2: \0
+
+Entry 1001: 42222	42236	-1	0	0	
+	Line 0: 이 감각, 기억해 두자\0
+	Line 1: 좋은 경험을 얻었어\0
+	Line 2: \0
+
+Entry 1002: 42249	42263	-1	0	0	
+	Line 0: 요령이 생긴 것 같아\0
+	Line 1: 또 하나, 힘을 얻었네\0
+	Line 2: \0
+
+Entry 1003: 42276	42290	42304	0	0	
+	Line 0: 내 것이 되어 가고 있어\0
+	Line 1: 뭐든지 경험이군\0
+	Line 2: 만족하진 않겠어\0
+
+Entry 1004: 42317	42331	-1	0	0	
+	Line 0: 경험을 이길 재산은 없지\0
+	Line 1: 손에 쥔 패는 많을수록 좋다고\0
+	Line 2: \0
+
+Entry 1005: 42344	42358	-1	0	0	
+	Line 0: 전장에서 배우는 것도 많군요……\0
+	Line 1: 전장에서 배우는 것도 많군요……\0
+	Line 2: \0
+
+Entry 1006: 42371	42385	-1	0	0	
+	Line 0: 그렇군, 이해했어\0
+	Line 1: 그렇군, 이해했어\0
+	Line 2: \0
+
+Entry 1007: 42398	42412	-1	0	0	
+	Line 0: 어떠려나, 좀 익숙해졌나요?\0
+	Line 1: 조금은 쓸 수 있게 됐어요\0
+	Line 2: \0
+
+Entry 1008: 42425	42439	-1	0	0	
+	Line 0: 조금은 강해지면 좋겠는데\0
+	Line 1: 강해지고 있나, 나?\0
+	Line 2: \0
+
+Entry 1009: 42452	42466	-1	0	0	
+	Line 0: 이걸로 강해지면 좋겠다아……\0
+	Line 1: 응, 조금이라도 강해졌다면 기쁜걸\0
+	Line 2: \0
+
+Entry 1010: 42479	42493	-1	0	0	
+	Line 0: 이렇게 쌓아가는 것도 중요하겠죠\0
+	Line 1: 이렇게 쌓아가는 것도 중요하겠죠\0
+	Line 2: \0
+
+Entry 1011: 42506	42520	-1	0	0	
+	Line 0: 저, 숙달, 경지, 접근입니다.\0
+	Line 1: 저, 숙달, 경지, 가까워졌습니다\0
+	Line 2: \0
+
+Entry 1012: 42533	42547	-1	0	0	
+	Line 0: 이해가 깊어졌군\0
+	Line 1: 전장에서도 배움이 있다는 거로군\0
+	Line 2: \0
+
+Entry 1013: 42560	42574	-1	0	0	
+	Line 0: 요령을 파악했어\0
+	Line 1: 내가 노리는 경지는 더 멀리에 있다\0
+	Line 2: \0
+
+Entry 1014: 42587	42601	-1	0	0	
+	Line 0: 완성됐을지도……?\0
+	Line 1: 점점 완성되고 있어요\0
+	Line 2: \0
+
+Entry 1015: 42614	42628	-1	0	0	
+	Line 0: 요점을 잡자면 이런 거지\0
+	Line 1: 점점 완성되고 있네요\0
+	Line 2: \0
+
+Entry 1016: 42641	42655	-1	0	0	
+	Line 0: 후후, 꽤 익숙해졌어~\0
+	Line 1: 익숙해지는 것도 좀 그런가 싶지만……\0
+	Line 2: \0
+
+Entry 1017: 42668	42682	-1	0	0	
+	Line 0: 잘하게 된 것 같은데\0
+	Line 1: 아, 점점 이해가 된다!\0
+	Line 2: \0
+
+Entry 1018: 42695	42709	-1	0	0	
+	Line 0: 조금은 능숙해졌을 겁니다\0
+	Line 1: 요령을 파악한 것 같습니다\0
+	Line 2: \0
+
+Entry 1019: 42722	42736	-1	0	0	
+	Line 0: 노력한 보람이 있는걸\0
+	Line 1: 내 진화가 멈추지 않는걸\0
+	Line 2: \0
+
+Entry 1020: 42749	42763	-1	0	0	
+	Line 0: 나, 승승장구하는 것 같다\0
+	Line 1: 감 좋게 완성되고 있어어\0
+	Line 2: \0
+
+Entry 1021: 42776	42790	-1	0	0	
+	Line 0: 거의 핵심을 파악한 것 같아요\0
+	Line 1: 보람을 느껴요\0
+	Line 2: \0
+
+Entry 1022: 42803	42817	-1	0	0	
+	Line 0: 상당히 잘 파악한 것 같아요\0
+	Line 1: 다음 목표를 위해 노력해야죠\0
+	Line 2: \0
+
+Entry 1023: 42830	42844	-1	0	0	
+	Line 0: 요령을 파악했을지도요……\0
+	Line 1: 이걸 실전에서 응용하려면……\0
+	Line 2: \0
+
+Entry 1024: 42857	42871	-1	0	0	
+	Line 0: 이거, 저한테 잘 맞을지도요~\0
+	Line 1: 이거, 저도 쓸 수 있을까요~?\0
+	Line 2: \0
+
+Entry 1025: 42884	42898	-1	0	0	
+	Line 0: 꽤 익숙해졌어\0
+	Line 1: 이걸 잘 응용하면……\0
+	Line 2: \0
+
+Entry 1026: 42912	-1	-1	0	0	
+	Line 0: 이 힘이 도움이 되면 좋겠다만\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1027: 42925	-1	-1	0	0	
+	Line 0: 이런 거였군요……\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1028: 42944	-1	-1	0	0	
+	Line 0: 힘을 습득하는 데에 나이는 관계없지\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1029: 42959	-1	-1	0	0	
+	Line 0: 이 요령을 이해한 걸까\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1030: 42979	-1	-1	0	0	
+	Line 0: 흠, 또 새로운 깨달음이군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1031: 42994	-1	-1	0	0	
+	Line 0: 상당히 익숙해진 듯하군!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1032: 43011	-1	-1	0	0	
+	Line 0: 싸우다 보면 싫어도 단련이 되니까\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1033: 43027	-1	-1	0	0	
+	Line 0: 노리는 건 이쯤인가\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1034: 43043	43057	-1	0	0	
+	Line 0: 응, 어떻게든 될 것 같네요\0
+	Line 1: 어떻게든 됐나\0
+	Line 2: \0
+
+Entry 1035: 43070	-1	-1	0	0	
+	Line 0: 이 감촉, 나쁘지 않군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1036: 43083	-1	-1	0	0	
+	Line 0: 도움이 될 것 같군요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1037: 43096	-1	-1	0	0	
+	Line 0: 내가 힘으로 만들어 주마\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1038: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1039: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1040: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1041: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1042: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1043: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1044: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1045: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1046: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1047: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1048: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1049: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1050: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1051: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1052: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1053: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1054: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1055: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1056: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1057: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1058: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1059: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1060: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1061: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1062: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1063: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1064: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1065: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1066: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1067: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1068: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1069: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1070: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1071: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1072: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1073: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1074: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1075: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1076: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1077: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1078: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1079: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1080: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1081: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1082: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1083: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1084: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1085: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1086: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1087: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1088: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1089: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1090: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1091: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1092: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1093: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1094: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1095: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1096: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1097: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1098: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1099: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1100: 42196	42210	-1	1	0	
+	Line 0: 완전히 터득했군\0
+	Line 1: 남김없이 이해한 모양이야\0
+	Line 2: \0
+
+Entry 1101: 42223	42237	-1	1	0	
+	Line 0: 완전히 터득한 걸까\0
+	Line 1: 남김없이 이해한 걸까\0
+	Line 2: \0
+
+Entry 1102: 42250	42264	-1	1	0	
+	Line 0: 전부 이해했어\0
+	Line 1: 노력이 결실을 맺은 모양이야\0
+	Line 2: \0
+
+Entry 1103: 42277	42291	42305	1	0	
+	Line 0: 이렇게까지 했으면 충분하겠지\0
+	Line 1: 자, 이 기술을 어떻게 살릴까……\0
+	Line 2: 이제 충분하겠지……\0
+
+Entry 1104: 42318	42332	-1	1	0	
+	Line 0: 이걸로 이제 완벽해\0
+	Line 1: 이 완성도라면 책략에도 써먹을 수 있겠어\0
+	Line 2: \0
+
+Entry 1105: 42345	42359	-1	1	0	
+	Line 0: 또 하나, 새로운 힘을 익혔군요\0
+	Line 1: 살리는 것도, 죽이는 것도 스스로 하기 나름……\0
+	Line 2: \0
+
+Entry 1106: 42372	42386	-1	1	0	
+	Line 0: 고귀한 자는 향상도 빠른 법이지\0
+	Line 1: 목숨을 걸고 얻은 힘이야……\0
+	Line 2: \0
+
+Entry 1107: 42399	42413	-1	1	0	
+	Line 0: 흐~음, 몸에 배고 나서야 아는 것도 있구나\0
+	Line 1: 재주는 많을수록 좋죠\0
+	Line 2: \0
+
+Entry 1108: 42426	42440	-1	1	0	
+	Line 0: 이 힘으로 난 더 높은 곳을 노리겠어!\0
+	Line 1: 이 힘으로 난 미래를 개척한다!\0
+	Line 2: \0
+
+Entry 1109: 42453	42467	-1	1	0	
+	Line 0: 오오, 완전히 이해했어요, 이거!\0
+	Line 1: 완전히 제 것이 된 것 같아요\0
+	Line 2: \0
+
+Entry 1110: 42480	42494	-1	1	0	
+	Line 0: 제대로 제 걸로 만든 느낌이 들어요\0
+	Line 1: 제대로 제 걸로 만든 느낌이 들어요\0
+	Line 2: \0
+
+Entry 1111: 42507	42521	-1	1	0	
+	Line 0: 참뜻, 터득하다, 입니다.\0
+	Line 1: 참뜻, 터득하다, 입니다\0
+	Line 2: \0
+
+Entry 1112: 42534	42548	-1	1	0	
+	Line 0: 터득했다\0
+	Line 1: 훌륭한 성과군\0
+	Line 2: \0
+
+Entry 1113: 42561	42575	-1	1	0	
+	Line 0: 이 정도로 숙련됐으면 충분한가\0
+	Line 1: 이 정도로 파고들었으면 충분해\0
+	Line 2: \0
+
+Entry 1114: 42588	42602	-1	1	0	
+	Line 0: 더 이상은 발전 가능성이 없으려나\0
+	Line 1: 완전히 제 것이 됐어요!\0
+	Line 2: \0
+
+Entry 1115: 42615	42629	-1	1	0	
+	Line 0: 어때요, 완벽하죠?\0
+	Line 1: 이 힘…… 확실히 쓸모있게 써야죠\0
+	Line 2: \0
+
+Entry 1116: 42642	42656	-1	1	0	
+	Line 0: 이걸로 완벽하네~\0
+	Line 1: 역시 이제 충분하지~?\0
+	Line 2: \0
+
+Entry 1117: 42669	42683	-1	1	0	
+	Line 0: 이걸로 이제 완벽해\0
+	Line 1: 노력한 보람이 있었어!\0
+	Line 2: \0
+
+Entry 1118: 42696	42710	-1	1	0	
+	Line 0: 이만큼 익숙해졌으면 충분하겠죠\0
+	Line 1: 노력한 보람이 있군요\0
+	Line 2: \0
+
+Entry 1119: 42723	42737	-1	1	0	
+	Line 0: 완전히 내 것이 됐어\0
+	Line 1: 이걸로 내 활약은 약속된 것이지\0
+	Line 2: \0
+
+Entry 1120: 42750	42764	-1	1	0	
+	Line 0: 몸으로 익혔으니까 이제 됐어!\0
+	Line 1: 이건 이제 충분하지 않아?\0
+	Line 2: \0
+
+Entry 1121: 42777	42791	-1	1	0	
+	Line 0: 이 정도로 했으면 불평할 여지가 없겠죠!\0
+	Line 1: 완전히 터득한 것 같아요!\0
+	Line 2: \0
+
+Entry 1122: 42804	42818	-1	1	0	
+	Line 0: 응, 완전히 소화했어요\0
+	Line 1: 이 성과를 승리로 이어가야……\0
+	Line 2: \0
+
+Entry 1123: 42831	42845	-1	1	0	
+	Line 0: 완전히 터득했어요……\0
+	Line 1: 확실하게 몸에 익힌 것 같아요……!\0
+	Line 2: \0
+
+Entry 1124: 42858	42872	-1	1	0	
+	Line 0: 또 믿음직스러워지고 말았네……\0
+	Line 1: 이 정도 했으면 충분하죠~?\0
+	Line 2: \0
+
+Entry 1125: 42885	42899	-1	1	0	
+	Line 0: 더 이상 공부할 여지가 없겠네\0
+	Line 1: 이건 다 파악했다고 해도 되겠어\0
+	Line 2: \0
+
+Entry 1126: 42913	-1	-1	1	0	
+	Line 0: 완전히 파악한 것 같다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1127: 42926	-1	-1	1	0	
+	Line 0: 이제 완전히 익혔답니다\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1128: 42945	-1	-1	1	0	
+	Line 0: 나라면 반드시 살릴 수 있네\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1129: 42960	42969	-1	1	0	
+	Line 0: 후후후, 숙련된 경지에 도달했어\0
+	Line 1: 전장에서 쓸모 있는 것만 익혀 둘게\0
+	Line 2: \0
+
+Entry 1130: 42980	-1	-1	1	0	
+	Line 0: 이 정도로 숙련됐으면 충분한가\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1131: 42995	-1	-1	1	0	
+	Line 0: 핫핫하, 이걸로 완벽하겠지!\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1132: 43012	-1	-1	1	0	
+	Line 0: 이 힘을 살려 봐야지\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1133: 43028	-1	-1	1	0	
+	Line 0: 드디어 내 것이 됐군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1134: 43044	43058	-1	1	0	
+	Line 0: 이제 전혀 문제없을 거예요\0
+	Line 1: 이거라면 이제 문제없이 쓸 수 있어요\0
+	Line 2: \0
+
+Entry 1135: 43071	-1	-1	1	0	
+	Line 0: 좋~아, 이런 거지\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1136: 43084	-1	-1	1	0	
+	Line 0: 이건 이미 충분하겠지요\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1137: 43097	-1	-1	1	0	
+	Line 0: 새로운 기술을 만나다니 감개무량하군\0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1138: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1139: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1140: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1141: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1142: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1143: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1144: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1145: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1146: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1147: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1148: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1149: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1150: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1151: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1152: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1153: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1154: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1155: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1156: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1157: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1158: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1159: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1160: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1161: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1162: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1163: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1164: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1165: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1166: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1167: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1168: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1169: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1170: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1171: -1	-1	-1	1	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1172: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1173: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1174: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1175: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1176: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1177: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1178: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1179: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1180: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1181: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1182: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1183: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1184: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1185: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1186: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1187: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1188: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1189: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1190: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1191: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1192: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1193: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1194: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1195: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1196: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1197: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1198: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
+Entry 1199: -1	-1	-1	0	0	
+	Line 0: \0
+	Line 1: \0
+	Line 2: \0
+
