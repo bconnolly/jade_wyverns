@@ -1,27 +1,38 @@
-#Scene Hex converter
-#This script takes a csv for an individual and converts columns C-F into a hex format
-#The difference between this one and the HexConverter2 script is that this one contains no spaces between the blocks of hex.
+'''
+Dialogue Box Hex Generator
+By: Lilypad33
 
-#THIS SCRIPT REQUIRES THE "CharacterIDs - Sheet1.csv"
-#TO BE LOCATED IN THE SAME FOLDER AS THE SCRIPT
+This script generates the hex blocks for a dialogue box for an event bin file using the contents of a filled-out csv template.
 
-#This script will only work for .csv files. xlsx or any other type of spreadsheet
-#file will not work so be sure to convert it to a csv before attempting
-#to use the script
+This script was created for use with the Jade Wyverns cutscene spreadsheet template.
 
-#hex format for text file
-#03 00 00 00 04 00 00 00 10 00 00 00 FF FF FF FF
-#01 00 00 00 FF FF FF FF 01 00 00 00 00 00 00 00
-#00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+Dependencies:
+- A filled out cutscene csv file using the Jade Wyverns cutscene spreadsheet template
+- "CharacterIDs - Sheet1.csv"
+    This file contains, in key/value pairs, the IDs for each character in the game. This script looks to that file for the IDs, 
+    so it is a required file. DO NOT MOVE IT FROM THE SAME FOLDER AS THE SCRIPT.
 
-#03 00 00 00 - Script Function
-#04 00 00 00 - Character for text
-#10 00 00 00 - Which text line to use
-#FF FF FF FF - Characters Animation/Physical Gesture
-#01 00 00 00 - Portrait Expression
-#FF FF FF FF - Voice line (always going to be this)
-#01 00 00 00 - Unknown, but always like this for text box stuff
-#00 00 00 00 - then 5 of these
+    When you want to add a character to the game, and utilize this script, you must find their associated ID value in the csv file,
+    and replace the value in Column A.
+
+    This will not change what appears in the hex editor. In order for the correct names to appear in the hex editor, you will need to change
+    the associated character in the enumCharacter enum in the "Three_House_Binary_Templates\Event-Related\include\event_script_enums.bt" file.
+
+
+Returns:
+- A text file containing all the hex for the dialogue boxes in the cutscene.
+    In order to add it to the event bin file:
+        1. Open the generated text file
+        2. CTRL-A and CTRL-C to select all and copy.
+        3. Open the event bin file in a hex editor.
+        4. Delete all the old hex from below the New Scene hex block.
+        5. Ensure your computer is in insert mode (Insert button on keyboard)
+        6. Paste from Hex Text, which is CTRL-SHIFT-V. It is recommended that the command is hotkeyed.
+
+Future updates:
+- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
+
+'''
 
 
 import csv
