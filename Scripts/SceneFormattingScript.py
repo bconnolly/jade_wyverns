@@ -14,10 +14,8 @@ def generateExtractedCSVList(csvFile):
         outside of this function.
     
     '''
-    
-    #I think this can start at -1 and change the variable to LineNo, to maintain
-    #consistency with my other script.
-    lineCount = -1
+
+    lineNo = -1
     linesToAdd = []
     innerCount = 0
     charLine = ""
@@ -30,26 +28,22 @@ def generateExtractedCSVList(csvFile):
 
         if (innerCount + 1) % 3 == 0:
 
-            #have lineCount be incremented here?
-            lineCount += 1
-            textFileLine = [f'Line {lineCount}: ', charLine]
+            #have lineNo be incremented here?
+            lineNo += 1
+            textFileLine = [f'Line {lineNo}: ', charLine]
             linesToAdd.append(textFileLine)
             
             charLine = ""
 
-        #do I even need this anymore?    
-        else:
-            charLine += '\0'  # Add delimiter for data within a set of three rows
-
         innerCount += 1
 
     if charLine:
-        textFileLine = [f'Line {lineCount}: ', charLine]
+        textFileLine = [f'Line {lineNo}: ', charLine]
         linesToAdd.append(textFileLine)
 
     #I think it needs to decrement one since it counts a second one sometimes?
-    #lineCount -= 1
-    linesToAdd.insert(0, ['EventText', str(secondNumber), str(lineCount)])
+    #lineNo -= 1
+    linesToAdd.insert(0, ['EventText', str(secondNumber), str(lineNo)])
 
     return linesToAdd
 
@@ -57,9 +51,10 @@ def generateExtractedCSVList(csvFile):
 
 fileName = input("Please put the filepath with .csv at the end: ")
 
-# Extracts the filename
+# Extracts the name of the file, minus the file type
 fileNameExtracted = fileName[:-4]
 
+#note for the future: should I make this a global variable?
 secondNumber = int(input("Input the 1st Header number: "))
 
 DIALOG_COLUMN = 10
@@ -72,6 +67,7 @@ with open(fileName, 'r') as fileIn, open(f'{fileNameExtracted}TextFormatted.txt'
 
     textToWrite = generateExtractedCSVList(csvContent)
 
+    # Write the contents of the list generated above into a text file
     for item in textToWrite:
         formattedString = '\t'.join(item) + '\n'
         fileOut.write(formattedString)
