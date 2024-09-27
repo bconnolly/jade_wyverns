@@ -1,17 +1,37 @@
+'''
+SceneFormattingScript.py
+By: Lilypad33
+
+This script generates a formatted text file that can be used with the Triabolical edtior to create
+the text bin file for a cutscene.
+
+This script was created for use with the Jade Wyverns cutscene spreadsheet template.
+
+Returns:
+- A formatted text file
+
+Future updates:
+- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
+
+'''
+
+
 import csv
 
 def generateExtractedCSVList(csvFile):
     '''
-    This function takes the contents of a csv file, performs some manipulation, and returns a formatted list.
+    This function takes the contents of a csv file, performs some manipulation, and returns a formatted list of strings.
 
-    Parameters
+    For each dialogue box in a cutscene, it formats a string that contains the line number (lineNo) and the aggregation (DIALOG_COLUMN) from the csv file.
+    The result is appended to a list which is the output of this function.
+
+    Args:
     - csvFile : _reader
         The contents of the csv file to be read
 
-    Output
+    Returns:
     - linesToAdd : list
-        The elements of this list equate to rows on a text file. The writing to the txt file is done at a later stage
-        outside of this function.
+        A list of the strings generated. Each string equates to a row in the text file, which is done outside of the function.
     
     '''
 
@@ -26,9 +46,9 @@ def generateExtractedCSVList(csvFile):
         # Accumulate data for every three rows
         charLine += cell_value
 
+        # Because a dialogue box in the template is 3 rows, we need to jump to every 3rd row
         if (innerCount + 1) % 3 == 0:
 
-            #have lineNo be incremented here?
             lineNo += 1
             textFileLine = [f'Line {lineNo}: ', charLine]
             linesToAdd.append(textFileLine)
@@ -37,12 +57,6 @@ def generateExtractedCSVList(csvFile):
 
         innerCount += 1
 
-    if charLine:
-        textFileLine = [f'Line {lineNo}: ', charLine]
-        linesToAdd.append(textFileLine)
-
-    #I think it needs to decrement one since it counts a second one sometimes?
-    #lineNo -= 1
     linesToAdd.insert(0, ['EventText', str(secondNumber), str(lineNo)])
 
     return linesToAdd
