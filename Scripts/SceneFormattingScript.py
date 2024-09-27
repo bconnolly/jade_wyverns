@@ -1,23 +1,19 @@
 import csv
 
-fileName = input("Please put the filepath with .csv at the end: ")
+def generateExtractedCSVList(csvFile):
+    '''
+    This function takes the contents of a csv file, performs some manipulation, and returns a formatted list.
 
-# Extracts the filename
-fileNameExtracted = fileName[:-4]
+    Parameters
+    - csvFile : _reader
+        The contents of the csv file to be read
 
-
-secondNumber = int(input("Input the 1st Header number: "))
-
-
-
-DIALOG_COLUMN = 10
-
-
-#compare this to the javascript version. I think this script can be improved.
-#also, make the changes in this repo, so phoebe and Hues and receive this version.
-
-# Generates the first line and adds it to the front of the list of lists
-def generateExtractedCSVArray(csvFile):
+    Output
+    - linesToAdd : list
+        The elements of this list equate to rows on a text file. The writing to the txt file is done at a later stage
+        outside of this function.
+    
+    '''
     
     #I think this can start at -1 and change the variable to LineNo, to maintain
     #consistency with my other script.
@@ -57,13 +53,24 @@ def generateExtractedCSVArray(csvFile):
 
     return linesToAdd
 
+###################################### START OF MAIN ###############################################
+
+fileName = input("Please put the filepath with .csv at the end: ")
+
+# Extracts the filename
+fileNameExtracted = fileName[:-4]
+
+secondNumber = int(input("Input the 1st Header number: "))
+
+DIALOG_COLUMN = 10
+
 
 # Opens the file and generates a new text file with the same name as the csv
 with open(fileName, 'r') as fileIn, open(f'{fileNameExtracted}TextFormatted.txt', 'w') as fileOut:
     csvContent = csv.reader(fileIn, delimiter=',')
     next(csvContent)  # Skip the header
 
-    textToWrite = generateExtractedCSVArray(csvContent)
+    textToWrite = generateExtractedCSVList(csvContent)
 
     for item in textToWrite:
         formattedString = '\t'.join(item) + '\n'
