@@ -7,6 +7,9 @@ the text bin file for a cutscene.
 
 This script was created for use with the Jade Wyverns cutscene spreadsheet template.
 
+Dependencies:
+- A filled out cutscene using the Jade Wyverns cutscene spreadsheet template
+
 Returns:
 - A formatted text file
 
