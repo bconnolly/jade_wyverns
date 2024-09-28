@@ -1,27 +1,44 @@
+'''
+SceneFormattingScript.py
+By: Lilypad33
+
+This script generates a formatted text file that can be used with the Triabolical edtior to create
+the text bin file for a cutscene.
+
+This script was created for use with the Jade Wyverns cutscene spreadsheet template.
+
+Dependencies:
+- A filled out cutscene using the Jade Wyverns cutscene spreadsheet template
+
+Returns:
+- A formatted text file
+
+Future updates:
+- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
+
+'''
+
+
 import csv
 
-fileName = input("Please put the filepath with .csv at the end: ")
+def generateExtractedCSVList(csvFile):
+    '''
+    This function takes the contents of a csv file, performs some manipulation, and returns a formatted list of strings.
 
-# Extracts the filename
-fileNameExtracted = fileName[:-4]
+    For each dialogue box in a cutscene, it formats a string that contains the line number (lineNo) and the aggregation (DIALOG_COLUMN) from the csv file.
+    The result is appended to a list which is the output of this function.
 
+    Args:
+    - csvFile : _reader
+        The contents of the csv file to be read
 
-secondNumber = int(input("Input the 1st Header number: "))
-
-
-
-DIALOG_COLUMN = 10
-
-
-#compare this to the javascript version. I think this script can be improved.
-#also, make the changes in this repo, so phoebe and Hues and receive this version.
-
-# Generates the first line and adds it to the front of the list of lists
-def generateExtractedCSVArray(csvFile):
+    Returns:
+    - linesToAdd : list
+        A list of the strings generated. Each string equates to a row in the text file, which is done outside of the function.
     
-    #I think this can start at -1 and change the variable to LineNo, to maintain
-    #consistency with my other script.
-    lineCount = -1
+    '''
+
+    lineNo = -1
     linesToAdd = []
     innerCount = 0
     charLine = ""
@@ -32,30 +49,32 @@ def generateExtractedCSVArray(csvFile):
         # Accumulate data for every three rows
         charLine += cell_value
 
+        # Because a dialogue box in the template is 3 rows, we need to jump to every 3rd row
         if (innerCount + 1) % 3 == 0:
 
-            #have lineCount be incremented here?
-            lineCount += 1
-            textFileLine = [f'Line {lineCount}: ', charLine]
+            lineNo += 1
+            textFileLine = [f'Line {lineNo}: ', charLine]
             linesToAdd.append(textFileLine)
             
             charLine = ""
 
-        #do I even need this anymore?    
-        else:
-            charLine += '\0'  # Add delimiter for data within a set of three rows
-
         innerCount += 1
 
-    if charLine:
-        textFileLine = [f'Line {lineCount}: ', charLine]
-        linesToAdd.append(textFileLine)
-
-    #I think it needs to decrement one since it counts a second one sometimes?
-    #lineCount -= 1
-    linesToAdd.insert(0, ['EventText', str(secondNumber), str(lineCount)])
+    linesToAdd.insert(0, ['EventText', str(secondNumber), str(lineNo)])
 
     return linesToAdd
+
+###################################### START OF MAIN ###############################################
+
+fileName = input("Please put the filepath with .csv at the end: ")
+
+# Extracts the name of the file, minus the file type
+fileNameExtracted = fileName[:-4]
+
+#note for the future: should I make this a global variable?
+secondNumber = int(input("Input the 1st Header number: "))
+
+DIALOG_COLUMN = 10
 
 
 # Opens the file and generates a new text file with the same name as the csv
@@ -63,8 +82,9 @@ with open(fileName, 'r') as fileIn, open(f'{fileNameExtracted}TextFormatted.txt'
     csvContent = csv.reader(fileIn, delimiter=',')
     next(csvContent)  # Skip the header
 
-    textToWrite = generateExtractedCSVArray(csvContent)
+    textToWrite = generateExtractedCSVList(csvContent)
 
+    # Write the contents of the list generated above into a text file
     for item in textToWrite:
         formattedString = '\t'.join(item) + '\n'
         fileOut.write(formattedString)
