@@ -81,9 +81,6 @@ def safe_str_to_int(value_str):
             return None
 
 
-#searches the local directory for a CSV with a matching file name
-#reads the csv and converts its contents into a dictionary
-#returns a filled dictionary
 def csvToDict(fileName):
     '''
     Converts the contents of a csv file to a dictionary.
