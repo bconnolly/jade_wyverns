@@ -63,13 +63,11 @@ ACTION_COL = 4
 EMOTION_COL = 5
 
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#csv to dictionary. used for the character file
-#converts them to a data structure that will be used here
-#REQUIRES THE FILE TO BE IN THE SAME FOLDER AS THE SCRIPT
-
-#because of a single value being weird, I need this function
 def safe_str_to_int(value_str):
+    '''
+    Because a single value in the Character IDs csv file being unusual, this function needs to exist
+    
+    '''
     try:
         # Attempt to convert as a decimal integer
         return int(value_str)
@@ -87,7 +85,18 @@ def safe_str_to_int(value_str):
 #reads the csv and converts its contents into a dictionary
 #returns a filled dictionary
 def csvToDict(fileName):
+    '''
+    Converts the contents of a csv file to a dictionary.
 
+    Args:
+    - filename : str
+        The name of the csv file.
+
+    Returns:
+    - datamap : dict
+        A dictionary containing in key/value pairs the contents of columns A (key) and B (value)
+    
+    '''
 
     current_directory = os.path.dirname(os.path.abspath(__file__))
 
@@ -116,11 +125,20 @@ def csvToDict(fileName):
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Hex Value Functions
 
-
-    
-
-#converts a new hex number to a text format
 def convertHexToFormat(hexNumber):
+    '''
+    Takes a number, converts it to a hexadecimal format, and returns the number as a string in
+    the required format.
+
+    Args:
+    - hexNumber
+        The number, in decimal format, to be converted.
+    
+    Returns:
+    - hex_formatted : str
+        The converted number as a string
+    
+    '''
 
     
     hex_str = format(int(hexNumber), '08X')
@@ -131,13 +149,25 @@ def convertHexToFormat(hexNumber):
 
     return hex_formatted
 
-#Uses regular expressions to find a number from the value parameter
-#as the template we use uses a dropdown for emotion (ex: Sad = 3)
-#This function extracts that number and uses convertHexToFormat
-#to return the formatted hex value
-#while the values for Action should all be numerical, the action
-#values are sent through here just in case
+
 def stringValueToHex(value):
+    '''
+    This function takes a number, looks in the cell of a csv to extract a number that matches the regex pattern,
+    and returns a string.
+
+    If it doesn't find a match, hex_formatted returns as "00 00 00 00".
+    If the value is -1, it returns "FF FF FF FF".
+    Otherwise, it uses convertHexToFormat to convert the number to hexadecimal format and returns the formatted string.
+
+    Args:
+    - value : any
+        The cell of a csv that is to be looked at.
+
+    Returns:
+    - hex_formatted : str
+        A string formatted in the appropriate format.
+
+    '''
     value = str(value)
 
     #pattern searches for an optional "-" character (for -1 actions) and a digit
@@ -150,15 +180,35 @@ def stringValueToHex(value):
         else:  
             hex_formatted = convertHexToFormat(number)  
     else:
+        # at some point I need to set this to the default "00 00 00 00" value
         hex_formatted = "00 00 00 00"
 
     return hex_formatted
 
 
-#Takes a key and searches for its corresponding value in a specified dictionary
 def retrieveHexValue(retrievingValue, dictionaryValue):
+    '''
+    This is used for retrieving the character IDs from a cutscene. It takes a dictionary,
+    and uses the retrievingValue parameter (the character) to search for its corresponding
+    ID value. It then uses convertHexToFormat to convert and format the number in a
+    hexidecimal format.
 
-    returningKey = 0;
+
+    Parameters:
+    - retrievingValue : any
+        The key to search for
+    - dictionaryValue : any
+        The dictionary that is being searched
+
+    Returns:
+    - returningValue : str
+        Using convertHexToFormat, it takes the value associated with the value from dictionaryValue 
+        and converts it to the correct format.
+    
+    
+    '''
+
+    returningKey = 0
     isSuccessfull = False
 
     for key in dictionaryValue:
@@ -187,6 +237,21 @@ def retrieveHexValue(retrievingValue, dictionaryValue):
 #returns an array of values where each line is a converted hex line or spaces
 #for separation purposes
 def generateTextBox(csvFile):
+    '''
+    The main function for generating each dialogue box. It generates the 3 lines for each dialogue box before being added to
+    a list. 
+
+    Parameters:
+    - csvFile
+        The contents of the cutscene spreadsheet.
+
+    Returns:
+    - linesToAdd : list
+        A list of the strings generated. Each string equates to a row in the text file, which is done outside of the function.
+    
+    
+    
+    '''
 
     innerCount = 0
 
@@ -247,11 +312,7 @@ def generateTextBox(csvFile):
     return linesToAdd
 
 
-#END OF FUNCTIONS
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#START OF MAIN
+################################### START OF MAIN ######################################################
 
 #generates the dictionaries
 characterDict = csvToDict(characterFileName)
