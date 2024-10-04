@@ -265,11 +265,11 @@ Imperial_General_156_3 ,263
 Imperial_General_156_4 ,264
 Imperial_General_156_5 ,265
 Imperial_General_156_6 ,266
-Kingdom_General_157 ,267
-Kingdom_General_157_1 ,268
-Kingdom_General_157_2 ,269
-Kingdom_General_157_3 ,270
-Kingdom_General_157_4 ,271
+Alcman ,267
+Sappho ,268
+Anacreon ,269
+Stesichorus ,270
+Ibycus ,271
 Kingdom_General_157_5 ,272
 Kingdom_General_157_6 ,273
 Alliance_General_153_1 ,274
@@ -1055,8 +1055,8 @@ Scholar_328_9 ,1053
 Girl_378_4 ,1054
 Byleth_0_113 ,1055
 Byleth_0_114 ,1056
-Byleth_0_115 ,1057
-Byleth_0_116 ,1058
+Verena_Pre ,1057
+Brandr_Pre ,1058
 Sophia_Pre ,1199
 Zithelo_Pre ,1200
 No_Character , 0xFFFFFFFF
