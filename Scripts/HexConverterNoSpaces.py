@@ -312,8 +312,7 @@ def generateTextBox(csvFile):
 
 ################################### START OF MAIN ######################################################
 
-#generates the dictionaries
-
+# Generates the dictionary for the character IDs
 try:
     characterDict = csvToDict(characterFileName)
 except FileNotFoundError:
@@ -326,6 +325,11 @@ except FileNotFoundError:
 
 sceneFileName = input("Please put the full filepath with .csv at the end: ")
 fileNameExtracted = sceneFileName[:-4]
+
+# Stops the script and drops and error if the cutscene csv file does not exist, such as situations where there is a typo in the input.
+if not os.path.exists(sceneFileName):
+    print("Error: {} does not exist. Please check the file path and try again.".format(sceneFileName))
+    sys.exit()
 
 
 with open(sceneFileName, 'r') as fileIn, open(f'{fileNameExtracted}HexValues.txt', 'w') as fileOut:
