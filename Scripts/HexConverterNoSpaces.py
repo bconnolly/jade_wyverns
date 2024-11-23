@@ -38,6 +38,7 @@ Future updates:
 import csv
 import os
 import re
+import sys
 
 #if these change at all, the script can be edited in a later version
 #ScriptFunction
@@ -101,7 +102,7 @@ def csvToDict(fileName):
 
     dataMap = {}
     
-
+    
     with open(csv_file_path, 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
         
@@ -312,7 +313,15 @@ def generateTextBox(csvFile):
 ################################### START OF MAIN ######################################################
 
 #generates the dictionaries
-characterDict = csvToDict(characterFileName)
+
+try:
+    characterDict = csvToDict(characterFileName)
+except FileNotFoundError:
+    print("Error: {} was not found.".format(characterFileName))
+    print("{} is needed to match the names of the characters with their associated IDs.".format(characterFileName))
+    print("If the file has been renamed, please ensure it matches the name inside the quotation marks '{}'.".format(characterFileName))
+    print("If the file has been deleted, it can be found in the github page for this script.")
+    sys.exit()
 
 
 sceneFileName = input("Please put the full filepath with .csv at the end: ")
