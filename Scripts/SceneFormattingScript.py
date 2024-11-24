@@ -20,6 +20,8 @@ Future updates:
 
 
 import csv
+import os
+import sys
 
 def generateExtractedCSVList(csvFile):
     '''
@@ -67,6 +69,11 @@ def generateExtractedCSVList(csvFile):
 ###################################### START OF MAIN ###############################################
 
 fileName = input("Please put the filepath with .csv at the end: ")
+
+if not os.path.exists(fileName):
+    print("Error: {} does not exist. Please check the file path and try again.".format(fileName))
+    sys.exit()
+
 
 # Extracts the name of the file, minus the file type
 fileNameExtracted = fileName[:-4]
