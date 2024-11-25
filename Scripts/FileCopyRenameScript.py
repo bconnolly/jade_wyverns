@@ -33,15 +33,15 @@ for filename in os.listdir(sourceDir):
     except IndexError:
             newFileName = f"{filenameSplit[0]}"
 
-    fullSourceDir = f"{sourceDir}/{filename}"
+    fullSourcePath = f"{sourceDir}/{filename}"
 
     # Creates the new filepath with the destination directory and the newFileName
     new_path = f"{destDir}/{newFileName}"
 
     # Copies the file from the source directory to the destination
-    shutil.copy(fullSourceDir, new_path)
+    shutil.copy(fullSourcePath, new_path)
 
-    print(f"Copied {fullSourceDir} to {new_path}")
+    print(f"Copied {fullSourcePath} to {new_path}")
 
     fileCount += 1
 
