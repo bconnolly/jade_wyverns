@@ -13,9 +13,6 @@ Dependencies:
 Returns:
 - A formatted text file
 
-Future updates:
-- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
-
 '''
 
 
