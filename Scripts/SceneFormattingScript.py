@@ -46,16 +46,18 @@ def generateExtractedCSVList(csvFile):
     charLine = ""
 
     for index, row in enumerate(csvFile):
-        cell_value = row[DIALOG_COLUMN]
+        # cell_value = row[DIALOG_COLUMN]
 
-        # Accumulate data for every three rows
-        charLine += cell_value
+        # # Accumulate data for every three rows
+        # charLine += cell_value
 
         # Because a dialogue box in the template is 3 rows, we need to jump to every 3rd row
-        if (innerCount + 1) % 3 == 0:
+        if (innerCount) % 3 == 0:
+
+            cell_value = row[DIALOG_COLUMN]
 
             lineNo += 1
-            textFileLine = [f'Line {lineNo}: ', charLine]
+            textFileLine = [f'Line {lineNo}: ', cell_value]
             linesToAdd.append(textFileLine)
             
             charLine = ""
