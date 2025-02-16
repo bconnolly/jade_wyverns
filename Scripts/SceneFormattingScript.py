@@ -68,7 +68,11 @@ def generateExtractedCSVList(csvFile):
 
 ###################################### START OF MAIN ###############################################
 
-fileName = input("Please put the filepath with .csv at the end: ")
+# Allows for the user to pass in the file name as a parameter. Otherwise asks the user for it
+if len(sys.argv) > 1:
+    fileName = sys.argv[1]
+else:
+    fileName = input("Please put the filepath with .csv at the end: ")
 
 if not os.path.exists(fileName):
     print("Error: {} does not exist. Please check the file path and try again.".format(fileName))
