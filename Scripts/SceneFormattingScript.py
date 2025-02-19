@@ -49,7 +49,7 @@ def generateExtractedCSVList(csvFile):
             cell_value = row[DIALOG_COLUMN]
 
             # Stops running if a blank dialogue box is found.
-            if len(cell_value) == 2:
+            if len(cell_value) <= 2:
                 break
             
             lineNo += 1
@@ -65,7 +65,7 @@ def generateExtractedCSVList(csvFile):
 
 ###################################### START OF MAIN ###############################################
 
-# Allows for the user to pass in the file name as a parameter. Otherwise asks the user for it
+# Allows for the user to pass in the file name as an argument. Otherwise asks the user for it
 if len(sys.argv) > 1:
     fileName = sys.argv[1]
 else:
