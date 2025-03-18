@@ -29,8 +29,6 @@ Returns:
         5. Ensure your computer is in insert mode (Insert button on keyboard)
         6. Paste from Hex Text, which is CTRL-SHIFT-V. It is recommended that the command is hotkeyed.
 
-Future updates:
-- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
 
 '''
 
@@ -40,28 +38,32 @@ import os
 import re
 import sys
 
-#if these change at all, the script can be edited in a later version
-#ScriptFunction
+
+# ScriptFunction
 scriptFunction = "03 00 00 00 "
 
-#VoiceLine
+# VoiceLine
 voiceLine = "FF FF FF FF"
 
-#last line is this *4, also use this for last hex on line 2
+# last line is this *4, also use this for last hex on line 2
 lastLine = "00 00 00 00 "
 
-#Unknown?
+# Unknown?
 unknownHex = "01 00 00 00 "
 
 
-#FileNames
+# FileNames
 characterFileName = "CharacterIDs - Sheet1.csv"
 
 
-#column numbers
+# column numbers
 CHARACTER_COL = 2
 ACTION_COL = 4
 EMOTION_COL = 5
+
+# Used to stop the script if extra dialogue boxes exist at the end
+DIALOG_COLUMN = 10
+
 
 
 def safe_str_to_int(value_str):
@@ -264,6 +266,13 @@ def generateTextBox(csvFile):
         #any number that is divisible by 3
         if innerCount % 3 == 0:
 
+
+            dialogue_cell = row[DIALOG_COLUMN]
+
+            # Stops running if a blank dialogue box is found.
+            if len(dialogue_cell) <= 2:
+                break
+
             
             characterValue = row[CHARACTER_COL]
             characterHex = retrieveHexValue(characterValue, characterDict)
@@ -323,7 +332,12 @@ except FileNotFoundError:
     sys.exit()
 
 
-sceneFileName = input("Please put the full filepath with .csv at the end: ")
+# Allows for the user to pass in the file name as an argument. Otherwise asks the user for it
+if len(sys.argv) > 1:
+    sceneFileName = sys.argv[1]
+else:
+    sceneFileName = input("Please put the filepath with .csv at the end: ")
+
 fileNameExtracted = sceneFileName[:-4]
 
 # Stops the script and drops and error if the cutscene csv file does not exist, such as situations where there is a typo in the input.

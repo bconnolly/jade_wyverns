@@ -13,9 +13,6 @@ Dependencies:
 Returns:
 - A formatted text file
 
-Future updates:
-- Options to pass in the file path to the cutscene spreadsheet as a parameter for the script.
-
 '''
 
 
@@ -43,22 +40,22 @@ def generateExtractedCSVList(csvFile):
     lineNo = -1
     linesToAdd = []
     innerCount = 0
-    charLine = ""
 
     for index, row in enumerate(csvFile):
-        cell_value = row[DIALOG_COLUMN]
-
-        # Accumulate data for every three rows
-        charLine += cell_value
 
         # Because a dialogue box in the template is 3 rows, we need to jump to every 3rd row
-        if (innerCount + 1) % 3 == 0:
+        if (innerCount) % 3 == 0:
 
-            lineNo += 1
-            textFileLine = [f'Line {lineNo}: ', charLine]
-            linesToAdd.append(textFileLine)
+            cell_value = row[DIALOG_COLUMN]
+
+            # Stops running if a blank dialogue box is found.
+            if len(cell_value) <= 2:
+                break
             
-            charLine = ""
+            lineNo += 1
+            textFileLine = [f'Line {lineNo}: ', cell_value]
+            linesToAdd.append(textFileLine)
+
 
         innerCount += 1
 
@@ -68,7 +65,11 @@ def generateExtractedCSVList(csvFile):
 
 ###################################### START OF MAIN ###############################################
 
-fileName = input("Please put the filepath with .csv at the end: ")
+# Allows for the user to pass in the file name as an argument. Otherwise asks the user for it
+if len(sys.argv) > 1:
+    fileName = sys.argv[1]
+else:
+    fileName = input("Please put the filepath with .csv at the end: ")
 
 if not os.path.exists(fileName):
     print("Error: {} does not exist. Please check the file path and try again.".format(fileName))
