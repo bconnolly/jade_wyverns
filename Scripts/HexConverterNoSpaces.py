@@ -120,11 +120,6 @@ def csvToDict(fileName):
 
     return dataMap
 
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#Hex Value Functions
-
 def convertHexToFormat(hexNumber):
     '''
     Takes a number, converts it to a hexadecimal format, and returns the number as a string in
@@ -170,7 +165,7 @@ def stringValueToHex(value):
     '''
     value = str(value)
 
-    #pattern searches for an optional "-" character (for -1 actions) and a digit
+    # Pattern searches for an optional "-" character (for -1 actions) and a digit
     pattern = r'\-?\d+'
     match = re.search(pattern, value)  
     if match:
@@ -180,7 +175,7 @@ def stringValueToHex(value):
         else:  
             hex_formatted = convertHexToFormat(number)  
     else:
-        # at some point I need to set this to the default "00 00 00 00" value
+        # Default Value
         hex_formatted = "00 00 00 00"
 
     return hex_formatted
@@ -229,14 +224,7 @@ def retrieveHexValue(retrievingValue, dictionaryValue):
             
     return returningValue
 
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-#returns an array of values where each line is a converted hex line or spaces
-#for separation purposes
-def generateTextBox(csvFile):
+def generateTextBox(csvFile, characterDict):
     '''
     The main function for generating each dialogue box. It generates the 3 lines for each dialogue box before being added to
     a list. 
@@ -319,53 +307,53 @@ def generateTextBox(csvFile):
     return linesToAdd
 
 
-################################### START OF MAIN ######################################################
+def main():
 
-# Generates the dictionary for the character IDs
-try:
-    characterDict = csvToDict(characterFileName)
-except FileNotFoundError:
-    print("Error: {} was not found.".format(characterFileName))
-    print("{} is needed to match the names of the characters with their associated IDs.".format(characterFileName))
-    print("If the file has been renamed, please ensure it matches the name inside the quotation marks '{}'.".format(characterFileName))
-    print("If the file has been deleted, it can be found in the github page for this script.")
-    sys.exit()
-
-
-# Allows for the user to pass in the file name as an argument. Otherwise asks the user for it
-if len(sys.argv) > 1:
-    sceneFileName = sys.argv[1]
-else:
-    sceneFileName = input("Please put the filepath with .csv at the end: ")
-
-fileNameExtracted = sceneFileName[:-4]
-
-# Stops the script and drops and error if the cutscene csv file does not exist, such as situations where there is a typo in the input.
-if not os.path.exists(sceneFileName):
-    print("Error: {} does not exist. Please check the file path and try again.".format(sceneFileName))
-    sys.exit()
+    # Generates the dictionary for the character IDs
+    try:
+        characterDict = csvToDict(characterFileName)
+    except FileNotFoundError:
+        print("Error: {} was not found.".format(characterFileName))
+        print("{} is needed to match the names of the characters with their associated IDs.".format(characterFileName))
+        print("If the file has been renamed, please ensure it matches the name inside the quotation marks '{}'.".format(characterFileName))
+        print("If the file has been deleted, it can be found in the github page for this script.")
+        sys.exit()
 
 
-with open(sceneFileName, 'r') as fileIn, open(f'{fileNameExtracted}HexValues.txt', 'w') as fileOut:
-    content = csv.reader(fileIn, delimiter=',')
+    # Allows for the user to pass in the file name as an argument. Otherwise asks the user for it
+    if len(sys.argv) > 1:
+        sceneFileName = sys.argv[1]
+    else:
+        sceneFileName = input("Please put the filepath with .csv at the end: ")
 
-    #skips the header row
-    next(content)
+    fileNameExtracted = sceneFileName[:-4]
 
-    print("Starting the data transformation...")
-
-    #takes the data taken from the scene csv, and transforms the data
-    #the return value for the function is placed in newArray
-    textBox = generateTextBox(content)
-
-    #formats and adds the data in textBox to the txt file
-    for row in textBox:
-        formatted_row = ' '.join(str(item).strip() for item in row if str(item).strip())
-        fileOut.write(str(formatted_row) + "\n")
-    print(f'File with the name {fileNameExtracted}HexValues.txt created')
-    print(f'in the same folder as {sceneFileName}')
+    # Stops the script and drops and error if the cutscene csv file does not exist, such as situations where there is a typo in the input.
+    if not os.path.exists(sceneFileName):
+        print("Error: {} does not exist. Please check the file path and try again.".format(sceneFileName))
+        sys.exit()
 
 
+    with open(sceneFileName, 'r') as fileIn, open(f'{fileNameExtracted}HexValues.txt', 'w') as fileOut:
+        content = csv.reader(fileIn, delimiter=',')
 
+        #skips the header row
+        next(content)
 
-print("Script completed")
+        print("Starting the data transformation...")
+
+        #takes the data taken from the scene csv, and transforms the data
+        #the return value for the function is placed in newArray
+        textBox = generateTextBox(content, characterDict)
+
+        #formats and adds the data in textBox to the txt file
+        for row in textBox:
+            formatted_row = ' '.join(str(item).strip() for item in row if str(item).strip())
+            fileOut.write(str(formatted_row) + "\n")
+        print(f'File with the name {fileNameExtracted}HexValues.txt created')
+        print(f'in the same folder as {sceneFileName}')
+
+    print("Script completed")
+
+if __name__ == '__main__':
+    main()
