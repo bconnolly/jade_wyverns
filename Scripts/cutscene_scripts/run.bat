@@ -1,0 +1,6 @@
+@echo off
+echo Running HexConverterNoSpaces.py...
+python HexConverterNoSpaces.py
+echo Running SceneFormattingScript.py...
+python SceneFormattingScript.py
+pause
