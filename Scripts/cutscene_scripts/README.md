@@ -16,6 +16,9 @@ These scripts assist with the creation of cutscenes.
 python HexConverterNoSpaces.py
 python SceneFormattingScript.py
 ```
+⚠️ Note for macOS/Linux users reading this section:
+These commands use python, which is the default on Windows.
+On macOS/Linux, you should use python3 instead.
 
 # Setup & Running the Scripts (Linux/Mac)
 No setup or run scripts available yet. The linux and mac instructions are untested.
