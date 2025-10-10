@@ -5,6 +5,10 @@ By: Lilypad33
 This script generates the hex blocks for a dialogue box for an event bin file using the contents of a filled-out csv template.
 
 This script was created for use with the Jade Wyverns cutscene spreadsheet template.
+Default vs Spaces Mode:
+- This script has two "versions" behind a question that you will be prompted to answer.
+- Default Mode: No spaces between the dialogue box hex. Just copy and paste from the generated text file into the bin file. This is the default version. Hit enter or "n" when prompted.
+- Spaces Mode: Adds a label for the line number before each dialogue box and spaces after the dialogue box.
 
 Dependencies:
 - A filled out cutscene csv file using the Jade Wyverns cutscene spreadsheet template
@@ -16,7 +20,7 @@ Dependencies:
     and replace the value in Column A.
 
     This will not change what appears in the hex editor. In order for the correct names to appear in the hex editor, you will need to change
-    the associated character in the enumCharacter enum in the "Three_House_Binary_Templates\Event-Related\include\event_script_enums.bt" file.
+    the associated character in the enumCharacter enum in the "Three_House_Binary_Templates/Event-Related/include/event_script_enums.bt" file.
 
 
 Returns:
@@ -57,6 +61,9 @@ def hex_generator():
     # FileNames
     characterFileName = "CharacterIDs - Sheet1.csv"
 
+    # Spaces
+    use_alt_version = False
+
 
     # column numbers
     CHARACTER_COL = 2
@@ -65,6 +72,23 @@ def hex_generator():
 
     # Used to stop the script if extra dialogue boxes exist at the end
     DIALOG_COLUMN = 10
+
+
+    def request_version():
+        while True:
+            choice = input("Run alternate version? [y/N]: ").strip().lower()
+            if choice == "y":
+                print("Running in Spaces mode...")
+                return True
+            elif choice == "n" or choice == "":
+                # default is "no" if user just presses Enter
+                use_alt_version = False
+                print("Running in Default (No Spaces) mode...")
+                return False
+            else:
+                print("Please enter 'y' for yes, 'n' for no, or just press Enter for default.")
+
+
 
     def looks_like_file_path(text):
         if not text or not isinstance(text, str):
@@ -313,21 +337,24 @@ def hex_generator():
                 lineNoToHex = convertHexToFormat(lineNo)
                 
                 
-                #creating the lines
+                # creating the lines
                 line1 = [scriptFunction, characterHex, lineNoToHex, actionHex]
                 line2 = [emotionHex, voiceLine, unknownHex, lastLine]
                 line3 = [lastLine] * 4
 
-                lineNo += 1
 
+                if use_alt_version:
+                    line0 = f"Line Number: {lineNo}"
+                    completedTextBox = [[line0], line1, line2, line3, [""], [""], [""]]
+                else:
+                    completedTextBox = [line1,line2,line3]
 
-                
-                completedTextBox = [line1,line2,line3]
-
-                #Appends the text box, plus the extra blank rows, to the new array
+                # Appends the text box, plus the extra blank rows, to the new array
                 #linesToAdd.append(completedTextBox)
                 for line in completedTextBox:
                     linesToAdd.append(line)
+
+                lineNo += 1
 
 
             #increment the inner counter
@@ -349,12 +376,21 @@ def hex_generator():
 
     sceneFileName = getFilePath()
     fileNameExtracted = sceneFileName[:-4]
+    
+    use_alt_version = request_version()
 
+    # get output file name based on version
+    if use_alt_version:
+        output_file_name = f'{fileNameExtracted}HexValuesWithSpaces.txt'
+    else:
+        output_file_name = f'{fileNameExtracted}HexValues.txt'
 
-    with open(sceneFileName, 'r') as fileIn, open(f'{fileNameExtracted}HexValues.txt', 'w') as fileOut:
+    print("Output file will be:", os.path.abspath(output_file_name))
+
+    with open(sceneFileName, 'r') as fileIn, open(output_file_name, 'w') as fileOut:
         content = csv.reader(fileIn, delimiter=',')
 
-        #skips the header row
+        # skips the header row
         next(content)
 
         print("Starting the data transformation...")
@@ -367,7 +403,7 @@ def hex_generator():
         for row in textBox:
             formatted_row = ' '.join(str(item).strip() for item in row if str(item).strip())
             fileOut.write(str(formatted_row) + "\n")
-        print(f'File with the name {fileNameExtracted}HexValues.txt created')
+        print(f'Created file with the name {os.path.abspath(output_file_name)}')
         print(f'in the same folder as {sceneFileName}')
 
     print("Script completed")
