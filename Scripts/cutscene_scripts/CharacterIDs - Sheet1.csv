@@ -12,24 +12,24 @@ Avadna_10 ,10
 Sophia_11 ,11
 Dedue_12 ,12
 Vance_13 ,13
-Byleth ,14
+Byleth_14 ,14
 Shevar_15 ,15
 Rose_16 ,16
 Annette_17 ,17
 Ingrid_18 ,18
 Lorenz_19 ,19
-Teagen ,20
+Tengen_20 ,20
 Claude_21 ,21
 Lysithea_22 ,22
-Anatoly ,23
+Anatoly_23 ,23
 Hilda_24 ,24
 Brandr_25 ,25
 Seteth_26 ,26
 Flayn_27 ,27
-Fundani ,28
+Fundani_28 ,28
 Manuela_29 ,29
 Lionel_30 ,30
-Alexander ,31
+Alexander_31 ,31
 Judith_32 ,32
 Shamir_33 ,33
 Monster Shevar ,34
@@ -51,11 +51,11 @@ Jeritza_49 ,49
 Rodrigue_50 ,50
 Judith_51 ,51
 Nader_52 ,52
-Alcaeus ,53
+Alcaeus_53 ,53
 Lord_Arundel_54 ,54
 Tomas_55 ,55
-Leopold ,56
-Heidi ,57
+Leopold_56 ,56
+Heidi_57,57
 Rhea_36_1 ,58
 Byleth_0_2 ,59
 Byleth_0_3 ,60
@@ -450,9 +450,9 @@ Darrick ,448
 Thief_112_15 ,449
 Thief_112_16 ,450
 Simeon ,451
-Kingdom_General_157_10 ,452
+Simonides ,452
 Pindar ,453
-Duscur_Soldier_137_2 ,454
+Bacchylides ,454
 Duscur_Soldier_137_3 ,455
 Duscur_Soldier_137_4 ,456
 Kingdom_Soldier_101_2 ,457
@@ -1054,7 +1054,7 @@ Student_110_46 ,1052
 Scholar_328_9 ,1053
 Girl_378_4 ,1054
 Byleth_0_113 ,1055
-Byleth_0_114 ,1056
+Avadna_Pre ,1056
 Verena_Pre ,1057
 Brandr_Pre ,1058
 Sophia_Pre ,1199
